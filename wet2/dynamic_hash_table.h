@@ -49,11 +49,11 @@ template<class data_t>
 DynamicHashTable<data_t>::DynamicHashTable(int size) :  max_size(size), curr_size(0) {
     array_start_ptr = new data_t[size];
     if(!array_start_ptr){
-        throw std::bad_alloc();
+      //  throw std::bad_alloc();
     }
     graveyard = new int[size];
     if(!graveyard){
-        throw std::bad_alloc();
+    //    throw std::bad_alloc();
     }
     initializeArrays();
 }
@@ -144,7 +144,7 @@ void DynamicHashTable<data_t>::rescale(double scale) {
     int new_size = max_size*scale;
     DynamicHashTable* new_hash = new DynamicHashTable<data_t>(new_size);
     if(!new_hash){
-        throw std::bad_alloc();
+     //   throw std::bad_alloc();
     }
     for(int i = 0; i < max_size; i++) {
         if(graveyard[i] != TAKEN){
