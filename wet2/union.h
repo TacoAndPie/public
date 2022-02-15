@@ -37,7 +37,7 @@ Union<data_t>::Union(int new_size) : size(new_size) {
     // create empty array of node pointers
     array_base = new UpTreeNode<data_t>*[size];
     if(!array_base){
-        throw std::bad_alloc();
+      //  throw std::bad_alloc();
     }
     // create empty node for each array element and insert its pointer to the array
     for (int i = 0; i < size; i++){

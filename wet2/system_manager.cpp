@@ -10,16 +10,16 @@ SystemManager::SystemManager(int groups_num, int scale) {
 
     // create empty node for inserting groups to union
     UpTreeNode<Group*>* temp_node;
-    if (!temp_node){
+  //  if (!temp_node){
       //  throw std::bad_alloc();
-    }
+    //}
 
     // for each group, create new Group object and insert it to the up_tree node in union array
     ReturnValue res;
     for (int i = 0; i < num_of_groups; i++){
         Group* new_group = new Group(i, scale);
         if (!new_group){
-            throw std::bad_alloc();
+         //   throw std::bad_alloc();
         }
 
         res = groups_union.getNodeByID(i, &temp_node);
