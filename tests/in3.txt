@@ -1,0 +1,7650 @@
+Init 298 150
+AddPlayer 7679715 203 77
+AddPlayer 1627517 127 2
+AddPlayer 3202378 262 98
+AddPlayer 2877993 31 126
+AddPlayer 7489835 60 66
+AddPlayer 3031200 282 6
+AddPlayer 7679715 217 95
+AddPlayer 8647445 267 150
+AddPlayer 199474 272 67
+AddPlayer 6039156 260 77
+AddPlayer 175239 101 73
+AddPlayer 7160558 199 91
+AddPlayer 7985356 231 7
+AddPlayer 7876342 91 44
+AddPlayer 6722738 7 47
+AddPlayer 1466696 244 18
+AddPlayer 1992246 218 42
+AddPlayer 7768269 32 54
+AddPlayer -1 -1 208
+AddPlayer 9509405 163 134
+AddPlayer 5984032 254 80
+AddPlayer 7679715 133 92
+AddPlayer 5984032 198 78
+AddPlayer 2177475 212 95
+AddPlayer 3807241 28 140
+AddPlayer 7201210 238 48
+AddPlayer 5071302 12 145
+AddPlayer 8055965 239 127
+AddPlayer 9990564 218 80
+AddPlayer 2395385 3 11
+AddPlayer 7954001 124 130
+AddPlayer 1731096 156 112
+AddPlayer 1188554 146 135
+AddPlayer 1707197 269 49
+AddPlayer 9430573 381 -2
+AddPlayer 8357612 60 85
+AddPlayer 105903 149 123
+AddPlayer 360901 2 40
+AddPlayer 8130586 88 49
+AddPlayer 6695172 248 36
+AddPlayer 1264677 177 82
+AddPlayer 7182311 125 56
+AddPlayer 3636946 80 52
+AddPlayer 4653692 120 115
+AddPlayer 4025577 123 38
+AddPlayer 555240 322 -3
+AddPlayer 1091720 190 49
+AddPlayer 6647482 244 119
+AddPlayer 9300364 87 121
+AddPlayer 4044218 203 2
+AddPlayer 2739211 15 104
+AddPlayer 2979872 277 23
+AddPlayer 5405523 192 90
+AddPlayer 9937547 98 98
+AddPlayer 6217262 65 82
+AddPlayer 1220913 117 71
+AddPlayer 6154472 156 121
+AddPlayer 2550002 51 141
+AddPlayer 8055965 73 97
+AddPlayer 2210943 295 102
+AddPlayer 868712 106 97
+AddPlayer 8103031 176 64
+AddPlayer 5522810 92 40
+AddPlayer 8055965 272 63
+AddPlayer 1309263 258 64
+AddPlayer 4701863 233 29
+AddPlayer 4225864 74 47
+AddPlayer 2453487 177 78
+AddPlayer 2612272 267 141
+AddPlayer 1804867 148 107
+AddPlayer 1987868 230 111
+AddPlayer 7349849 174 142
+AddPlayer 2608415 56 9
+AddPlayer 439698 272 130
+AddPlayer 5607283 272 120
+AddPlayer 4127709 58 112
+AddPlayer 1451799 51 38
+AddPlayer 4338526 197 105
+AddPlayer 6439873 19 58
+AddPlayer 6092556 117 146
+AddPlayer 1634365 206 36
+AddPlayer 9653581 22 106
+AddPlayer 130404 242 102
+AddPlayer 1469632 291 104
+AddPlayer 2704689 6 87
+AddPlayer 9364636 282 114
+AddPlayer 8654463 62 28
+AddPlayer 9762167 238 59
+AddPlayer 492503 33 113
+AddPlayer 8656043 187 124
+AddPlayer 3389936 216 66
+AddPlayer 7659471 82 138
+AddPlayer 413069 113 88
+AddPlayer 3903666 268 73
+AddPlayer 7131124 267 130
+AddPlayer 7845788 32 101
+AddPlayer 9671857 317 -4
+AddPlayer -2 -1 191
+AddPlayer 1086853 145 19
+AddPlayer 6008350 64 102
+AddPlayer -2 -3 199
+AddPlayer 3944238 56 108
+AddPlayer 9304568 97 119
+AddPlayer 7285123 211 110
+AddPlayer 2004980 292 69
+AddPlayer 5646615 275 35
+AddPlayer 1483853 131 122
+AddPlayer 6209834 36 22
+AddPlayer 886432 290 68
+AddPlayer 2919054 196 72
+AddPlayer 3636946 153 37
+AddPlayer 7693765 265 150
+AddPlayer 7223509 99 40
+AddPlayer 4949968 149 69
+AddPlayer 252239 295 91
+AddPlayer 2048198 216 62
+AddPlayer 4699285 39 81
+AddPlayer 8093966 74 71
+AddPlayer 3509219 118 79
+AddPlayer 7131124 102 76
+AddPlayer 406271 74 38
+AddPlayer 6108823 217 11
+AddPlayer -3 -2 250
+AddPlayer 6943006 218 50
+AddPlayer 606473 133 148
+AddPlayer 5719088 274 100
+AddPlayer 5110928 113 31
+AddPlayer 4091672 38 8
+AddPlayer 7000871 244 84
+AddPlayer 9770594 268 3
+AddPlayer -2 -3 246
+AddPlayer 6633623 158 22
+AddPlayer 2928405 251 64
+AddPlayer 2142720 263 127
+AddPlayer 5286200 223 60
+AddPlayer 7654939 192 21
+AddPlayer 5186719 264 146
+AddPlayer 3270730 73 99
+AddPlayer 8408634 17 69
+AddPlayer 1495065 24 9
+AddPlayer 5935955 338 -4
+AddPlayer 1802014 74 68
+AddPlayer 616724 154 2
+AddPlayer 4045843 18 33
+AddPlayer 5906063 68 110
+AddPlayer 8309105 17 67
+AddPlayer 770934 248 101
+AddPlayer 4681727 92 125
+AddPlayer 5186719 118 77
+AddPlayer 1643183 170 118
+AddPlayer 2614403 74 102
+AddPlayer -4 -4 249
+AddPlayer 1898869 271 16
+AddPlayer 4225864 252 21
+AddPlayer 0 -4 203
+AddPlayer 2136936 275 50
+AddPlayer 6956080 261 17
+AddPlayer 7359822 173 4
+AddPlayer 4560665 227 11
+AddPlayer 5623549 267 139
+AddPlayer 5280313 18 56
+AddPlayer 745896 184 77
+AddPlayer 0 -1 207
+AddPlayer 3282455 384 -4
+AddPlayer 5080991 22 101
+AddPlayer 2771615 107 55
+AddPlayer 5425302 74 25
+AddPlayer 3400115 171 74
+AddPlayer 5726975 68 58
+AddPlayer 9876276 166 135
+AddPlayer 125828 61 79
+AddPlayer 5426729 138 125
+AddPlayer 9000489 109 48
+AddPlayer 9298395 20 105
+AddPlayer 9924413 124 78
+AddPlayer 2041062 201 88
+AddPlayer 122335 236 34
+AddPlayer 3618189 147 88
+AddPlayer 8489153 245 52
+AddPlayer 5178172 168 132
+AddPlayer 1518707 26 112
+AddPlayer 168832 56 77
+AddPlayer 3607866 247 72
+AddPlayer 2745693 127 46
+AddPlayer 4563387 24 26
+AddPlayer 8378599 41 54
+AddPlayer 247486 282 41
+AddPlayer 9043731 75 86
+AddPlayer 3393061 141 37
+AddPlayer 7911754 208 15
+AddPlayer 4474943 223 124
+AddPlayer 3818377 286 149
+AddPlayer 8060856 48 74
+AddPlayer 3359661 258 15
+AddPlayer 9806598 17 41
+AddPlayer 7582937 202 47
+AddPlayer 7173804 217 87
+AddPlayer 7882841 90 22
+AddPlayer 3691210 30 90
+AddPlayer 4146834 38 24
+AddPlayer 3699972 257 4
+AddPlayer 9593292 275 19
+AddPlayer 4500711 363 -4
+AddPlayer 5319169 388 -3
+AddPlayer 2370399 244 105
+AddPlayer 4539166 225 108
+AddPlayer 5303268 83 108
+AddPlayer 5706776 296 107
+AddPlayer 18145 72 1
+AddPlayer 7564867 108 57
+AddPlayer 7537905 85 85
+AddPlayer 10533 190 79
+AddPlayer 5183418 250 53
+AddPlayer 2059665 70 42
+AddPlayer 2914705 54 136
+AddPlayer 5384790 293 85
+AddPlayer 3278262 177 39
+AddPlayer 3331519 228 15
+AddPlayer 6961376 138 116
+AddPlayer 5041235 14 86
+AddPlayer 1054400 179 45
+AddPlayer 8590763 245 126
+AddPlayer 6538971 231 70
+AddPlayer -4 -2 194
+AddPlayer 8732582 74 131
+AddPlayer 4264297 12 92
+AddPlayer 8395001 218 92
+AddPlayer 7765803 191 111
+AddPlayer 8769486 74 9
+AddPlayer 8483566 101 15
+AddPlayer 2461691 82 133
+AddPlayer 8156091 149 51
+AddPlayer 1947092 47 77
+AddPlayer 2802829 115 66
+AddPlayer 3759733 37 105
+AddPlayer 187832 4 14
+AddPlayer 5320943 72 88
+AddPlayer 5474483 275 47
+AddPlayer 1801885 32 8
+AddPlayer 1882840 169 53
+AddPlayer 9897736 180 64
+AddPlayer 5734712 281 18
+AddPlayer 3483436 118 57
+AddPlayer 9911263 49 84
+AddPlayer 6680297 189 62
+AddPlayer 7917419 264 122
+AddPlayer 1108354 294 44
+AddPlayer 218632 34 63
+AddPlayer 2268304 76 106
+AddPlayer 7874926 196 27
+AddPlayer 3772613 75 143
+AddPlayer 1190064 21 60
+AddPlayer 8268736 115 150
+AddPlayer 8290289 255 112
+AddPlayer 3521958 246 127
+AddPlayer 1386845 313 -4
+AddPlayer 5892983 105 41
+AddPlayer 9486021 141 95
+AddPlayer 9744938 179 20
+AddPlayer 3407305 45 76
+AddPlayer 7198683 16 35
+AddPlayer 2462554 270 13
+AddPlayer 1245331 35 91
+AddPlayer 2242302 176 6
+AddPlayer 4752153 231 86
+AddPlayer 3618163 34 124
+AddPlayer 3244685 27 92
+AddPlayer 3360160 222 53
+AddPlayer 3011426 84 134
+AddPlayer 4414313 218 62
+AddPlayer 1645071 215 148
+AddPlayer 4753579 249 71
+AddPlayer 7961882 262 91
+AddPlayer -3 -3 205
+AddPlayer 10035 36 140
+AddPlayer 4028076 213 65
+AddPlayer 6736203 189 51
+AddPlayer 2981964 55 29
+AddPlayer 866950 22 35
+AddPlayer 1344149 88 134
+AddPlayer 7648483 51 102
+AddPlayer 1585105 96 131
+AddPlayer 4021241 42 89
+AddPlayer 5333319 216 25
+AddPlayer 468217 157 133
+AddPlayer 4809088 115 87
+AddPlayer 1873469 291 58
+AddPlayer 7104257 201 80
+AddPlayer 9623577 37 23
+AddPlayer 9391282 45 81
+AddPlayer 6143419 298 91
+AddPlayer 921239 251 74
+AddPlayer 7330652 262 118
+AddPlayer 162347 66 75
+AddPlayer 8204397 237 39
+AddPlayer 5641187 272 138
+AddPlayer 7582937 128 12
+AddPlayer 7735088 19 114
+AddPlayer 2381874 19 76
+AddPlayer 7952267 205 102
+AddPlayer 3431349 134 7
+AddPlayer 1960369 282 118
+AddPlayer 6226445 47 22
+AddPlayer 3607866 260 51
+AddPlayer 1991353 48 141
+AddPlayer 5657968 162 105
+AddPlayer 4413757 128 46
+AddPlayer 9868125 100 42
+AddPlayer 74025 151 43
+AddPlayer 5550202 159 31
+AddPlayer 2672349 192 145
+AddPlayer 9832065 117 102
+AddPlayer 2672349 222 5
+AddPlayer 4813557 132 52
+AddPlayer 1847027 195 119
+AddPlayer 5818761 131 77
+AddPlayer 5778932 47 31
+AddPlayer 2509628 123 91
+AddPlayer 9975479 65 56
+AddPlayer 6459335 134 14
+AddPlayer 9254897 198 55
+AddPlayer 7571954 38 22
+AddPlayer 5816402 91 22
+AddPlayer 3488792 111 59
+AddPlayer 868712 102 10
+AddPlayer 6737023 212 43
+AddPlayer 1558526 73 12
+AddPlayer 4952125 172 57
+AddPlayer 3384525 127 37
+AddPlayer 6032086 194 96
+AddPlayer 8604547 268 12
+AddPlayer 4358347 134 118
+AddPlayer 427852 240 142
+AddPlayer 6287906 8 84
+AddPlayer 4248547 261 118
+AddPlayer 1882103 120 39
+AddPlayer 3747458 284 7
+AddPlayer 7479681 247 118
+AddPlayer 1712621 1 81
+AddPlayer 3955068 19 80
+AddPlayer 7343991 219 89
+AddPlayer 3575021 59 4
+AddPlayer 4094844 282 106
+AddPlayer 9805994 180 149
+AddPlayer 6219270 259 60
+AddPlayer 9633402 92 126
+AddPlayer 4656048 162 137
+AddPlayer 1203137 126 81
+AddPlayer 7916203 126 18
+AddPlayer 1695630 95 100
+AddPlayer 6752451 146 109
+AddPlayer 2172531 128 128
+AddPlayer 1111947 94 67
+AddPlayer 7347368 157 86
+AddPlayer 3782985 30 87
+AddPlayer 7721282 269 62
+AddPlayer 5471603 381 0
+AddPlayer 6565967 103 147
+AddPlayer 4539840 66 95
+AddPlayer 1302404 11 47
+AddPlayer 5139931 294 20
+AddPlayer 1963670 118 32
+AddPlayer 5452990 143 48
+AddPlayer 9875477 64 113
+AddPlayer 163374 213 54
+AddPlayer 2302064 116 21
+AddPlayer 1914764 52 21
+AddPlayer -2 -2 159
+AddPlayer 8589665 184 139
+AddPlayer 1471046 152 86
+AddPlayer 7066671 12 145
+AddPlayer 3269126 220 131
+AddPlayer 9834714 260 41
+AddPlayer 9897931 383 -2
+AddPlayer 3817739 150 11
+AddPlayer 959259 243 140
+AddPlayer 7245446 42 82
+AddPlayer 495185 139 137
+AddPlayer 8912697 77 44
+AddPlayer 4358347 194 39
+AddPlayer 2369873 3 98
+AddPlayer 6161274 47 12
+AddPlayer 4615020 11 127
+AddPlayer 9570345 53 123
+AddPlayer 7875093 241 145
+AddPlayer 8017349 255 118
+AddPlayer 8238657 133 34
+AddPlayer 7614242 83 129
+AddPlayer 7793004 111 4
+AddPlayer 5443275 19 29
+AddPlayer 2745271 298 142
+AddPlayer 6151791 269 13
+AddPlayer 5484773 138 30
+AddPlayer 7219994 69 150
+AddPlayer 2048603 197 44
+AddPlayer 6006373 119 115
+AddPlayer 243148 196 35
+AddPlayer 1123364 35 106
+AddPlayer 2631830 69 64
+AddPlayer 5250968 91 123
+AddPlayer 9086507 140 22
+AddPlayer 3723373 180 127
+AddPlayer 4248981 60 76
+AddPlayer 4290769 296 13
+AddPlayer 3177213 282 112
+AddPlayer 2392793 287 54
+AddPlayer 2044511 58 88
+AddPlayer 9844442 173 125
+AddPlayer 1005732 135 118
+AddPlayer 9229332 133 112
+AddPlayer 8443527 244 83
+AddPlayer 3606157 108 101
+AddPlayer 3495685 133 7
+AddPlayer 4334615 8 22
+AddPlayer 6797115 197 57
+AddPlayer 3214205 83 91
+AddPlayer 8453542 245 53
+AddPlayer 1783730 70 31
+AddPlayer 8762548 195 96
+AddPlayer 9586259 35 113
+AddPlayer 8570652 5 3
+AddPlayer 4009168 191 51
+AddPlayer 2969958 221 102
+AddPlayer 8333412 142 42
+AddPlayer 3848982 199 43
+AddPlayer 7675497 170 18
+AddPlayer 7078966 297 89
+AddPlayer 8860078 206 121
+AddPlayer 1444748 17 103
+AddPlayer 5550800 199 93
+AddPlayer 7587836 138 29
+AddPlayer 1821383 23 49
+AddPlayer 8290855 72 92
+AddPlayer 5747698 298 81
+AddPlayer 5586254 174 104
+AddPlayer 9843466 196 82
+AddPlayer 1972872 163 44
+AddPlayer 0 -2 154
+AddPlayer 282854 348 -3
+AddPlayer 2225007 254 87
+AddPlayer 5253558 20 146
+AddPlayer 6009497 133 128
+AddPlayer 5753120 280 144
+AddPlayer 7782504 17 133
+AddPlayer 6845548 39 67
+AddPlayer 6445869 192 106
+AddPlayer 2370666 212 91
+AddPlayer 8330537 265 51
+AddPlayer 1244538 153 11
+AddPlayer 3294667 33 5
+AddPlayer 8497108 51 146
+AddPlayer 232077 226 123
+AddPlayer 976925 34 101
+AddPlayer 2014445 133 135
+AddPlayer 467395 136 57
+AddPlayer 1003295 142 14
+AddPlayer 1579157 67 3
+AddPlayer 8297156 186 79
+AddPlayer 9562567 162 79
+AddPlayer 1453307 202 11
+AddPlayer 4374869 20 45
+AddPlayer 6973387 44 84
+AddPlayer 8394878 214 90
+AddPlayer 7269418 165 45
+AddPlayer 4642386 209 99
+AddPlayer 3304528 290 146
+AddPlayer 5268307 124 147
+AddPlayer 9034275 153 111
+AddPlayer 9958548 296 133
+AddPlayer 2972855 194 21
+AddPlayer 3546816 93 139
+AddPlayer 8730935 130 150
+AddPlayer 2505494 98 15
+AddPlayer 8083774 12 50
+AddPlayer 3900229 174 106
+AddPlayer 8290289 283 143
+AddPlayer 4530516 243 34
+AddPlayer 5290738 252 120
+AddPlayer 1176300 43 119
+AddPlayer 2319179 289 96
+AddPlayer 3499400 80 71
+AddPlayer 2631830 175 37
+AddPlayer 7345546 205 8
+AddPlayer 1428366 195 135
+AddPlayer 0 0 171
+AddPlayer 4515591 101 90
+AddPlayer 8546845 210 97
+AddPlayer 2023382 82 78
+AddPlayer 6963141 17 39
+AddPlayer 3656026 259 47
+AddPlayer 144213 87 144
+AddPlayer 8410980 106 72
+AddPlayer 41442 243 69
+AddPlayer 4848401 215 106
+AddPlayer 5126031 293 15
+AddPlayer 6205180 159 61
+AddPlayer 257374 15 121
+AddPlayer 4028076 143 51
+AddPlayer 1471046 153 119
+AddPlayer 7724480 131 43
+AddPlayer 1835171 285 118
+AddPlayer 2486039 246 117
+AddPlayer 362220 259 54
+AddPlayer 8979003 1 74
+AddPlayer 8062729 71 13
+AddPlayer 8458321 17 119
+AddPlayer 9210081 117 109
+AddPlayer 9308567 150 37
+AddPlayer 4452018 171 63
+AddPlayer 8598967 293 97
+AddPlayer 1944246 133 83
+AddPlayer 7581338 239 7
+AddPlayer 1019812 92 5
+AddPlayer 4423613 66 10
+AddPlayer 5026827 234 136
+AddPlayer 6442088 39 146
+AddPlayer 9841176 280 114
+AddPlayer 2764783 44 112
+AddPlayer 9022853 302 0
+AddPlayer 2305046 12 21
+AddPlayer 940433 115 123
+AddPlayer 9548798 1 36
+AddPlayer 4813644 261 5
+AddPlayer 9215392 312 0
+AddPlayer 8614431 101 123
+AddPlayer 3264511 231 138
+AddPlayer 2735807 14 140
+AddPlayer 1143661 241 80
+AddPlayer 4759564 130 50
+AddPlayer 9727465 105 79
+AddPlayer 8675093 222 10
+AddPlayer 1879343 40 149
+AddPlayer 592328 103 122
+AddPlayer 1388916 242 49
+AddPlayer 9220832 80 17
+AddPlayer 6094072 125 81
+AddPlayer 8904888 297 99
+AddPlayer 1886490 9 53
+AddPlayer 8218782 121 27
+AddPlayer 1462001 206 70
+AddPlayer 8084547 294 101
+AddPlayer 9445937 35 70
+AddPlayer 5765310 105 100
+AddPlayer 5999997 199 6
+AddPlayer 7695953 180 117
+AddPlayer 4432039 64 145
+AddPlayer 6358028 52 99
+AddPlayer 8119527 146 107
+AddPlayer 3891350 125 110
+AddPlayer 3574555 71 31
+AddPlayer 4199116 285 39
+AddPlayer 1224695 291 99
+AddPlayer 7609649 340 -3
+AddPlayer 2567486 285 30
+AddPlayer 2928126 151 124
+AddPlayer 7429329 61 73
+AddPlayer 6386922 291 122
+AddPlayer 8217139 188 84
+AddPlayer 8071427 4 31
+AddPlayer 7603810 4 77
+AddPlayer 4230175 143 69
+AddPlayer 5619740 140 63
+AddPlayer 9666902 51 87
+AddPlayer 4789162 76 24
+AddPlayer 3582291 200 79
+AddPlayer 5962302 45 107
+AddPlayer 6895503 59 129
+AddPlayer 7871873 258 90
+AddPlayer 8885164 213 64
+AddPlayer 283974 19 127
+AddPlayer 6037520 162 102
+AddPlayer 6675868 83 114
+AddPlayer 7561681 113 112
+AddPlayer 3765299 110 119
+AddPlayer 6484884 66 12
+AddPlayer 5954141 204 27
+AddPlayer -3 -2 206
+AddPlayer 4441267 221 145
+AddPlayer 3294782 121 48
+AddPlayer 5593642 17 148
+AddPlayer 7759035 295 18
+AddPlayer 7574187 3 53
+AddPlayer 1804228 109 35
+AddPlayer 2348566 93 45
+AddPlayer 9837071 291 2
+AddPlayer 2024898 38 143
+AddPlayer 9766393 40 112
+AddPlayer 9219516 253 23
+AddPlayer 1391672 8 42
+AddPlayer 9267696 183 108
+AddPlayer 2408247 67 52
+AddPlayer 9884610 91 2
+AddPlayer 1465945 89 1
+AddPlayer 8466635 105 147
+AddPlayer 4520445 85 71
+AddPlayer 4466125 10 50
+AddPlayer 760971 177 130
+AddPlayer 8998402 253 86
+AddPlayer 6874169 87 83
+AddPlayer 8161355 227 2
+ChangePlayerIDScore 3488792 125
+AddPlayer 520228 217 33
+AddPlayer 3277270 93 60
+IncreasePlayerIDLevel 5452990 2
+RemovePlayer 7916203
+AddPlayer 2671776 215 118
+IncreasePlayerIDLevel 7173804 1
+IncreasePlayerIDLevel 168832 1
+ChangePlayerIDScore 580833 15
+RemovePlayer 6161274
+AddPlayer 7606186 128 29
+AddPlayer 8844486 101 45
+AddPlayer 6361869 146 61
+RemovePlayer 7845788
+ChangePlayerIDScore 4656048 11
+ChangePlayerIDScore 2505494 141
+RemovePlayer 9911263
+AddPlayer 9522557 160 119
+IncreasePlayerIDLevel 80415 2
+IncreasePlayerIDLevel 6484884 1
+RemovePlayer 5178172
+IncreasePlayerIDLevel 1302404 2
+RemovePlayer 2745271
+MergeGroups 296 90
+AddPlayer 3701193 262 97
+AddPlayer 506058 204 42
+RemovePlayer 8769486
+AddPlayer 5195203 290 78
+AddPlayer 8746153 56 92
+AddPlayer 6297078 147 8
+IncreasePlayerIDLevel 7693765 2
+AddPlayer 1565953 301 -2
+AddPlayer -4 0 204
+AddPlayer -1 -4 158
+IncreasePlayerIDLevel 9762167 3
+RemovePlayer 886432
+RemovePlayer 247486
+AddPlayer 6785421 203 77
+AddPlayer 9703949 251 63
+MergeGroups 338 315
+MergeGroups 239 86
+AddPlayer 2177475 232 79
+RemovePlayer 1695630
+IncreasePlayerIDLevel 2707209 2
+AddPlayer 9185545 186 82
+AddPlayer 7187073 160 112
+AddPlayer 8928877 171 127
+IncreasePlayerIDLevel 976925 2
+RemovePlayer 1188554
+MergeGroups 230 103
+RemovePlayer 2024898
+AddPlayer 9203955 101 106
+AddPlayer 7024097 117 150
+ChangePlayerIDScore 2462554 148
+RemovePlayer 9868125
+IncreasePlayerIDLevel 4515591 2
+RemovePlayer 1518707
+AddPlayer 4649153 82 1
+MergeGroups 224 163
+IncreasePlayerIDLevel 9832065 3
+IncreasePlayerIDLevel 3656026 3
+ChangePlayerIDScore 940433 127
+AddPlayer 742979 213 85
+IncreasePlayerIDLevel 8408634 4
+AddPlayer 5791916 215 48
+ChangePlayerIDScore 9843466 127
+IncreasePlayerIDLevel 6032086 4
+RemovePlayer 7759035
+AddPlayer 7827535 148 83
+IncreasePlayerIDLevel 8309105 3
+IncreasePlayerIDLevel 2567486 1
+IncreasePlayerIDLevel 1804867 -3
+IncreasePlayerIDLevel 7735088 1
+IncreasePlayerIDLevel 3177213 1
+MergeGroups 107 12
+RemovePlayer 6943006
+AddPlayer 8293409 122 2
+IncreasePlayerIDLevel 8410980 4
+AddPlayer 1272414 114 89
+AddPlayer 5717886 256 38
+ChangePlayerIDScore 4044218 39
+RemovePlayer 7564867
+ChangePlayerIDScore 5268307 139
+RemovePlayer 770934
+AddPlayer 6415441 58 104
+ChangePlayerIDScore 8746153 142
+AddPlayer 4291821 129 97
+RemovePlayer 4441267
+ChangePlayerIDScore 1634365 149
+ChangePlayerIDScore 1003295 23
+AddPlayer 1901334 164 82
+AddPlayer 1006145 15 33
+AddPlayer -4 -4 199
+IncreasePlayerIDLevel 1224695 2
+MergeGroups -2 0
+MergeGroups 0 115
+RemovePlayer 1245331
+MergeGroups 29 288
+RemovePlayer 8860078
+IncreasePlayerIDLevel 6874169 4
+AddPlayer 3396464 225 103
+AddPlayer 7465148 170 32
+ChangePlayerIDScore 5726975 150
+RemovePlayer 144213
+RemovePlayer 7245446
+AddPlayer 7011834 166 65
+RemovePlayer 4949968
+RemovePlayer 1731096
+AddPlayer 2462161 292 81
+AddPlayer 5266042 266 75
+MergeGroups 114 151
+AddPlayer 2179909 154 71
+RemovePlayer 4813557
+AddPlayer 9088188 253 94
+ChangePlayerIDScore 2408247 88
+AddPlayer 8913015 124 146
+AddPlayer 3116483 345 -4
+MergeGroups 337 217
+RemovePlayer 7782504
+RemovePlayer 7329093
+MergeGroups -2 -4
+RemovePlayer 2395385
+AddPlayer 5311887 84 27
+IncreasePlayerIDLevel 5717886 3
+AddPlayer 2661002 78 76
+AddPlayer 5207503 204 49
+IncreasePlayerIDLevel 362220 1
+ChangePlayerIDScore 8130586 94
+IncreasePlayerIDLevel 8156091 3
+AddPlayer 4581103 21 31
+RemovePlayer 3817739
+AddPlayer 8988031 240 43
+RemovePlayer 8483566
+MergeGroups 96 104
+RemovePlayer 2914705
+MergeGroups 137 273
+AddPlayer 7383975 334 -2
+ChangePlayerIDScore 1176300 55
+RemovePlayer 362220
+AddPlayer 2403875 174 53
+RemovePlayer 9486021
+RemovePlayer 2408247
+RemovePlayer 5126031
+MergeGroups 258 124
+IncreasePlayerIDLevel 5425302 3
+MergeGroups 90 41
+AddPlayer 3260988 118 40
+AddPlayer 9520877 249 90
+AddPlayer 266984 187 112
+IncreasePlayerIDLevel 6006373 2
+RemovePlayer 7198089
+RemovePlayer 4094844
+ChangePlayerIDScore 5734712 33
+IncreasePlayerIDLevel 9924413 2
+RemovePlayer -1
+MergeGroups 265 169
+IncreasePlayerIDLevel 9666902 4
+MergeGroups 333 79
+AddPlayer 216432 236 132
+AddPlayer 2037674 118 145
+IncreasePlayerIDLevel 4560665 1
+AddPlayer 8801740 275 4
+IncreasePlayerIDLevel 2462161 2
+AddPlayer 9328865 13 116
+AddPlayer 4074848 224 57
+AddPlayer 2926992 256 5
+MergeGroups 285 202
+ChangePlayerIDScore 3582291 140
+AddPlayer 9429309 263 59
+RemovePlayer 8293409
+MergeGroups 370 26
+ChangePlayerIDScore 1143661 116
+IncreasePlayerIDLevel 7724480 3
+ChangePlayerIDScore 9593292 94
+ChangePlayerIDScore 2302064 99
+AddPlayer 6463702 94 139
+ChangePlayerIDScore 6845548 40
+AddPlayer 2232160 156 78
+AddPlayer 486115 240 128
+RemovePlayer -4
+RemovePlayer 4520445
+RemovePlayer 4334615
+RemovePlayer 9185545
+IncreasePlayerIDLevel 2704689 4
+IncreasePlayerIDLevel 8443527 3
+IncreasePlayerIDLevel 2302064 2
+RemovePlayer 2612272
+AddPlayer 5654476 225 145
+ChangePlayerIDScore 4563387 13
+ChangePlayerIDScore 5550202 28
+IncreasePlayerIDLevel 7571954 3
+MergeGroups 148 -2
+RemovePlayer 5303268
+RemovePlayer 9562567
+AddPlayer 9345926 5 26
+RemovePlayer 9229332
+AddPlayer -1 0 164
+MergeGroups 56 388
+MergeGroups 177 24
+AddPlayer 1929058 180 51
+IncreasePlayerIDLevel 3202378 4
+AddPlayer 8803709 63 74
+MergeGroups -4 61
+MergeGroups -1 24
+AddPlayer 2306046 164 47
+AddPlayer 9517164 139 74
+IncreasePlayerIDLevel 1585105 1
+AddPlayer 6554886 391 -4
+RemovePlayer 5734712
+RemovePlayer 6963141
+RemovePlayer 232077
+RemovePlayer 2704689
+RemovePlayer 7882841
+AddPlayer 4827097 88 30
+MergeGroups -4 -3
+RemovePlayer 4952125
+MergeGroups 215 -3
+ChangePlayerIDScore -1 192
+ChangePlayerIDScore -4 176
+IncreasePlayerIDLevel 4827097 3
+AddPlayer 5849931 274 115
+ChangePlayerIDScore 2505494 101
+IncreasePlayerIDLevel 3389936 2
+RemovePlayer 2979872
+ChangePlayerIDScore -4 234
+IncreasePlayerIDLevel 4199116 2
+ChangePlayerIDScore 3407305 2
+RemovePlayer 6538971
+RemovePlayer 7223509
+AddPlayer 2779845 160 32
+AddPlayer 5919982 70 130
+AddPlayer 709230 183 137
+RemovePlayer 7875093
+AddPlayer 0 -1 192
+AddPlayer 5626701 267 48
+IncreasePlayerIDLevel 9744938 4
+RemovePlayer 8161355
+AddPlayer 5818733 161 56
+MergeGroups 84 255
+AddPlayer 2319475 119 125
+RemovePlayer 162347
+RemovePlayer 1190064
+AddPlayer 1854515 273 145
+RemovePlayer 6219270
+AddPlayer 4339743 211 33
+RemovePlayer 1244538
+IncreasePlayerIDLevel 8218782 3
+IncreasePlayerIDLevel -2 1
+AddPlayer 6159065 149 61
+RemovePlayer 9220832
+RemovePlayer 41442
+AddPlayer 7125583 134 68
+MergeGroups 160 276
+AddPlayer 4656866 109 150
+MergeGroups 375 331
+AddPlayer 7022545 1 144
+ChangePlayerIDScore 4647267 124
+RemovePlayer 5425302
+ChangePlayerIDScore 5443275 46
+AddPlayer 6326081 57 24
+ChangePlayerIDScore 125828 137
+ChangePlayerIDScore 8844486 131
+AddPlayer 4502908 111 17
+MergeGroups 167 78
+RemovePlayer 6442088
+RemovePlayer 6633623
+AddPlayer -3 -4 202
+RemovePlayer 6737023
+MergeGroups -4 -4
+RemovePlayer 2392793
+RemovePlayer 3509219
+IncreasePlayerIDLevel 8156091 4
+ChangePlayerIDScore 5320943 103
+AddPlayer 5055181 41 122
+RemovePlayer 5593642
+MergeGroups 228 290
+MergeGroups 29 64
+RemovePlayer 8395001
+AddPlayer 2429509 272 74
+MergeGroups 84 47
+ChangePlayerIDScore 7330652 30
+AddPlayer 4211934 263 142
+AddPlayer 85262 322 0
+MergeGroups -4 50
+RemovePlayer 467395
+ChangePlayerIDScore 8604547 36
+IncreasePlayerIDLevel 3331519 1
+AddPlayer 6912677 33 136
+AddPlayer 7429525 288 142
+RemovePlayer 2928405
+AddPlayer 2718393 213 69
+RemovePlayer 3031200
+IncreasePlayerIDLevel 8062729 3
+RemovePlayer 6540183
+MergeGroups 208 393
+MergeGroups 86 126
+ChangePlayerIDScore 3656026 36
+IncreasePlayerIDLevel 2114040 2
+AddPlayer 2362278 136 78
+ChangePlayerIDScore 9034275 6
+ChangePlayerIDScore 8654463 88
+AddPlayer 2609219 114 72
+IncreasePlayerIDLevel 5426729 2
+RemovePlayer 3546816
+RemovePlayer 4146834
+RemovePlayer 606473
+IncreasePlayerIDLevel 9517164 3
+RemovePlayer 4653692
+MergeGroups 46 22
+MergeGroups 196 133
+AddPlayer 8519928 218 30
+IncreasePlayerIDLevel 7721411 2
+ChangePlayerIDScore 7201210 -2
+IncreasePlayerIDLevel 486115 4
+MergeGroups 0 145
+AddPlayer 8809825 116 42
+IncreasePlayerIDLevel 5999997 4
+AddPlayer 2879734 155 143
+AddPlayer 551058 157 61
+AddPlayer 7959815 145 11
+MergeGroups 110 247
+RemovePlayer 4423613
+AddPlayer 8046545 10 88
+AddPlayer 704470 253 88
+RemovePlayer 5984032
+AddPlayer 9342227 247 25
+AddPlayer 1327217 216 89
+RemovePlayer 5550202
+AddPlayer 3440429 37 101
+MergeGroups 221 253
+IncreasePlayerIDLevel 3264511 2
+ChangePlayerIDScore 1634365 72
+MergeGroups 119 -3
+IncreasePlayerIDLevel 2429509 2
+MergeGroups 233 136
+MergeGroups 283 61
+ChangePlayerIDScore 8408634 124
+MergeGroups 51 50
+AddPlayer 9682802 189 106
+IncreasePlayerIDLevel 2935830 2
+RemovePlayer 6736203
+MergeGroups 113 237
+MergeGroups 248 249
+RemovePlayer 8238657
+MergeGroups 337 324
+RemovePlayer 1495065
+RemovePlayer 3903666
+AddPlayer 3202378 148 127
+ChangePlayerIDScore 5607283 133
+ChangePlayerIDScore 1783730 -2
+RemovePlayer 6956080
+RemovePlayer 283974
+IncreasePlayerIDLevel 7479681 3
+RemovePlayer 3656026
+RemovePlayer 8912697
+ChangePlayerIDScore 0 196
+RemovePlayer 9876276
+RemovePlayer 4649153
+RemovePlayer 1835171
+AddPlayer 540560 194 40
+RemovePlayer 9834714
+IncreasePlayerIDLevel 2370666 2
+ChangePlayerIDScore 9522557 143
+IncreasePlayerIDLevel 187832 2
+MergeGroups 399 341
+AddPlayer 1821674 23 140
+RemovePlayer 3270730
+AddPlayer 3978824 58 101
+RemovePlayer 8801740
+RemovePlayer 8647445
+AddPlayer 7301000 270 61
+RemovePlayer 266984
+RemovePlayer 8297156
+RemovePlayer 216432
+IncreasePlayerIDLevel 1873469 3
+MergeGroups 46 277
+RemovePlayer 7182311
+AddPlayer 3022801 157 29
+RemovePlayer 4759564
+IncreasePlayerIDLevel 2661002 2
+IncreasePlayerIDLevel 3978824 3
+ChangePlayerIDScore 4291821 146
+AddPlayer 4933921 267 149
+AddPlayer 4809088 59 67
+AddPlayer 6412672 273 140
+RemovePlayer 506058
+AddPlayer 8543831 101 23
+AddPlayer 2920368 117 18
+AddPlayer 6455284 22 127
+RemovePlayer 3618189
+IncreasePlayerIDLevel 6209834 2
+AddPlayer 8017384 225 94
+RemovePlayer 5818733
+RemovePlayer 3294667
+MergeGroups -4 -1
+IncreasePlayerIDLevel 5522810 4
+RemovePlayer 5726975
+AddPlayer 7047847 183 82
+RemovePlayer 3277270
+MergeGroups 114 244
+AddPlayer 3265415 226 63
+MergeGroups 121 15
+RemovePlayer 940433
+AddPlayer -2 -2 234
+ChangePlayerIDScore 5906063 129
+ChangePlayerIDScore 1882840 81
+AddPlayer 9846097 174 62
+ChangePlayerIDScore 2567486 118
+MergeGroups 274 163
+ChangePlayerIDScore 2023382 103
+AddPlayer 9706207 3 21
+AddPlayer 2431853 265 57
+ChangePlayerIDScore 9846097 145
+AddPlayer 6302873 46 80
+ChangePlayerIDScore -1 160
+ChangePlayerIDScore 8466635 4
+MergeGroups 21 87
+RemovePlayer 6386922
+AddPlayer 89444 259 118
+ChangePlayerIDScore 2608415 72
+AddPlayer 2492433 292 91
+RemovePlayer 7065965
+RemovePlayer 5906063
+AddPlayer 7050252 4 29
+ChangePlayerIDScore 2242106 44
+ChangePlayerIDScore 2926992 86
+AddPlayer 2639929 165 103
+ChangePlayerIDScore 6565967 137
+RemovePlayer 9633402
+ChangePlayerIDScore 105903 104
+AddPlayer 2807373 262 103
+RemovePlayer 5266042
+MergeGroups 207 166
+AddPlayer 2564978 25 84
+MergeGroups 189 120
+AddPlayer 949261 269 136
+AddPlayer 5126575 233 137
+AddPlayer 7144997 233 127
+RemovePlayer 9086507
+MergeGroups 1 175
+AddPlayer 5609982 75 29
+ChangePlayerIDScore 8589665 81
+AddPlayer 1649979 290 103
+RemovePlayer 1649979
+AddPlayer 6494308 242 117
+IncreasePlayerIDLevel 5280313 3
+AddPlayer 9029419 265 141
+MergeGroups 298 199
+ChangePlayerIDScore 9843466 17
+RemovePlayer 3431349
+AddPlayer 8158805 110 106
+IncreasePlayerIDLevel 5915284 2
+AddPlayer 5329537 102 127
+IncreasePlayerIDLevel 9806598 3
+RemovePlayer 2928126
+IncreasePlayerIDLevel 1821383 -3
+AddPlayer 7883936 282 123
+AddPlayer 7825753 96 4
+IncreasePlayerIDLevel 4615020 1
+RemovePlayer 5719088
+RemovePlayer 5268307
+AddPlayer 3651255 254 10
+AddPlayer 6633906 177 96
+AddPlayer 5027234 28 91
+IncreasePlayerIDLevel 1585105 4
+RemovePlayer 5765310
+MergeGroups 210 141
+AddPlayer 5691009 19 4
+MergeGroups 35 165
+ChangePlayerIDScore 2177475 58
+ChangePlayerIDScore 362246 125
+AddPlayer 9839278 95 107
+ChangePlayerIDScore 8546845 45
+MergeGroups 95 17
+MergeGroups 269 -4
+AddPlayer 3335521 262 2
+ChangePlayerIDScore 6209834 -4
+MergeGroups 267 286
+IncreasePlayerIDLevel 5126575 2
+RemovePlayer 8489153
+MergeGroups 179 61
+IncreasePlayerIDLevel 1471046 3
+RemovePlayer 3396464
+IncreasePlayerIDLevel 7000871 2
+ChangePlayerIDScore 4338526 19
+AddPlayer 2172883 85 123
+AddPlayer 4962529 271 6
+RemovePlayer 5919982
+IncreasePlayerIDLevel 3636946 2
+AddPlayer 5636971 82 85
+RemovePlayer 8017349
+IncreasePlayerIDLevel 6455284 2
+MergeGroups 246 243
+RemovePlayer 9328865
+ChangePlayerIDScore 5654476 37
+RemovePlayer 252239
+MergeGroups 7 142
+ChangePlayerIDScore 4530516 135
+RemovePlayer 551058
+MergeGroups 254 39
+RemovePlayer 5026827
+RemovePlayer 7827535
+AddPlayer 5912996 3 66
+RemovePlayer 1790966
+ChangePlayerIDScore 8656043 5
+IncreasePlayerIDLevel 1006145 3
+MergeGroups 102 192
+ChangePlayerIDScore 4615020 7
+RemovePlayer 8325662
+IncreasePlayerIDLevel 4848401 2
+RemovePlayer 1947092
+MergeGroups 272 34
+RemovePlayer 2926992
+RemovePlayer 8046545
+AddPlayer 7953887 287 68
+RemovePlayer 4009168
+AddPlayer 4814905 207 95
+AddPlayer 6181392 250 109
+ChangePlayerIDScore 7695953 142
+ChangePlayerIDScore 2672349 138
+AddPlayer 237065 165 127
+RemovePlayer 4615020
+AddPlayer 4862984 75 135
+RemovePlayer 7347368
+RemovePlayer 7883936
+ChangePlayerIDScore 9043731 19
+IncreasePlayerIDLevel 7871873 3
+IncreasePlayerIDLevel 5636971 1
+AddPlayer 5056233 251 39
+RemovePlayer -4
+IncreasePlayerIDLevel 4753579 2
+IncreasePlayerIDLevel 5654476 1
+MergeGroups 126 32
+RemovePlayer 5999997
+RemovePlayer 6680297
+RemovePlayer 8093966
+IncreasePlayerIDLevel 2179909 4
+RemovePlayer 4563387
+ChangePlayerIDScore 486115 99
+RemovePlayer 9364636
+ChangePlayerIDScore 4681727 85
+RemovePlayer 427852
+IncreasePlayerIDLevel 9727465 3
+RemovePlayer 9517164
+RemovePlayer 4539166
+IncreasePlayerIDLevel 2023382 2
+AddPlayer 2368431 1 81
+AddPlayer 2230443 58 149
+AddPlayer 5728387 10 109
+ChangePlayerIDScore 2172883 109
+AddPlayer 5566156 201 54
+AddPlayer 69259 103 12
+AddPlayer 5064473 122 40
+AddPlayer 2679833 214 98
+ChangePlayerIDScore 5056233 10
+RemovePlayer 7735088
+ChangePlayerIDScore 896098 93
+MergeGroups -3 72
+AddPlayer 1480268 41 149
+AddPlayer 4193263 186 31
+IncreasePlayerIDLevel 2981964 4
+IncreasePlayerIDLevel 6287906 3
+RemovePlayer 5816402
+ChangePlayerIDScore 1466696 140
+AddPlayer 721097 108 7
+RemovePlayer 10035
+AddPlayer 3783045 199 15
+AddPlayer 7758465 72 14
+AddPlayer 9966602 203 113
+AddPlayer 987577 131 23
+MergeGroups 278 116
+AddPlayer 2356512 75 138
+RemovePlayer 9210081
+RemovePlayer 5623549
+RemovePlayer 3495685
+MergeGroups 233 296
+AddPlayer 1865209 224 64
+IncreasePlayerIDLevel 3582291 -1
+AddPlayer 2680643 206 39
+AddPlayer 6843796 78 16
+MergeGroups 87 263
+IncreasePlayerIDLevel 8917662 1
+AddPlayer 6180378 41 55
+ChangePlayerIDScore 1224695 119
+AddPlayer 4044421 214 6
+RemovePlayer 10533
+RemovePlayer 4681727
+RemovePlayer 7768269
+IncreasePlayerIDLevel 1987868 4
+MergeGroups 326 300
+IncreasePlayerIDLevel 3783045 3
+RemovePlayer 3168676
+AddPlayer 5173265 231 60
+AddPlayer 5693166 205 3
+AddPlayer 7825947 274 19
+AddPlayer 6866796 191 146
+MergeGroups -3 237
+AddPlayer 6365346 113 17
+AddPlayer 1668992 232 43
+MergeGroups 344 336
+RemovePlayer 2023382
+RemovePlayer 4044218
+RemovePlayer 3359661
+IncreasePlayerIDLevel 3691210 1
+AddPlayer 6267474 114 7
+RemovePlayer 6143419
+MergeGroups 200 113
+MergeGroups 390 158
+AddPlayer 457374 150 9
+ChangePlayerIDScore 5055181 29
+ChangePlayerIDScore 8589665 95
+RemovePlayer 6009497
+AddPlayer 9782919 286 130
+AddPlayer 7186944 287 39
+IncreasePlayerIDLevel 406271 3
+RemovePlayer 0
+RemovePlayer 5818761
+MergeGroups 136 66
+IncreasePlayerIDLevel 7603810 1
+AddPlayer 2829922 295 38
+ChangePlayerIDScore 9837071 150
+AddPlayer 4610207 64 88
+RemovePlayer 2368431
+ChangePlayerIDScore 2403875 -3
+AddPlayer 2951677 292 82
+RemovePlayer 2671776
+ChangePlayerIDScore 5626701 80
+IncreasePlayerIDLevel 9509405 4
+AddPlayer 1390891 179 120
+ChangePlayerIDScore 4539840 109
+RemovePlayer 7000871
+MergeGroups 394 332
+MergeGroups 208 296
+ChangePlayerIDScore 1302404 38
+AddPlayer 1071415 64 72
+IncreasePlayerIDLevel 130404 1
+ChangePlayerIDScore 8598967 36
+RemovePlayer 6445869
+ChangePlayerIDScore 1882103 74
+AddPlayer 9086538 123 129
+RemovePlayer 7961882
+RemovePlayer 2403875
+ChangePlayerIDScore 6094072 126
+MergeGroups 222 36
+AddPlayer -3 0 226
+AddPlayer 1085584 176 92
+AddPlayer 4280698 64 11
+IncreasePlayerIDLevel 1987868 3
+ChangePlayerIDScore 3582291 131
+IncreasePlayerIDLevel 4291821 3
+AddPlayer 6060119 269 88
+RemovePlayer 9300364
+AddPlayer 4012700 157 117
+IncreasePlayerIDLevel 486115 3
+AddPlayer 3461744 27 70
+AddPlayer 7387870 111 103
+AddPlayer 5092853 224 101
+MergeGroups 269 33
+AddPlayer 9239532 55 65
+MergeGroups 69 177
+AddPlayer 8722530 175 110
+IncreasePlayerIDLevel 9839278 4
+AddPlayer -4 0 188
+ChangePlayerIDScore 175239 57
+AddPlayer 6946731 156 7
+RemovePlayer 9990564
+ChangePlayerIDScore 74025 79
+MergeGroups 198 1
+RemovePlayer 3304528
+RemovePlayer 4474943
+RemovePlayer 7606186
+RemovePlayer 8357612
+IncreasePlayerIDLevel 8330537 3
+MergeGroups 305 362
+RemovePlayer 5778932
+AddPlayer 5593301 206 141
+AddPlayer 1775417 151 129
+RemovePlayer 1466696
+ChangePlayerIDScore 5290738 37
+IncreasePlayerIDLevel 6675868 3
+IncreasePlayerIDLevel 6367461 2
+IncreasePlayerIDLevel 1091720 1
+MergeGroups 135 279
+MergeGroups 146 263
+AddPlayer 4365666 86 99
+IncreasePlayerIDLevel 2718393 3
+AddPlayer 4857012 115 24
+AddPlayer 3421549 12 37
+IncreasePlayerIDLevel 5253558 4
+IncreasePlayerIDLevel 1865209 2
+AddPlayer 3263944 242 112
+ChangePlayerIDScore 3263944 105
+ChangePlayerIDScore 9522557 7
+RemovePlayer 89444
+AddPlayer 9325573 107 88
+AddPlayer 3884893 216 109
+ChangePlayerIDScore 3483436 140
+MergeGroups 53 109
+ChangePlayerIDScore 4264297 117
+RemovePlayer 2044511
+RemovePlayer 5333319
+IncreasePlayerIDLevel 8309105 4
+RemovePlayer 243148
+ChangePlayerIDScore 5286200 39
+AddPlayer 4775978 8 135
+ChangePlayerIDScore 3607866 133
+MergeGroups 205 315
+RemovePlayer 8809825
+RemovePlayer 3294782
+RemovePlayer 1327217
+AddPlayer 2187899 157 139
+AddPlayer 3171484 155 145
+RemovePlayer 4074848
+IncreasePlayerIDLevel 7219994 2
+MergeGroups 170 195
+ChangePlayerIDScore 6181392 63
+RemovePlayer 4656048
+IncreasePlayerIDLevel 2037674 3
+IncreasePlayerIDLevel 9429309 4
+AddPlayer 1929058 163 102
+AddPlayer 4800403 133 64
+RemovePlayer 8979003
+AddPlayer 4831977 265 6
+RemovePlayer 5311887
+AddPlayer 4942758 291 23
+MergeGroups 158 191
+AddPlayer 7534519 61 22
+RemovePlayer 9744938
+MergeGroups 109 154
+IncreasePlayerIDLevel 7187073 2
+MergeGroups 155 -1
+RemovePlayer 9203955
+MergeGroups -3 287
+IncreasePlayerIDLevel 2242302 3
+AddPlayer 3822268 23 125
+RemovePlayer 4800403
+MergeGroups -2 0
+ChangePlayerIDScore 7011834 9
+IncreasePlayerIDLevel 540560 1
+AddPlayer 9708441 170 53
+MergeGroups 170 191
+AddPlayer 9528757 283 140
+IncreasePlayerIDLevel 8290855 1
+AddPlayer 6803911 247 2
+IncreasePlayerIDLevel 7954001 4
+RemovePlayer 9937547
+RemovePlayer 6092556
+AddPlayer 7050252 295 119
+IncreasePlayerIDLevel 9325573 2
+IncreasePlayerIDLevel 1898869 2
+RemovePlayer 8856038
+RemovePlayer 2319475
+ChangePlayerIDScore 1006145 61
+RemovePlayer 1972872
+AddPlayer 8695317 93 70
+AddPlayer 6394978 220 22
+RemovePlayer 1960369
+IncreasePlayerIDLevel 3483436 3
+RemovePlayer 9884610
+AddPlayer 4252056 30 115
+RemovePlayer 4012700
+MergeGroups 296 -3
+AddPlayer -3 -4 206
+RemovePlayer 7201210
+MergeGroups 103 136
+IncreasePlayerIDLevel 4642386 3
+AddPlayer 4511292 270 32
+RemovePlayer 3944238
+RemovePlayer 4539840
+RemovePlayer 742979
+RemovePlayer 1071415
+AddPlayer 8974868 232 81
+AddPlayer 5240154 144 107
+MergeGroups 58 284
+RemovePlayer 4414313
+RemovePlayer 8218782
+AddPlayer 8430732 115 16
+RemovePlayer 6752451
+MergeGroups 158 232
+ChangePlayerIDScore 2920368 62
+AddPlayer 8169648 200 85
+AddPlayer 6067184 258 87
+RemovePlayer 2564978
+ChangePlayerIDScore 4701863 58
+IncreasePlayerIDLevel 2225007 4
+AddPlayer 8877526 245 99
+RemovePlayer 5619740
+IncreasePlayerIDLevel 4848401 3
+MergeGroups 106 156
+MergeGroups 15 125
+RemovePlayer 5962302
+AddPlayer 2698929 10 135
+AddPlayer 7841681 47 14
+ChangePlayerIDScore 3264511 111
+RemovePlayer 1804867
+MergeGroups -2 -4
+RemovePlayer 9766393
+RemovePlayer 1462001
+ChangePlayerIDScore 7614242 119
+ChangePlayerIDScore 5384790 68
+ChangePlayerIDScore -4 221
+AddPlayer 7272686 81 20
+RemovePlayer 7272686
+MergeGroups 70 278
+AddPlayer 7544400 31 112
+RemovePlayer 2680643
+RemovePlayer 2802829
+ChangePlayerIDScore 5027234 148
+MergeGroups 132 215
+MergeGroups 186 178
+AddPlayer 8239193 41 135
+RemovePlayer -1
+RemovePlayer -3
+IncreasePlayerIDLevel 5126575 4
+ChangePlayerIDScore 7047847 136
+RemovePlayer 2779845
+RemovePlayer 3202378
+ChangePlayerIDScore 3177213 1
+AddPlayer 9889434 248 79
+IncreasePlayerIDLevel 5286200 1
+AddPlayer 5120747 43 135
+AddPlayer 3159790 263 31
+RemovePlayer 2807373
+ChangePlayerIDScore 9239532 12
+IncreasePlayerIDLevel 8614431 2
+MergeGroups 106 244
+RemovePlayer -4
+AddPlayer 5185430 293 41
+AddPlayer 198476 294 56
+ChangePlayerIDScore 4581103 15
+AddPlayer 2133280 260 64
+IncreasePlayerIDLevel 1585105 3
+AddPlayer 5506478 273 132
+MergeGroups 0 -4
+AddPlayer 8786345 34 114
+RemovePlayer 8913015
+AddPlayer 4320503 77 134
+RemovePlayer 949261
+AddPlayer 7051384 51 34
+ChangePlayerIDScore 2225007 111
+AddPlayer 7529969 85 60
+IncreasePlayerIDLevel 4789162 1
+AddPlayer 7438065 13 45
+AddPlayer 688419 166 59
+RemovePlayer 6415441
+RemovePlayer 7144997
+RemovePlayer 9703949
+RemovePlayer 3011426
+AddPlayer 5511767 226 73
+AddPlayer 3216869 227 135
+ChangePlayerIDScore 7985356 90
+IncreasePlayerIDLevel 6494308 2
+AddPlayer 1513101 277 75
+RemovePlayer 199474
+AddPlayer 376799 39 7
+AddPlayer 9159636 162 15
+RemovePlayer 8466635
+AddPlayer 8547956 30 109
+RemovePlayer 69259
+IncreasePlayerIDLevel 9782919 2
+IncreasePlayerIDLevel 5646615 4
+RemovePlayer 7581338
+RemovePlayer 3393061
+AddPlayer 1037204 26 67
+RemovePlayer 5443275
+RemovePlayer 7345546
+RemovePlayer 5126575
+RemovePlayer -3
+ChangePlayerIDScore 4933921 21
+IncreasePlayerIDLevel 7186944 4
+RemovePlayer 3244685
+AddPlayer 7692302 137 149
+IncreasePlayerIDLevel 7330652 4
+RemovePlayer 5646615
+ChangePlayerIDScore 9429309 30
+ChangePlayerIDScore 3575021 49
+RemovePlayer 1801885
+AddPlayer 2280769 104 87
+RemovePlayer 7529969
+ChangePlayerIDScore 8169648 6
+AddPlayer 3376591 161 38
+RemovePlayer 4225864
+IncreasePlayerIDLevel 8062729 3
+RemovePlayer 3818377
+RemovePlayer 2920368
+ChangePlayerIDScore 9841176 30
+MergeGroups 139 95
+ChangePlayerIDScore 4090340 54
+IncreasePlayerIDLevel 7614242 2
+IncreasePlayerIDLevel 2462554 4
+RemovePlayer 457374
+ChangePlayerIDScore 4452018 31
+AddPlayer 3236319 292 129
+RemovePlayer 2305046
+AddPlayer 8407522 200 147
+AddPlayer 1697298 56 74
+AddPlayer 3461697 84 69
+RemovePlayer 8803709
+AddPlayer 1561831 258 110
+ChangePlayerIDScore 5511767 0
+IncreasePlayerIDLevel 3772613 1
+AddPlayer 224418 79 91
+RemovePlayer 8885164
+ChangePlayerIDScore 7022545 69
+AddPlayer 4032874 63 103
+ChangePlayerIDScore 7269418 26
+RemovePlayer 8330537
+ChangePlayerIDScore 3521958 27
+RemovePlayer 1847027
+MergeGroups 23 118
+AddPlayer 6286108 165 94
+RemovePlayer 7219994
+IncreasePlayerIDLevel 7429329 3
+AddPlayer 5563720 151 148
+RemovePlayer 3884893
+RemovePlayer 1465945
+MergeGroups -4 240
+RemovePlayer 7571954
+ChangePlayerIDScore 4511292 98
+AddPlayer 2552473 169 74
+ChangePlayerIDScore 9159636 49
+AddPlayer 9248244 80 91
+RemovePlayer 7438065
+MergeGroups 214 171
+AddPlayer 3095330 111 61
+MergeGroups 318 305
+IncreasePlayerIDLevel 8732582 3
+ChangePlayerIDScore 5586254 44
+ChangePlayerIDScore 7104257 47
+IncreasePlayerIDLevel 3177213 4
+ChangePlayerIDScore 6695172 103
+AddPlayer -2 0 243
+AddPlayer 725249 323 -1
+ChangePlayerIDScore 4466125 32
+MergeGroups 193 -1
+ChangePlayerIDScore 7537905 -4
+AddPlayer 5451898 46 35
+RemovePlayer 7603810
+AddPlayer 6494308 141 10
+RemovePlayer 7582937
+RemovePlayer 7693765
+IncreasePlayerIDLevel 8204397 4
+RemovePlayer 9043731
+MergeGroups 212 270
+RemovePlayer 2661002
+ChangePlayerIDScore 2048603 82
+RemovePlayer 163374
+MergeGroups 92 62
+IncreasePlayerIDLevel 4862984 2
+MergeGroups 76 293
+RemovePlayer 5693166
+AddPlayer 3463592 244 109
+AddPlayer 5855112 77 60
+AddPlayer 7609929 154 8
+AddPlayer 892645 255 146
+IncreasePlayerIDLevel 6722738 4
+AddPlayer 6528658 199 13
+MergeGroups 251 126
+AddPlayer 8678281 204 119
+RemovePlayer 2280769
+RemovePlayer 3867645
+RemovePlayer 6912677
+AddPlayer 2180882 201 59
+AddPlayer 9600035 111 56
+RemovePlayer 6725411
+AddPlayer 6088710 54 97
+AddPlayer 6004420 273 101
+ChangePlayerIDScore 7721282 142
+AddPlayer 8545172 121 139
+RemovePlayer 168832
+IncreasePlayerIDLevel 5511767 1
+RemovePlayer 8084547
+AddPlayer 6397948 87 132
+RemovePlayer 8217139
+RemovePlayer 224418
+RemovePlayer 3269126
+AddPlayer 5267436 79 140
+RemovePlayer 9086538
+RemovePlayer 2679833
+RemovePlayer 6154472
+IncreasePlayerIDLevel 1865209 2
+ChangePlayerIDScore 868712 15
+AddPlayer 4595272 274 44
+MergeGroups 211 123
+AddPlayer 6941010 177 57
+AddPlayer 7007093 37 65
+AddPlayer 9141074 58 35
+MergeGroups 181 -4
+AddPlayer 4818995 24 32
+ChangePlayerIDScore 6866796 40
+AddPlayer 844910 194 26
+ChangePlayerIDScore 5855112 4
+AddPlayer 6513825 358 -4
+AddPlayer 4109738 189 145
+AddPlayer 2311096 51 78
+MergeGroups 397 134
+IncreasePlayerIDLevel 495185 1
+AddPlayer 5553401 100 91
+RemovePlayer 8378599
+AddPlayer 8146130 223 58
+AddPlayer 1115449 22 41
+AddPlayer 5796587 247 19
+IncreasePlayerIDLevel 8589665 0
+RemovePlayer 4962529
+RemovePlayer 2041062
+ChangePlayerIDScore 3216869 100
+ChangePlayerIDScore 6032086 125
+RemovePlayer 2177475
+RemovePlayer 4752153
+RemovePlayer 8268736
+AddPlayer 5593693 128 51
+ChangePlayerIDScore 7885584 72
+MergeGroups 269 216
+AddPlayer 2886222 272 144
+AddPlayer 927350 62 23
+AddPlayer 6399028 251 90
+MergeGroups 104 148
+IncreasePlayerIDLevel 5855112 3
+RemovePlayer 2981964
+RemovePlayer 3461744
+RemovePlayer 2370399
+IncreasePlayerIDLevel 8130586 4
+AddPlayer 7750747 285 117
+AddPlayer 1071828 36 4
+AddPlayer 6045957 85 83
+RemovePlayer 9924413
+IncreasePlayerIDLevel 8545172 1
+IncreasePlayerIDLevel 5892983 1
+RemovePlayer 9159636
+ChangePlayerIDScore 6803911 76
+AddPlayer 7294764 224 55
+RemovePlayer 5250968
+MergeGroups -4 288
+AddPlayer 4729940 42 139
+RemovePlayer 3521958
+RemovePlayer 1115278
+RemovePlayer 1882840
+IncreasePlayerIDLevel 9727465 2
+ChangePlayerIDScore 7024097 149
+AddPlayer 6257020 105 98
+AddPlayer 5373414 181 3
+RemovePlayer 8654463
+AddPlayer 2925542 6 128
+MergeGroups 260 255
+RemovePlayer 7186944
+IncreasePlayerIDLevel 4025577 1
+MergeGroups 92 81
+RemovePlayer 688419
+AddPlayer 5343547 34 43
+AddPlayer 7208273 274 92
+AddPlayer 5350965 165 44
+IncreasePlayerIDLevel 1804228 2
+AddPlayer 1309263 294 88
+RemovePlayer 2718393
+IncreasePlayerIDLevel 7294764 3
+RemovePlayer 2004980
+RemovePlayer 5657968
+MergeGroups 28 130
+MergeGroups 377 90
+AddPlayer 2493803 64 99
+MergeGroups 13 260
+RemovePlayer 9975479
+RemovePlayer 5892983
+ChangePlayerIDScore 3463592 20
+AddPlayer 3307213 183 45
+RemovePlayer 1264677
+ChangePlayerIDScore 6008350 139
+AddPlayer 2968327 1 79
+MergeGroups 263 330
+MergeGroups -1 43
+ChangePlayerIDScore 6895503 136
+AddPlayer 9641003 77 11
+RemovePlayer 2486039
+AddPlayer 8543431 96 52
+MergeGroups 25 113
+AddPlayer 7052027 279 149
+ChangePlayerIDScore 3384525 117
+ChangePlayerIDScore 1085584 85
+AddPlayer 8618109 13 37
+IncreasePlayerIDLevel 8904888 2
+RemovePlayer 6217262
+RemovePlayer 3265415
+ChangePlayerIDScore 6459335 32
+RemovePlayer 4775978
+IncreasePlayerIDLevel 8071427 2
+AddPlayer 9460436 297 77
+MergeGroups 0 81
+AddPlayer 1899192 180 93
+MergeGroups 62 132
+RemovePlayer 7825947
+AddPlayer 2273156 101 14
+RemovePlayer 9889434
+RemovePlayer 8732582
+RemovePlayer 2048603
+AddPlayer 8782756 224 45
+AddPlayer 4378361 10 51
+MergeGroups 147 237
+RemovePlayer 4595272
+IncreasePlayerIDLevel 2886222 1
+MergeGroups 31 172
+ChangePlayerIDScore 9088188 132
+IncreasePlayerIDLevel 5566156 3
+ChangePlayerIDScore 6459335 68
+RemovePlayer 1645071
+RemovePlayer 2764783
+MergeGroups 157 233
+ChangePlayerIDScore 9762167 116
+MergeGroups 176 97
+RemovePlayer 0
+IncreasePlayerIDLevel 3783045 1
+IncreasePlayerIDLevel 486115 4
+RemovePlayer 2951677
+MergeGroups 157 110
+RemovePlayer 5080991
+AddPlayer 9938500 18 110
+MergeGroups -4 3
+ChangePlayerIDScore 1901334 11
+RemovePlayer 7765803
+AddPlayer 7359788 225 117
+RemovePlayer 8604547
+RemovePlayer 616724
+RemovePlayer 2453487
+RemovePlayer 4252056
+ChangePlayerIDScore 4091672 44
+MergeGroups 225 51
+AddPlayer 3441860 345 -1
+MergeGroups 103 262
+RemovePlayer 1821674
+ChangePlayerIDScore 4942758 106
+IncreasePlayerIDLevel 892645 1
+AddPlayer 6719606 206 1
+ChangePlayerIDScore 1086853 27
+ChangePlayerIDScore 7330652 24
+RemovePlayer 3095330
+RemovePlayer 7479681
+AddPlayer 6503753 20 131
+RemovePlayer 7544400
+RemovePlayer 1561831
+RemovePlayer 4502908
+IncreasePlayerIDLevel 6484884 3
+RemovePlayer 1086853
+RemovePlayer 8786345
+MergeGroups 395 46
+RemovePlayer 492503
+AddPlayer 6044211 239 141
+ChangePlayerIDScore 7871873 5
+ChangePlayerIDScore 6008350 50
+RemovePlayer 9770594
+IncreasePlayerIDLevel 2550002 4
+AddPlayer 3130943 57 66
+ChangePlayerIDScore 2268304 146
+AddPlayer 9616259 32 62
+IncreasePlayerIDLevel 5553401 3
+IncreasePlayerIDLevel 2348566 3
+AddPlayer -3 -1 244
+AddPlayer 5732433 14 75
+AddPlayer 2277249 231 68
+ChangePlayerIDScore 4358347 63
+AddPlayer -4 -2 218
+AddPlayer 1451799 270 96
+ChangePlayerIDScore 8928877 4
+IncreasePlayerIDLevel 2187899 1
+AddPlayer 8176194 160 141
+MergeGroups -1 44
+MergeGroups -1 -1
+AddPlayer 7332895 313 -2
+MergeGroups 4 80
+IncreasePlayerIDLevel 2567486 -3
+MergeGroups 262 0
+IncreasePlayerIDLevel 2059665 1
+RemovePlayer 2829922
+AddPlayer 1055487 42 149
+RemovePlayer 540560
+AddPlayer 5232251 155 50
+AddPlayer 5870970 14 52
+AddPlayer 3887337 195 21
+AddPlayer 9625526 280 120
+MergeGroups 64 104
+ChangePlayerIDScore 9805994 106
+ChangePlayerIDScore 4432039 18
+RemovePlayer 495185
+IncreasePlayerIDLevel 8722530 3
+IncreasePlayerIDLevel 4831977 2
+AddPlayer 8633174 190 123
+ChangePlayerIDScore 5373414 105
+IncreasePlayerIDLevel 9839278 2
+RemovePlayer 1469632
+ChangePlayerIDScore 4729940 74
+MergeGroups 115 178
+RemovePlayer 2886222
+AddPlayer 9107879 211 1
+MergeGroups 36 141
+IncreasePlayerIDLevel 4452018 4
+AddPlayer 8033782 226 129
+ChangePlayerIDScore 5586254 137
+MergeGroups 74 48
+ChangePlayerIDScore 5183418 147
+IncreasePlayerIDLevel -3 3
+MergeGroups 202 73
+ChangePlayerIDScore 4109738 4
+RemovePlayer 3307213
+RemovePlayer 7011834
+RemovePlayer 6365346
+RemovePlayer 2431853
+AddPlayer 8728352 134 80
+IncreasePlayerIDLevel 1944246 3
+RemovePlayer 8904888
+IncreasePlayerIDLevel 1054400 2
+IncreasePlayerIDLevel 5728387 1
+AddPlayer 3890389 91 19
+AddPlayer 3725330 18 45
+RemovePlayer 4403481
+AddPlayer 8014932 250 132
+AddPlayer 3640008 12 87
+MergeGroups 214 270
+ChangePlayerIDScore 5607283 128
+AddPlayer 6981246 145 3
+AddPlayer 4496017 152 115
+AddPlayer 4639804 180 4
+RemovePlayer 1707197
+AddPlayer 6632090 250 113
+IncreasePlayerIDLevel 8618109 -3
+IncreasePlayerIDLevel 278239 1
+MergeGroups 154 279
+IncreasePlayerIDLevel 2133280 2
+MergeGroups 168 284
+AddPlayer 5414109 200 56
+ChangePlayerIDScore 8410980 140
+RemovePlayer 8103031
+RemovePlayer 6037520
+IncreasePlayerIDLevel 6397948 4
+MergeGroups 88 0
+AddPlayer 4686064 156 52
+AddPlayer 3131665 152 65
+ChangePlayerIDScore 3640008 3
+MergeGroups 13 193
+AddPlayer 8271217 159 6
+MergeGroups 140 82
+AddPlayer 6968738 59 126
+AddPlayer 8140252 182 90
+IncreasePlayerIDLevel 8675093 4
+MergeGroups 99 67
+MergeGroups 112 -3
+RemovePlayer 3574555
+RemovePlayer 6358028
+ChangePlayerIDScore 8543831 130
+RemovePlayer 5267436
+RemovePlayer 1108354
+AddPlayer 4709878 12 135
+RemovePlayer 3263944
+MergeGroups 334 165
+RemovePlayer 6319295
+AddPlayer 7147666 167 95
+MergeGroups 39 174
+AddPlayer 1225169 236 56
+MergeGroups 82 342
+AddPlayer 9380484 180 68
+RemovePlayer 1302404
+RemovePlayer 9805994
+AddPlayer 4510434 238 18
+RemovePlayer 9806598
+MergeGroups 349 379
+MergeGroups 389 345
+AddPlayer 9685364 276 20
+IncreasePlayerIDLevel 4432039 4
+RemovePlayer 7359822
+RemovePlayer 6181392
+MergeGroups 376 303
+RemovePlayer 1054400
+IncreasePlayerIDLevel 3758509 4
+MergeGroups 243 179
+MergeGroups 167 301
+RemovePlayer 2187899
+MergeGroups 276 274
+RemovePlayer 9897736
+MergeGroups 48 68
+ChangePlayerIDScore 8545172 23
+AddPlayer 6706658 100 62
+AddPlayer 1212422 114 101
+IncreasePlayerIDLevel 4610207 2
+RemovePlayer 376799
+RemovePlayer 1006145
+RemovePlayer 8614431
+RemovePlayer 154862
+IncreasePlayerIDLevel 3384525 2
+AddPlayer 9699720 32 103
+AddPlayer 5071235 282 113
+RemovePlayer 8453542
+AddPlayer 3742140 110 60
+MergeGroups 136 295
+MergeGroups 291 163
+AddPlayer 8127682 298 120
+AddPlayer 2578468 174 65
+AddPlayer 8693666 42 8
+AddPlayer 8495290 165 67
+MergeGroups 93 29
+AddPlayer 9464073 2 28
+ChangePlayerIDScore 1585105 109
+IncreasePlayerIDLevel 5329537 4
+MergeGroups 137 -4
+MergeGroups 366 281
+AddPlayer 767751 161 148
+RemovePlayer 4809088
+ChangePlayerIDScore 1579157 18
+IncreasePlayerIDLevel 175239 2
+AddPlayer 9677709 23 131
+AddPlayer 8205441 44 128
+AddPlayer 5908819 275 15
+AddPlayer 9594420 135 38
+RemovePlayer 3606157
+RemovePlayer 2232160
+RemovePlayer 6895503
+ChangePlayerIDScore 7007093 139
+ChangePlayerIDScore 9586259 141
+ChangePlayerIDScore 5092853 46
+RemovePlayer 2879734
+AddPlayer 8303269 70 39
+RemovePlayer 8589665
+RemovePlayer 9464073
+ChangePlayerIDScore 237065 83
+MergeGroups 380 286
+AddPlayer 4005825 210 119
+MergeGroups 279 150
+AddPlayer 8136833 220 87
+RemovePlayer 5173265
+ChangePlayerIDScore 9762167 97
+IncreasePlayerIDLevel 2509628 1
+IncreasePlayerIDLevel 4763030 1
+IncreasePlayerIDLevel 9958548 3
+AddPlayer 8239410 281 40
+MergeGroups 0 171
+AddPlayer 3809305 127 141
+IncreasePlayerIDLevel -4 1
+AddPlayer 3056881 61 17
+ChangePlayerIDScore 8394878 -2
+ChangePlayerIDScore 7561681 121
+AddPlayer 7037629 266 21
+MergeGroups 160 283
+RemovePlayer 1309263
+RemovePlayer 5185430
+IncreasePlayerIDLevel 9616259 3
+AddPlayer 609343 101 39
+RemovePlayer 9248244
+RemovePlayer 1775417
+ChangePlayerIDScore 8239193 86
+RemovePlayer 3900229
+RemovePlayer 767751
+AddPlayer 8793252 106 108
+MergeGroups 216 134
+RemovePlayer 2493803
+ChangePlayerIDScore 439698 -3
+RemovePlayer 5186719
+AddPlayer 7864624 167 122
+ChangePlayerIDScore 8290289 29
+RemovePlayer 6108823
+RemovePlayer 9029419
+RemovePlayer 5855112
+AddPlayer 1340716 22 59
+ChangePlayerIDScore 5563720 102
+RemovePlayer 8656043
+AddPlayer 1108463 65 146
+IncreasePlayerIDLevel 2462161 2
+AddPlayer 2895952 150 141
+RemovePlayer 7429329
+IncreasePlayerIDLevel 7876342 4
+RemovePlayer 6503753
+AddPlayer 5962128 292 33
+RemovePlayer 7911754
+RemovePlayer 5796587
+RemovePlayer 2607014
+AddPlayer 9137178 169 2
+RemovePlayer 5426729
+MergeGroups 278 194
+RemovePlayer 5280313
+AddPlayer 9567751 250 34
+RemovePlayer 3848982
+AddPlayer 6534611 153 4
+RemovePlayer 5343547
+AddPlayer 8911865 295 12
+AddPlayer 8779360 127 92
+ChangePlayerIDScore 8239410 129
+ChangePlayerIDScore 7269418 -2
+IncreasePlayerIDLevel 866950 2
+AddPlayer 9965701 254 81
+RemovePlayer 9380484
+MergeGroups 271 217
+MergeGroups 270 57
+AddPlayer 725493 283 72
+AddPlayer 7928160 137 102
+MergeGroups -3 -4
+AddPlayer 6761529 121 55
+MergeGroups 36 -1
+MergeGroups 13 143
+MergeGroups 87 268
+ChangePlayerIDScore 5962128 1
+RemovePlayer 6973387
+RemovePlayer 8793252
+ChangePlayerIDScore 4827097 130
+RemovePlayer 2356512
+RemovePlayer 9460436
+AddPlayer 7366242 142 146
+AddPlayer 9826776 205 39
+IncreasePlayerIDLevel 5641187 4
+ChangePlayerIDScore 987577 67
+ChangePlayerIDScore 3618163 41
+MergeGroups 107 90
+RemovePlayer 8570652
+ChangePlayerIDScore 8060856 127
+RemovePlayer 360901
+IncreasePlayerIDLevel 6394978 4
+RemovePlayer 9958548
+AddPlayer -1 -2 244
+ChangePlayerIDScore 7692302 40
+IncreasePlayerIDLevel 1340716 1
+RemovePlayer 987577
+AddPlayer 8096046 141 147
+MergeGroups 194 15
+IncreasePlayerIDLevel 976925 1
+IncreasePlayerIDLevel 704470 4
+MergeGroups 0 -1
+IncreasePlayerIDLevel 1091720 1
+RemovePlayer 4813644
+IncreasePlayerIDLevel 4045843 3
+MergeGroups 124 173
+ChangePlayerIDScore 2210943 110
+IncreasePlayerIDLevel 6494308 -2
+MergeGroups 107 67
+IncreasePlayerIDLevel 3461697 2
+MergeGroups 264 26
+MergeGroups 397 158
+AddPlayer 2711209 133 66
+ChangePlayerIDScore 1901334 -4
+IncreasePlayerIDLevel 2711209 1
+IncreasePlayerIDLevel 2225007 2
+RemovePlayer 4452018
+AddPlayer 4138797 182 120
+ChangePlayerIDScore 6039156 37
+MergeGroups 47 297
+AddPlayer 8366230 88 118
+RemovePlayer 3022801
+AddPlayer 7605095 289 100
+AddPlayer 2780745 55 17
+AddPlayer 9472910 273 111
+AddPlayer 5939642 30 20
+IncreasePlayerIDLevel 5474483 3
+AddPlayer 3764218 63 82
+AddPlayer 5849354 333 -3
+MergeGroups 319 329
+AddPlayer 6759710 188 100
+RemovePlayer 8711130
+MergeGroups 141 239
+AddPlayer 6981246 69 85
+RemovePlayer 4530516
+ChangePlayerIDScore 413069 113
+ChangePlayerIDScore 2037674 112
+AddPlayer 4736322 154 105
+AddPlayer 2369592 282 49
+IncreasePlayerIDLevel 8205441 2
+ChangePlayerIDScore 4510434 131
+RemovePlayer 5027234
+ChangePlayerIDScore 1037204 92
+IncreasePlayerIDLevel 1579157 1
+ChangePlayerIDScore 1987868 28
+MergeGroups 7 149
+AddPlayer 5410487 272 27
+RemovePlayer 2210943
+AddPlayer 2437846 124 56
+AddPlayer 1156541 197 84
+ChangePlayerIDScore 4091672 71
+ChangePlayerIDScore 5110928 27
+MergeGroups 283 19
+ChangePlayerIDScore 6675868 78
+AddPlayer 5326856 182 18
+AddPlayer 3546085 73 19
+AddPlayer 7487847 57 63
+RemovePlayer 6961376
+RemovePlayer 2609219
+IncreasePlayerIDLevel 9685364 0
+AddPlayer 6554268 85 5
+ChangePlayerIDScore 1224695 109
+RemovePlayer 1992246
+RemovePlayer 892645
+ChangePlayerIDScore 4789162 12
+RemovePlayer 8618109
+RemovePlayer 8239410
+ChangePlayerIDScore 5939642 -4
+IncreasePlayerIDLevel 5329537 4
+IncreasePlayerIDLevel 9429309 3
+RemovePlayer 6302873
+AddPlayer 1161382 184 126
+AddPlayer 8491495 179 138
+AddPlayer 3748474 238 21
+RemovePlayer 7066671
+RemovePlayer 5654476
+AddPlayer 94798 295 37
+RemovePlayer 4814905
+AddPlayer 7607365 104 6
+IncreasePlayerIDLevel 3546085 1
+AddPlayer 4629605 225 88
+AddPlayer 9451543 290 74
+AddPlayer 9423248 204 5
+ChangePlayerIDScore 8271217 32
+ChangePlayerIDScore 6647482 -2
+RemovePlayer 8096046
+IncreasePlayerIDLevel 1668992 3
+RemovePlayer 3725330
+IncreasePlayerIDLevel 5732433 4
+IncreasePlayerIDLevel 1265510 1
+RemovePlayer 8746153
+AddPlayer 7997921 113 84
+ChangePlayerIDScore 2242302 106
+RemovePlayer 7692302
+RemovePlayer 1143661
+IncreasePlayerIDLevel 6632090 3
+IncreasePlayerIDLevel 9254897 4
+AddPlayer 9040844 48 106
+MergeGroups 392 207
+AddPlayer 408617 140 46
+MergeGroups 124 32
+MergeGroups 171 221
+AddPlayer 4814208 108 77
+IncreasePlayerIDLevel 3783045 4
+ChangePlayerIDScore 721097 28
+MergeGroups 396 302
+RemovePlayer 5410487
+AddPlayer 3022329 152 145
+MergeGroups 262 183
+IncreasePlayerIDLevel 8613712 3
+MergeGroups 42 62
+IncreasePlayerIDLevel 8877526 3
+IncreasePlayerIDLevel 6946731 1
+IncreasePlayerIDLevel 9267696 2
+ChangePlayerIDScore 3260988 8
+IncreasePlayerIDLevel 1712621 3
+IncreasePlayerIDLevel 4699285 3
+MergeGroups 127 37
+AddPlayer 3437608 144 78
+AddPlayer 9036825 209 3
+IncreasePlayerIDLevel 1585105 4
+RemovePlayer 7349849
+RemovePlayer 6845548
+MergeGroups 84 6
+ChangePlayerIDScore 6968738 150
+RemovePlayer 721097
+RemovePlayer 2846330
+ChangePlayerIDScore 2242302 35
+ChangePlayerIDScore 5207503 108
+ChangePlayerIDScore 1558526 82
+RemovePlayer 2771615
+IncreasePlayerIDLevel 7024097 1
+ChangePlayerIDScore 5962128 67
+AddPlayer 1597711 223 137
+IncreasePlayerIDLevel 1003295 1
+AddPlayer 7215954 106 38
+RemovePlayer 1865209
+IncreasePlayerIDLevel 5962128 2
+RemovePlayer 4358347
+MergeGroups 315 357
+AddPlayer 2256956 170 95
+AddPlayer 2957096 41 12
+AddPlayer -4 -4 238
+MergeGroups 39 30
+MergeGroups 293 95
+RemovePlayer 2179909
+MergeGroups 73 288
+AddPlayer 3764898 262 16
+RemovePlayer 7037629
+AddPlayer 7411020 278 53
+MergeGroups 37 5
+RemovePlayer 704470
+RemovePlayer 7985356
+RemovePlayer 3440429
+RemovePlayer 125828
+AddPlayer 6588434 38 135
+MergeGroups 260 13
+ChangePlayerIDScore 8675093 70
+ChangePlayerIDScore 4827097 97
+RemovePlayer 9616259
+IncreasePlayerIDLevel 406271 2
+ChangePlayerIDScore 2273156 47
+MergeGroups 120 180
+AddPlayer 4395397 7 69
+RemovePlayer 7294764
+AddPlayer 2507778 208 110
+RemovePlayer 7659471
+ChangePlayerIDScore 3822268 49
+AddPlayer 3981291 297 56
+IncreasePlayerIDLevel 2172883 2
+AddPlayer 9802678 26 141
+ChangePlayerIDScore 6202809 14
+IncreasePlayerIDLevel 3765299 4
+RemovePlayer 8590763
+RemovePlayer 0
+AddPlayer -1 -1 157
+RemovePlayer 4193263
+RemovePlayer 2225007
+MergeGroups 289 54
+AddPlayer 8099544 16 84
+IncreasePlayerIDLevel 8204397 4
+ChangePlayerIDScore 8136833 5
+AddPlayer 7924336 46 86
+ChangePlayerIDScore 1364759 81
+MergeGroups 149 166
+RemovePlayer 7343991
+RemovePlayer 4091672
+MergeGroups 160 8
+MergeGroups 20 221
+AddPlayer 3141300 294 29
+MergeGroups -2 48
+AddPlayer 9031146 170 42
+AddPlayer 4557218 282 42
+MergeGroups 145 264
+MergeGroups 327 360
+AddPlayer 1996806 64 127
+RemovePlayer 6439873
+IncreasePlayerIDLevel 1224695 1
+RemovePlayer -3
+ChangePlayerIDScore 9031146 1
+RemovePlayer 8303269
+MergeGroups 2 -4
+AddPlayer 8411226 46 94
+MergeGroups 342 354
+IncreasePlayerIDLevel 9727465 3
+RemovePlayer 5636971
+AddPlayer 2561558 273 32
+AddPlayer 36896 269 136
+MergeGroups 127 271
+MergeGroups 177 247
+RemovePlayer 3747458
+IncreasePlayerIDLevel 8204397 1
+IncreasePlayerIDLevel 3376591 4
+RemovePlayer 3809305
+IncreasePlayerIDLevel 4862984 1
+AddPlayer 6725640 143 150
+RemovePlayer 3488792
+IncreasePlayerIDLevel 3764898 1
+RemovePlayer 6361869
+RemovePlayer 2698929
+MergeGroups 165 85
+AddPlayer 2449127 188 80
+AddPlayer 7168347 395 -4
+RemovePlayer 1697298
+RemovePlayer 9843466
+AddPlayer 4064525 50 18
+IncreasePlayerIDLevel 8411226 1
+MergeGroups 276 172
+IncreasePlayerIDLevel 408617 1
+RemovePlayer 2561558
+MergeGroups 184 192
+RemovePlayer 7648483
+AddPlayer 1284404 111 4
+RemovePlayer 3483436
+ChangePlayerIDScore 1585105 35
+IncreasePlayerIDLevel 6722738 2
+AddPlayer 4742522 16 1
+AddPlayer 5560963 59 19
+RemovePlayer 5484773
+RemovePlayer 8140252
+ChangePlayerIDScore 7366242 61
+MergeGroups 14 62
+MergeGroups 238 201
+RemovePlayer 408617
+RemovePlayer 6722738
+AddPlayer 9288039 92 68
+ChangePlayerIDScore 5706776 139
+AddPlayer 4702076 30 86
+RemovePlayer -1
+IncreasePlayerIDLevel 1483853 2
+ChangePlayerIDScore 6554268 88
+AddPlayer 9608 50 84
+AddPlayer 5732113 95 129
+AddPlayer 4575539 76 133
+AddPlayer 3022639 272 138
+AddPlayer 748379 185 29
+ChangePlayerIDScore 4138797 48
+IncreasePlayerIDLevel 9641003 3
+RemovePlayer 4496017
+MergeGroups 153 214
+ChangePlayerIDScore 218632 4
+AddPlayer 8038754 7 76
+AddPlayer 9439117 226 64
+RemovePlayer 7876342
+AddPlayer 6380180 283 131
+RemovePlayer 4827097
+MergeGroups 160 297
+IncreasePlayerIDLevel 18145 1
+AddPlayer 3084664 206 57
+AddPlayer 3789502 80 11
+AddPlayer 2788732 167 108
+ChangePlayerIDScore 3237823 42
+RemovePlayer 5373414
+ChangePlayerIDScore 8127682 105
+MergeGroups 249 242
+MergeGroups 152 168
+AddPlayer 9786209 257 139
+MergeGroups -1 9
+IncreasePlayerIDLevel 5706776 1
+RemovePlayer 1668992
+RemovePlayer 5609982
+AddPlayer 4415792 30 71
+MergeGroups 193 210
+AddPlayer 9353036 83 1
+RemovePlayer 3177213
+ChangePlayerIDScore 4005825 73
+ChangePlayerIDScore 2614403 85
+RemovePlayer 0
+IncreasePlayerIDLevel 7561681 2
+AddPlayer 4634110 43 13
+RemovePlayer 7871873
+IncreasePlayerIDLevel 5962128 2
+MergeGroups 110 109
+AddPlayer 9746891 272 112
+RemovePlayer 5607283
+RemovePlayer 0
+AddPlayer 6224390 291 3
+MergeGroups 124 7
+RemovePlayer 7209357
+AddPlayer 7700558 133 83
+RemovePlayer 2306046
+AddPlayer 5007079 98 3
+AddPlayer 7338691 256 5
+RemovePlayer 1944246
+RemovePlayer 3159790
+MergeGroups 208 214
+MergeGroups 230 99
+RemovePlayer 1176300
+RemovePlayer 7750747
+RemovePlayer 4575539
+AddPlayer 8119527 82 53
+RemovePlayer 2014445
+ChangePlayerIDScore 8430732 34
+ChangePlayerIDScore 7051384 82
+RemovePlayer 1471046
+RemovePlayer 6094072
+ChangePlayerIDScore 7429525 4
+RemovePlayer 122335
+ChangePlayerIDScore 7142389 85
+ChangePlayerIDScore 9608 109
+RemovePlayer -4
+ChangePlayerIDScore 4831977 69
+MergeGroups 331 329
+RemovePlayer 74025
+AddPlayer 7345033 115 133
+AddPlayer 1279901 184 5
+MergeGroups 373 111
+AddPlayer 481535 48 76
+IncreasePlayerIDLevel 3742140 1
+RemovePlayer 1882103
+MergeGroups 69 116
+MergeGroups 360 325
+ChangePlayerIDScore 9000489 147
+IncreasePlayerIDLevel 2059665 2
+RemovePlayer 6412672
+RemovePlayer 8675093
+RemovePlayer 0
+RemovePlayer 7954001
+IncreasePlayerIDLevel 9040844 1
+ChangePlayerIDScore 4432039 150
+IncreasePlayerIDLevel 1156541 0
+RemovePlayer 5908819
+MergeGroups -2 -3
+RemovePlayer 0
+MergeGroups 235 179
+ChangePlayerIDScore 1899192 33
+AddPlayer 8673584 178 42
+RemovePlayer 8062729
+AddPlayer 1871800 292 36
+RemovePlayer 4634110
+AddPlayer 3682167 101 34
+MergeGroups -4 72
+RemovePlayer 2735807
+RemovePlayer 6045957
+ChangePlayerIDScore 1899192 73
+IncreasePlayerIDLevel 9875477 3
+AddPlayer 1199934 42 131
+AddPlayer 8265030 229 113
+MergeGroups 34 132
+AddPlayer 6367752 144 19
+RemovePlayer 7051384
+MergeGroups 0 36
+RemovePlayer 2895952
+RemovePlayer 2319179
+MergeGroups 273 181
+RemovePlayer 7607365
+MergeGroups 206 339
+MergeGroups 288 11
+IncreasePlayerIDLevel 8495290 4
+AddPlayer 6095043 231 52
+AddPlayer 2160957 259 40
+IncreasePlayerIDLevel 4581103 3
+ChangePlayerIDScore 1802014 13
+RemovePlayer 2780745
+IncreasePlayerIDLevel 4291821 2
+IncreasePlayerIDLevel 4753579 3
+RemovePlayer 7997921
+RemovePlayer 2462554
+AddPlayer 6864 172 74
+AddPlayer 4680320 255 132
+IncreasePlayerIDLevel 9036825 2
+IncreasePlayerIDLevel 6380180 3
+ChangePlayerIDScore 4699285 60
+MergeGroups 40 101
+IncreasePlayerIDLevel 6761529 2
+RemovePlayer 8495290
+RemovePlayer 1898869
+ChangePlayerIDScore 5139931 79
+ChangePlayerIDScore 5240154 74
+ChangePlayerIDScore 9000489 94
+ChangePlayerIDScore 5912996 42
+RemovePlayer 9423248
+IncreasePlayerIDLevel 7758465 4
+ChangePlayerIDScore 6287906 52
+MergeGroups 171 207
+RemovePlayer 1996806
+RemovePlayer 4211934
+RemovePlayer 4071556
+RemovePlayer 6941010
+RemovePlayer 7198683
+AddPlayer 2457565 251 4
+RemovePlayer 8782756
+MergeGroups 390 349
+AddPlayer 7390212 60 2
+AddPlayer 9118137 228 112
+AddPlayer 9652618 97 148
+AddPlayer 5182857 292 12
+IncreasePlayerIDLevel 6719606 2
+MergeGroups -1 27
+AddPlayer 1111249 162 48
+AddPlayer 6410308 144 8
+RemovePlayer 7700558
+AddPlayer 6298591 247 55
+MergeGroups 126 216
+IncreasePlayerIDLevel 4789162 4
+ChangePlayerIDScore 5593301 28
+RemovePlayer 3764898
+RemovePlayer 7609929
+RemovePlayer 6981246
+MergeGroups 248 178
+RemovePlayer 4610207
+MergeGroups 316 380
+MergeGroups 137 148
+ChangePlayerIDScore 7215954 49
+RemovePlayer 760971
+AddPlayer 6218740 241 65
+MergeGroups 113 16
+RemovePlayer 4005825
+IncreasePlayerIDLevel 8410980 3
+RemovePlayer 4064525
+IncreasePlayerIDLevel 9567751 1
+RemovePlayer 8693666
+ChangePlayerIDScore 5553401 130
+MergeGroups 14 120
+RemovePlayer 3216869
+RemovePlayer 4942758
+RemovePlayer 5753120
+RemovePlayer 3575021
+IncreasePlayerIDLevel 6528658 2
+AddPlayer 6625177 86 83
+RemovePlayer 6286108
+RemovePlayer 8545172
+MergeGroups 226 -1
+AddPlayer 1957753 100 22
+RemovePlayer 8071427
+RemovePlayer 5414109
+AddPlayer 8006610 164 92
+AddPlayer 4796617 51 16
+RemovePlayer 4742522
+AddPlayer 6975602 92 99
+ChangePlayerIDScore 1821383 79
+AddPlayer 4684697 179 127
+RemovePlayer 8265030
+IncreasePlayerIDLevel 7917419 2
+RemovePlayer 5691009
+AddPlayer 4280835 272 56
+AddPlayer 6143191 136 83
+MergeGroups 141 66
+ChangePlayerIDScore -4 236
+AddPlayer 4686856 236 98
+MergeGroups 35 154
+MergeGroups 87 260
+ChangePlayerIDScore 4510434 78
+RemovePlayer 9802678
+AddPlayer 5408180 268 61
+AddPlayer 1356699 51 30
+RemovePlayer 3437608
+AddPlayer 8614987 171 94
+MergeGroups 157 59
+AddPlayer 6506059 206 72
+RemovePlayer 5021479
+RemovePlayer 1901334
+RemovePlayer 9304568
+AddPlayer 2638944 254 140
+AddPlayer 7183946 22 35
+RemovePlayer 8614987
+RemovePlayer 1804228
+RemovePlayer 7695953
+RemovePlayer 8519928
+ChangePlayerIDScore 6633906 59
+RemovePlayer 9298395
+AddPlayer 200010 250 123
+AddPlayer 9454518 142 129
+MergeGroups 282 271
+RemovePlayer 6380180
+RemovePlayer 2614403
+RemovePlayer 9623577
+ChangePlayerIDScore 7605095 11
+RemovePlayer 5593693
+RemovePlayer 3640008
+RemovePlayer 2370666
+AddPlayer 6434126 229 120
+RemovePlayer 9454518
+MergeGroups 219 290
+AddPlayer 578059 177 76
+RemovePlayer 5329537
+ChangePlayerIDScore 2457565 48
+ChangePlayerIDScore 5626701 143
+RemovePlayer 3278262
+AddPlayer 5548503 180 61
+AddPlayer 3368028 29 27
+RemovePlayer 8290289
+AddPlayer 8555944 66 47
+IncreasePlayerIDLevel 7285123 1
+IncreasePlayerIDLevel 3384525 1
+ChangePlayerIDScore 7390212 24
+RemovePlayer 4686064
+RemovePlayer 1225169
+MergeGroups 271 51
+AddPlayer -1 -2 163
+RemovePlayer 9837071
+RemovePlayer 9567751
+MergeGroups 353 171
+ChangePlayerIDScore -4 248
+MergeGroups -1 -2
+AddPlayer 3414137 48 56
+IncreasePlayerIDLevel 1821383 2
+ChangePlayerIDScore 4520909 9
+RemovePlayer 1203137
+IncreasePlayerIDLevel 4044421 1
+ChangePlayerIDScore 7465148 59
+IncreasePlayerIDLevel 1284404 3
+AddPlayer 3295833 153 20
+IncreasePlayerIDLevel 3499400 4
+AddPlayer 3311210 9 122
+RemovePlayer 9826776
+AddPlayer 1427481 16 105
+ChangePlayerIDScore 2711209 113
+AddPlayer 2723490 211 141
+IncreasePlayerIDLevel 8988031 -3
+AddPlayer 9586672 266 45
+AddPlayer 4757661 64 87
+RemovePlayer 9118137
+ChangePlayerIDScore 1821383 82
+MergeGroups 177 335
+AddPlayer 6663680 214 16
+ChangePlayerIDScore 2449127 88
+AddPlayer 7062217 125 13
+ChangePlayerIDScore 9677709 34
+RemovePlayer 257374
+AddPlayer 4870564 220 129
+AddPlayer 6847175 20 3
+ChangePlayerIDScore 237065 80
+IncreasePlayerIDLevel 413069 3
+RemovePlayer 5064473
+AddPlayer 229282 269 58
+ChangePlayerIDScore 5747698 -1
+IncreasePlayerIDLevel 4248981 3
+AddPlayer 5283251 234 37
+IncreasePlayerIDLevel 921239 1
+IncreasePlayerIDLevel 1390891 3
+IncreasePlayerIDLevel 6039156 2
+ChangePlayerIDScore 6494308 96
+ChangePlayerIDScore 1991353 -4
+RemovePlayer 8779360
+MergeGroups 257 335
+IncreasePlayerIDLevel 3759733 2
+IncreasePlayerIDLevel 9938500 3
+RemovePlayer 7078966
+IncreasePlayerIDLevel 3171484 2
+ChangePlayerIDScore 3748474 129
+RemovePlayer 1055487
+RemovePlayer 4248547
+IncreasePlayerIDLevel 4511292 4
+RemovePlayer 6159065
+AddPlayer 6574237 79 34
+AddPlayer 5240391 112 101
+MergeGroups 25 159
+AddPlayer 2896684 22 89
+AddPlayer 8181236 14 72
+IncreasePlayerIDLevel 4025577 3
+MergeGroups 210 271
+RemovePlayer 4557218
+AddPlayer 8882910 143 144
+RemovePlayer 4709878
+IncreasePlayerIDLevel -1 4
+IncreasePlayerIDLevel 7537905 2
+AddPlayer 772598 82 12
+IncreasePlayerIDLevel 9782919 2
+RemovePlayer 7953887
+AddPlayer 117380 191 7
+MergeGroups 397 386
+IncreasePlayerIDLevel 3607866 3
+MergeGroups -2 -4
+AddPlayer 3122040 243 94
+RemovePlayer 7465148
+AddPlayer 2935663 207 7
+MergeGroups 253 13
+AddPlayer 7305972 191 117
+IncreasePlayerIDLevel 6455284 4
+AddPlayer 4519658 228 33
+MergeGroups 106 31
+AddPlayer 6120444 167 89
+RemovePlayer 4511292
+AddPlayer 3989390 92 116
+AddPlayer 7649474 59 60
+ChangePlayerIDScore 9841176 24
+AddPlayer 1599110 174 77
+IncreasePlayerIDLevel 5384790 3
+RemovePlayer 3236319
+AddPlayer 7258983 273 19
+AddPlayer 7106518 55 31
+ChangePlayerIDScore 6463702 19
+AddPlayer 7930734 22 53
+RemovePlayer 9653581
+RemovePlayer 3400115
+MergeGroups 273 139
+AddPlayer 557593 225 122
+IncreasePlayerIDLevel 117380 -4
+MergeGroups 122 137
+AddPlayer 6076796 282 95
+RemovePlayer 8205441
+ChangePlayerIDScore 3765299 101
+IncreasePlayerIDLevel 7930734 1
+ChangePlayerIDScore 8309105 38
+AddPlayer 4698841 36 16
+AddPlayer 9673906 90 130
+AddPlayer 2435847 195 74
+IncreasePlayerIDLevel 921239 1
+MergeGroups 77 221
+AddPlayer 9943226 201 72
+RemovePlayer 3618163
+IncreasePlayerIDLevel 9034275 1
+AddPlayer 579573 222 78
+RemovePlayer 8038754
+RemovePlayer 6761529
+AddPlayer 5631844 256 1
+AddPlayer 7981410 92 100
+RemovePlayer 1061387
+RemovePlayer -1
+RemovePlayer 6008350
+IncreasePlayerIDLevel 6397948 4
+MergeGroups 81 154
+AddPlayer 4189254 39 122
+RemovePlayer 6394978
+IncreasePlayerIDLevel 1391672 2
+AddPlayer 9829863 160 4
+RemovePlayer 6759710
+IncreasePlayerIDLevel 7269418 1
+AddPlayer 5295781 57 134
+RemovePlayer 8014932
+ChangePlayerIDScore 9429309 1
+ChangePlayerIDScore -1 179
+AddPlayer 6675868 211 26
+AddPlayer 6386156 38 143
+AddPlayer 5810678 285 123
+RemovePlayer 8882910
+AddPlayer 1426100 159 52
+MergeGroups 147 207
+RemovePlayer 5139931
+AddPlayer 2418324 99 35
+IncreasePlayerIDLevel 6410308 1
+MergeGroups 343 229
+AddPlayer 4891994 257 14
+ChangePlayerIDScore 1199934 141
+AddPlayer 6351000 227 49
+AddPlayer 5810581 135 88
+AddPlayer 279812 183 43
+RemovePlayer 7125583
+AddPlayer 4774848 20 17
+AddPlayer 8636656 13 136
+MergeGroups 336 347
+AddPlayer 4395611 384 -1
+AddPlayer 9038702 64 19
+ChangePlayerIDScore 9608 7
+IncreasePlayerIDLevel 3723373 3
+ChangePlayerIDScore 1480268 118
+AddPlayer 1811263 158 28
+ChangePlayerIDScore 8119527 99
+ChangePlayerIDScore 9685364 107
+RemovePlayer 4138797
+RemovePlayer 9342227
+RemovePlayer 1003295
+AddPlayer 427337 154 59
+RemovePlayer 9682802
+RemovePlayer 6006373
+RemovePlayer 1426100
+AddPlayer 361652 163 67
+ChangePlayerIDScore 2877993 105
+ChangePlayerIDScore 5566156 99
+AddPlayer 9816249 20 22
+AddPlayer 9486882 32 32
+RemovePlayer 1873469
+RemovePlayer 4729940
+MergeGroups 323 334
+ChangePlayerIDScore 2302064 118
+RemovePlayer 9875477
+AddPlayer 2421815 215 2
+AddPlayer 4608208 177 40
+ChangePlayerIDScore 5962128 11
+ChangePlayerIDScore 9267696 73
+ChangePlayerIDScore 6032086 146
+AddPlayer 7717785 109 110
+ChangePlayerIDScore 3807241 105
+AddPlayer 8144610 180 114
+IncreasePlayerIDLevel 9666902 -2
+RemovePlayer 8033782
+AddPlayer 1239613 285 106
+ChangePlayerIDScore 198476 43
+AddPlayer 9785744 103 141
+RemovePlayer 1428366
+AddPlayer 7125276 207 110
+AddPlayer 9366436 267 88
+AddPlayer 6738478 177 124
+RemovePlayer 2369592
+AddPlayer 6067404 107 104
+RemovePlayer 36896
+AddPlayer 22252 119 64
+AddPlayer 5929887 182 134
+RemovePlayer 1712621
+MergeGroups 221 89
+MergeGroups 353 310
+RemovePlayer 578059
+RemovePlayer 3499400
+AddPlayer 7524402 286 37
+RemovePlayer 1156541
+RemovePlayer 3742140
+ChangePlayerIDScore 4629605 67
+RemovePlayer 2311096
+ChangePlayerIDScore 5563720 60
+AddPlayer 9539348 216 16
+MergeGroups 176 181
+RemovePlayer 4774848
+AddPlayer 3991305 283 147
+MergeGroups 46 187
+AddPlayer 5300132 118 6
+IncreasePlayerIDLevel 6843796 3
+MergeGroups 82 87
+AddPlayer 6175095 176 15
+MergeGroups 270 1
+ChangePlayerIDScore 6257020 59
+IncreasePlayerIDLevel 7429525 2
+RemovePlayer 2172531
+IncreasePlayerIDLevel 1513101 4
+AddPlayer 169191 72 52
+IncreasePlayerIDLevel -4 1
+AddPlayer 7649867 164 22
+RemovePlayer 7301000
+RemovePlayer 3056881
+MergeGroups 132 227
+RemovePlayer 5182857
+AddPlayer 2508048 200 26
+ChangePlayerIDScore 9366436 118
+ChangePlayerIDScore 609343 15
+AddPlayer 5950010 55 62
+AddPlayer 7382848 243 75
+MergeGroups 278 42
+IncreasePlayerIDLevel 7675497 1
+AddPlayer 5846549 290 89
+AddPlayer 6113039 195 45
+AddPlayer 1977496 46 75
+IncreasePlayerIDLevel 4316770 1
+IncreasePlayerIDLevel 7305972 1
+RemovePlayer 3891350
+MergeGroups 169 54
+RemovePlayer 2972855
+RemovePlayer 169191
+AddPlayer 1493155 123 125
+IncreasePlayerIDLevel 2567486 2
+AddPlayer 3763032 75 74
+MergeGroups 75 194
+MergeGroups 45 66
+ChangePlayerIDScore 745896 101
+MergeGroups 9 114
+AddPlayer 1551874 203 71
+AddPlayer 5738558 68 56
+IncreasePlayerIDLevel 7215954 1
+RemovePlayer 8430732
+AddPlayer 3419825 179 129
+AddPlayer 6766768 34 4
+RemovePlayer 6386156
+IncreasePlayerIDLevel 1483853 2
+RemovePlayer 9570345
+RemovePlayer 9641003
+AddPlayer 7624938 236 34
+ChangePlayerIDScore 1802014 106
+AddPlayer 5358708 250 61
+ChangePlayerIDScore 9594420 138
+MergeGroups 41 290
+AddPlayer 4986655 122 60
+RemovePlayer 8974868
+MergeGroups 0 165
+AddPlayer 4638180 236 92
+AddPlayer 7052145 44 72
+RemovePlayer 3582291
+RemovePlayer 4789162
+AddPlayer 8710746 68 118
+AddPlayer 8842696 90 118
+RemovePlayer 3414137
+AddPlayer 8882950 166 133
+MergeGroups 117 180
+MergeGroups 164 276
+RemovePlayer 6410308
+AddPlayer 1899192 148 55
+IncreasePlayerIDLevel 1212422 3
+AddPlayer 6113039 128 127
+RemovePlayer 4656866
+ChangePlayerIDScore 8136833 68
+IncreasePlayerIDLevel 6754656 1
+IncreasePlayerIDLevel 1220913 1
+RemovePlayer 7125276
+MergeGroups 274 239
+AddPlayer 5590787 105 2
+AddPlayer 9244168 29 85
+MergeGroups 134 354
+ChangePlayerIDScore 468217 52
+RemovePlayer 959259
+MergeGroups 11 102
+AddPlayer 5686105 27 89
+AddPlayer 4023207 250 120
+AddPlayer 2194733 255 5
+RemovePlayer 7614242
+RemovePlayer 9666902
+AddPlayer 4375216 290 43
+IncreasePlayerIDLevel 7445691 2
+AddPlayer 5836427 39 40
+AddPlayer 4108249 164 29
+AddPlayer 9080427 291 9
+MergeGroups 82 150
+ChangePlayerIDScore 5253558 119
+RemovePlayer 18145
+RemovePlayer 8746635
+AddPlayer 8468299 42 122
+AddPlayer 6221170 17 100
+MergeGroups 86 81
+AddPlayer 8537849 64 85
+RemovePlayer 218632
+RemovePlayer 8333412
+RemovePlayer 8099544
+ChangePlayerIDScore 9965701 89
+IncreasePlayerIDLevel 3682167 4
+IncreasePlayerIDLevel 1115449 3
+RemovePlayer 9325573
+MergeGroups 166 187
+ChangePlayerIDScore 3084664 62
+IncreasePlayerIDLevel 9966602 4
+MergeGroups 95 24
+AddPlayer 5584091 113 81
+RemovePlayer 9839278
+IncreasePlayerIDLevel 5747698 3
+MergeGroups 97 234
+ChangePlayerIDScore 2242302 24
+RemovePlayer 8543431
+AddPlayer 3567481 283 17
+AddPlayer 2536425 221 87
+AddPlayer 2151666 139 132
+RemovePlayer 7649867
+RemovePlayer 5240154
+IncreasePlayerIDLevel 0 2
+AddPlayer 772453 210 99
+ChangePlayerIDScore -2 178
+RemovePlayer 7345033
+MergeGroups 309 210
+AddPlayer 7968660 225 11
+AddPlayer 8331299 135 21
+RemovePlayer 4857012
+MergeGroups 84 79
+MergeGroups -3 232
+RemovePlayer 4339743
+ChangePlayerIDScore 4025577 94
+ChangePlayerIDScore 8407522 124
+MergeGroups 4 219
+RemovePlayer 4684697
+AddPlayer 2393226 55 56
+MergeGroups 106 164
+IncreasePlayerIDLevel 6120444 -4
+AddPlayer 6321261 95 144
+IncreasePlayerIDLevel 7052027 3
+MergeGroups 260 224
+AddPlayer 1547207 136 69
+RemovePlayer 8331299
+RemovePlayer 4757661
+RemovePlayer 1356699
+AddPlayer 4075886 3 61
+MergeGroups 164 225
+AddPlayer 312131 68 14
+IncreasePlayerIDLevel 5007079 1
+MergeGroups 341 346
+AddPlayer 738784 88 41
+IncreasePlayerIDLevel 4127709 2
+AddPlayer 4317852 151 4
+IncreasePlayerIDLevel 2142720 4
+RemovePlayer 1451799
+IncreasePlayerIDLevel 9486882 2
+AddPlayer 2294337 187 102
+RemovePlayer 2437846
+ChangePlayerIDScore 2142720 65
+AddPlayer 4431734 209 66
+RemovePlayer 7574187
+IncreasePlayerIDLevel 5566156 2
+IncreasePlayerIDLevel 6143191 2
+IncreasePlayerIDLevel 592328 1
+RemovePlayer 8158805
+AddPlayer 254093 54 93
+RemovePlayer 0
+AddPlayer 2427819 271 135
+RemovePlayer 7758465
+RemovePlayer 2969958
+RemovePlayer 2133280
+AddPlayer 9759741 240 20
+ChangePlayerIDScore 6534611 150
+MergeGroups 82 187
+RemovePlayer 9308567
+IncreasePlayerIDLevel 6588434 3
+AddPlayer 5248196 235 10
+MergeGroups 47 16
+AddPlayer 6610113 60 27
+RemovePlayer 6749392
+AddPlayer 0 -1 152
+ChangePlayerIDScore 1914764 67
+AddPlayer 2681586 11 104
+AddPlayer 131937 217 86
+IncreasePlayerIDLevel 6866796 4
+IncreasePlayerIDLevel 748379 4
+ChangePlayerIDScore 866950 69
+AddPlayer 7169782 19 54
+AddPlayer 6512702 113 148
+AddPlayer 3685441 115 145
+MergeGroups -3 -2
+MergeGroups 8 194
+MergeGroups 194 83
+AddPlayer 3125119 167 43
+MergeGroups 356 1
+ChangePlayerIDScore 3807241 22
+IncreasePlayerIDLevel 2672349 1
+RemovePlayer 6632090
+MergeGroups 6 166
+MergeGroups 292 124
+ChangePlayerIDScore 3322812 49
+AddPlayer 2677856 134 76
+ChangePlayerIDScore 5553401 73
+RemovePlayer 6257020
+ChangePlayerIDScore 2268304 41
+AddPlayer 8137643 102 74
+AddPlayer 1561252 296 110
+RemovePlayer 1991353
+ChangePlayerIDScore 9782919 63
+AddPlayer 1478634 134 140
+RemovePlayer 5350965
+RemovePlayer 9586259
+AddPlayer 7565172 114 91
+RemovePlayer 4028076
+AddPlayer 3576340 262 106
+IncreasePlayerIDLevel 6067404 4
+AddPlayer 2241098 153 94
+RemovePlayer 7959815
+RemovePlayer 5071235
+ChangePlayerIDScore 8394878 63
+MergeGroups 50 28
+MergeGroups 88 95
+AddPlayer 2578720 137 79
+RemovePlayer 9600035
+RemovePlayer 9608
+AddPlayer 7385162 19 117
+IncreasePlayerIDLevel 5474483 2
+ChangePlayerIDScore 6224390 47
+AddPlayer 9490522 106 92
+ChangePlayerIDScore 4375216 52
+MergeGroups -1 -2
+RemovePlayer 5962128
+AddPlayer 5600565 103 146
+ChangePlayerIDScore 4365666 -2
+ChangePlayerIDScore 5300132 95
+AddPlayer 9838512 265 52
+RemovePlayer 4642386
+AddPlayer 1921267 208 119
+IncreasePlayerIDLevel 3699972 2
+ChangePlayerIDScore 4338526 76
+IncreasePlayerIDLevel 7981410 4
+ChangePlayerIDScore 8533302 75
+RemovePlayer 9509405
+RemovePlayer 9625526
+AddPlayer 3435436 240 125
+IncreasePlayerIDLevel 8468299 1
+ChangePlayerIDScore -4 203
+ChangePlayerIDScore 175239 71
+RemovePlayer 8271217
+MergeGroups 358 374
+IncreasePlayerIDLevel 2608415 1
+ChangePlayerIDScore 5092853 74
+RemovePlayer 7873005
+AddPlayer 3472513 1 70
+RemovePlayer 2446860
+RemovePlayer 7366242
+IncreasePlayerIDLevel 2194733 1
+AddPlayer 2723337 271 15
+IncreasePlayerIDLevel 7215954 2
+ChangePlayerIDScore 486115 -4
+IncreasePlayerIDLevel 6175095 4
+AddPlayer 2558105 285 90
+RemovePlayer 4796617
+RemovePlayer 6633906
+AddPlayer -4 -2 228
+RemovePlayer 2435847
+IncreasePlayerIDLevel 9345926 2
+IncreasePlayerIDLevel 6738478 4
+RemovePlayer 3433221
+RemovePlayer 7864624
+ChangePlayerIDScore 725493 114
+AddPlayer 665965 219 91
+IncreasePlayerIDLevel 6218740 1
+MergeGroups 274 23
+AddPlayer 5474613 154 101
+MergeGroups 265 51
+IncreasePlayerIDLevel 4753579 1
+RemovePlayer 1239613
+IncreasePlayerIDLevel 5810581 2
+AddPlayer 309146 297 136
+AddPlayer 3389936 167 123
+AddPlayer 3619828 237 122
+RemovePlayer 3685441
+MergeGroups 189 96
+RemovePlayer 9040844
+MergeGroups 278 139
+AddPlayer 6156805 189 48
+MergeGroups 238 293
+MergeGroups 76 273
+RemovePlayer 3335521
+AddPlayer 205737 158 105
+RemovePlayer -4
+IncreasePlayerIDLevel 7305972 3
+RemovePlayer 6843796
+ChangePlayerIDScore 844910 132
+RemovePlayer 7928160
+RemovePlayer 9782919
+ChangePlayerIDScore 4290769 0
+AddPlayer 748379 253 6
+ChangePlayerIDScore 2256956 61
+MergeGroups 147 0
+AddPlayer 5439698 133 12
+MergeGroups 0 246
+AddPlayer 6799246 51 18
+MergeGroups 173 35
+ChangePlayerIDScore 9594420 59
+RemovePlayer 3822268
+AddPlayer 6209520 244 36
+MergeGroups 177 225
+AddPlayer 5619649 104 138
+AddPlayer 6171969 77 50
+IncreasePlayerIDLevel 7062217 2
+AddPlayer 8215734 244 64
+AddPlayer 9045168 79 72
+AddPlayer 7957937 67 100
+RemovePlayer 3421549
+MergeGroups 48 13
+RemovePlayer 2492433
+RemovePlayer 2578720
+AddPlayer 5832822 149 17
+AddPlayer 4133329 237 67
+ChangePlayerIDScore 131937 -1
+MergeGroups 231 120
+IncreasePlayerIDLevel 2194733 2
+MergeGroups 34 217
+RemovePlayer 9486882
+IncreasePlayerIDLevel 1480268 4
+RemovePlayer 9080427
+IncreasePlayerIDLevel 1390891 2
+IncreasePlayerIDLevel 9391282 4
+AddPlayer 8593659 20 87
+MergeGroups 0 -4
+AddPlayer 2945573 239 112
+MergeGroups 238 278
+IncreasePlayerIDLevel 8156091 4
+RemovePlayer 3807241
+IncreasePlayerIDLevel 738784 3
+AddPlayer -2 -4 170
+IncreasePlayerIDLevel 1085584 4
+RemovePlayer 4127709
+IncreasePlayerIDLevel 1513101 1
+MergeGroups 202 254
+AddPlayer 4892426 141 97
+RemovePlayer 7924336
+ChangePlayerIDScore 9846097 93
+RemovePlayer 6663680
+RemovePlayer 9038702
+RemovePlayer 8127682
+RemovePlayer 7050252
+ChangePlayerIDScore 8137643 23
+AddPlayer 9005450 20 45
+AddPlayer 5928513 328 -4
+AddPlayer 3306023 194 71
+RemovePlayer 9107879
+RemovePlayer 6151791
+RemovePlayer 6975602
+IncreasePlayerIDLevel 468217 2
+AddPlayer 8587635 198 18
+ChangePlayerIDScore 8877526 134
+RemovePlayer 9391282
+RemovePlayer 6847175
+RemovePlayer 5092853
+RemovePlayer 976925
+MergeGroups 168 218
+AddPlayer 9570946 82 124
+IncreasePlayerIDLevel 3701193 4
+RemovePlayer 2505494
+RemovePlayer 1871800
+ChangePlayerIDScore 9938500 114
+MergeGroups 211 141
+MergeGroups 205 263
+RemovePlayer 6738478
+AddPlayer 8782940 134 87
+ChangePlayerIDScore 1386863 38
+ChangePlayerIDScore 1111947 2
+AddPlayer 9315700 58 50
+RemovePlayer 745896
+AddPlayer 465967 66 17
+MergeGroups -1 265
+RemovePlayer 4075886
+RemovePlayer 2421815
+ChangePlayerIDScore 9239532 11
+IncreasePlayerIDLevel 7169782 3
+RemovePlayer 5732433
+AddPlayer 1690631 255 30
+RemovePlayer 2558105
+ChangePlayerIDScore 9846097 133
+RemovePlayer 1480268
+IncreasePlayerIDLevel 5950010 3
+AddPlayer 7741932 119 120
+ChangePlayerIDScore 200010 77
+ChangePlayerIDScore 8587635 104
+MergeGroups 341 360
+AddPlayer 7864419 190 79
+MergeGroups 111 97
+ChangePlayerIDScore 1272414 1
+RemovePlayer 4933921
+RemovePlayer 8722530
+MergeGroups -3 -2
+MergeGroups 137 30
+AddPlayer 7523885 207 42
+IncreasePlayerIDLevel 4892426 4
+IncreasePlayerIDLevel 4021241 2
+RemovePlayer -1
+AddPlayer 5904850 50 60
+MergeGroups 64 181
+ChangePlayerIDScore 3260988 7
+AddPlayer 7028599 77 49
+IncreasePlayerIDLevel 4338526 4
+RemovePlayer 9829863
+AddPlayer 9418726 23 131
+AddPlayer 7064474 74 35
+ChangePlayerIDScore 312131 101
+AddPlayer -3 -3 190
+ChangePlayerIDScore 3955068 77
+RemovePlayer 3701193
+ChangePlayerIDScore 7825753 141
+ChangePlayerIDScore 6534611 44
+IncreasePlayerIDLevel 3260988 4
+IncreasePlayerIDLevel 5810678 4
+AddPlayer 5284161 170 54
+ChangePlayerIDScore 2393226 134
+IncreasePlayerIDLevel 6463702 2
+RemovePlayer 9943226
+RemovePlayer 1391672
+RemovePlayer 6226445
+RemovePlayer 557593
+AddPlayer 2206965 154 36
+AddPlayer 1710086 49 79
+MergeGroups -1 269
+IncreasePlayerIDLevel 5207503 2
+AddPlayer 2147143 282 55
+IncreasePlayerIDLevel 9490522 2
+RemovePlayer 4109738
+MergeGroups 208 197
+RemovePlayer 8491495
+AddPlayer 6810986 212 68
+RemovePlayer 4519658
+IncreasePlayerIDLevel 4374869 2
+IncreasePlayerIDLevel 7131124 2
+IncreasePlayerIDLevel 4560665 2
+MergeGroups 231 193
+AddPlayer 7884743 200 121
+RemovePlayer 7183946
+AddPlayer 8381782 265 145
+RemovePlayer 1987868
+RemovePlayer 5728387
+RemovePlayer 254093
+AddPlayer 9941607 305 0
+IncreasePlayerIDLevel 413069 2
+RemovePlayer 5071302
+AddPlayer 6785150 294 125
+AddPlayer 2041283 27 125
+AddPlayer 1636380 174 66
+MergeGroups 360 389
+RemovePlayer 8169648
+MergeGroups 184 21
+RemovePlayer 4415792
+AddPlayer 5372752 198 112
+RemovePlayer 9345926
+MergeGroups 8 294
+AddPlayer 5937680 58 109
+RemovePlayer 2957096
+AddPlayer 5659634 9 42
+RemovePlayer 3887337
+ChangePlayerIDScore 9315700 51
+AddPlayer 3867590 51 54
+MergeGroups 175 93
+AddPlayer 9353655 185 26
+RemovePlayer 1453307
+ChangePlayerIDScore 1199934 0
+RemovePlayer 2711209
+ChangePlayerIDScore 8593659 136
+RemovePlayer 3360160
+RemovePlayer 8060856
+RemovePlayer 4023207
+AddPlayer 6891229 190 8
+IncreasePlayerIDLevel 579573 1
+RemovePlayer 3691210
+MergeGroups 283 60
+RemovePlayer 7952267
+AddPlayer 5936596 131 34
+RemovePlayer 0
+RemovePlayer 9570946
+MergeGroups 28 314
+IncreasePlayerIDLevel 2418324 3
+MergeGroups 167 -4
+AddPlayer 2156353 160 115
+AddPlayer 3470974 218 80
+ChangePlayerIDScore 7565172 76
+AddPlayer 8998571 162 17
+RemovePlayer 1444748
+AddPlayer 9563065 42 134
+AddPlayer 156085 6 46
+RemovePlayer 1961928
+MergeGroups 248 -3
+RemovePlayer 6143191
+RemovePlayer 3978824
+RemovePlayer 1811263
+MergeGroups 47 393
+AddPlayer 2502407 248 96
+AddPlayer 2258334 75 107
+IncreasePlayerIDLevel 9522557 3
+AddPlayer 4914012 129 84
+ChangePlayerIDScore 8546845 52
+MergeGroups 130 102
+AddPlayer 339378 80 34
+IncreasePlayerIDLevel 8998571 4
+AddPlayer 1624897 296 82
+RemovePlayer 3890389
+MergeGroups 267 247
+RemovePlayer 4044421
+AddPlayer 8641285 102 118
+RemovePlayer 5232251
+MergeGroups 128 35
+RemovePlayer 4891994
+AddPlayer 1059885 272 117
+RemovePlayer 8411226
+RemovePlayer 7724480
+RemovePlayer 9137178
+AddPlayer 921333 68 80
+ChangePlayerIDScore 1340716 63
+MergeGroups 129 18
+AddPlayer 3424887 246 123
+ChangePlayerIDScore 1161382 73
+ChangePlayerIDScore 8239193 51
+AddPlayer 8225527 41 141
+MergeGroups 203 149
+IncreasePlayerIDLevel 1879343 4
+AddPlayer 2816651 194 134
+AddPlayer 7582167 94 146
+MergeGroups 14 199
+IncreasePlayerIDLevel 6351000 3
+IncreasePlayerIDLevel 9938500 3
+AddPlayer 5562292 122 93
+MergeGroups 120 224
+IncreasePlayerIDLevel 4892426 3
+IncreasePlayerIDLevel 8537849 3
+ChangePlayerIDScore 205737 51
+IncreasePlayerIDLevel 4914012 3
+MergeGroups 326 160
+RemovePlayer 6171969
+ChangePlayerIDScore 6695172 92
+ChangePlayerIDScore 9708441 116
+MergeGroups 67 93
+AddPlayer 9396497 134 17
+RemovePlayer 4680320
+RemovePlayer 1963670
+AddPlayer 3144880 263 122
+RemovePlayer 9267696
+AddPlayer 7199033 51 75
+AddPlayer 3651255 44 127
+RemovePlayer 3699972
+RemovePlayer 5120747
+AddPlayer 2508048 99 85
+IncreasePlayerIDLevel 1085584 2
+RemovePlayer 2461691
+RemovePlayer 7187073
+AddPlayer 429727 70 133
+RemovePlayer 3567481
+AddPlayer 8078072 170 111
+MergeGroups 261 171
+IncreasePlayerIDLevel 5659634 2
+AddPlayer 1059885 48 67
+AddPlayer 5824057 66 79
+RemovePlayer 5110928
+RemovePlayer 7047847
+ChangePlayerIDScore 6574237 46
+IncreasePlayerIDLevel 3955068 3
+IncreasePlayerIDLevel 1388916 3
+RemovePlayer 7238953
+MergeGroups 24 163
+RemovePlayer 9520877
+AddPlayer 1007546 187 65
+ChangePlayerIDScore 5290738 67
+IncreasePlayerIDLevel 2059665 -1
+MergeGroups -4 195
+AddPlayer 918516 107 131
+RemovePlayer 6032086
+RemovePlayer 9708441
+AddPlayer 413869 3 78
+AddPlayer 2591477 162 51
+RemovePlayer 3171484
+IncreasePlayerIDLevel 3789502 0
+IncreasePlayerIDLevel 2578468 2
+RemovePlayer 7160558
+RemovePlayer 2739211
+AddPlayer 5873804 254 95
+ChangePlayerIDScore 8695317 14
+AddPlayer 8738166 241 40
+RemovePlayer 5240391
+RemovePlayer 3435436
+ChangePlayerIDScore 8543831 49
+AddPlayer 8088688 90 143
+ChangePlayerIDScore 709230 138
+RemovePlayer 6180378
+AddPlayer 5678765 250 36
+AddPlayer 612612 93 24
+MergeGroups 53 123
+RemovePlayer 3264511
+AddPlayer 6611526 271 117
+RemovePlayer 4133329
+IncreasePlayerIDLevel 468217 3
+AddPlayer 3053748 178 112
+MergeGroups 193 140
+RemovePlayer -4
+AddPlayer 8722989 36 45
+RemovePlayer 4831977
+AddPlayer 8412347 75 112
+AddPlayer 8006610 120 51
+AddPlayer 9737780 208 11
+IncreasePlayerIDLevel 5686105 4
+RemovePlayer 5511767
+AddPlayer 9958514 8 66
+AddPlayer 6766768 92 131
+ChangePlayerIDScore 156085 69
+RemovePlayer 8988031
+RemovePlayer 1085584
+MergeGroups 261 173
+ChangePlayerIDScore 9958514 110
+IncreasePlayerIDLevel 8181236 4
+MergeGroups 71 185
+IncreasePlayerIDLevel 6725640 4
+AddPlayer 5344323 99 100
+AddPlayer 4470452 116 12
+RemovePlayer -1
+IncreasePlayerIDLevel 105903 4
+RemovePlayer 6864
+RemovePlayer 4248981
+AddPlayer 4790308 52 18
+IncreasePlayerIDLevel 9786209 4
+IncreasePlayerIDLevel 1599110 2
+ChangePlayerIDScore 9036825 71
+MergeGroups 91 208
+RemovePlayer 7104257
+ChangePlayerIDScore 9490522 64
+MergeGroups 138 82
+MergeGroups 291 290
+MergeGroups 78 287
+RemovePlayer 5732113
+MergeGroups 19 305
+RemovePlayer 5824057
+RemovePlayer 9366436
+IncreasePlayerIDLevel 413069 3
+AddPlayer 4082496 50 91
+ChangePlayerIDScore 9586672 130
+AddPlayer 9030705 29 57
+AddPlayer 3991305 185 91
+ChangePlayerIDScore 1627517 150
+AddPlayer 9817669 252 50
+IncreasePlayerIDLevel 8119527 1
+IncreasePlayerIDLevel 6209520 1
+AddPlayer 1220602 235 148
+AddPlayer 1250069 147 26
+RemovePlayer 7147666
+AddPlayer 3245682 47 99
+RemovePlayer 198476
+RemovePlayer 7874926
+AddPlayer 7083818 187 141
+RemovePlayer 8136833
+AddPlayer 6923878 275 69
+AddPlayer 7685892 89 84
+RemovePlayer 1108463
+AddPlayer 2818032 77 13
+RemovePlayer 1220602
+AddPlayer 1679892 265 106
+AddPlayer 782214 201 102
+RemovePlayer 5207503
+RemovePlayer 7537905
+AddPlayer 9954972 220 68
+AddPlayer 1126609 1 21
+RemovePlayer 2429509
+IncreasePlayerIDLevel 8593659 2
+MergeGroups -1 0
+IncreasePlayerIDLevel 4199116 3
+RemovePlayer 9593292
+AddPlayer 8392608 135 1
+AddPlayer 386370 287 72
+AddPlayer 4009279 288 64
+RemovePlayer 9000489
+AddPlayer 4928505 277 3
+MergeGroups 158 221
+ChangePlayerIDScore 1597711 60
+AddPlayer 1581900 122 136
+AddPlayer 5602679 83 83
+AddPlayer 1544989 160 15
+AddPlayer 1984755 241 27
+RemovePlayer 5253558
+RemovePlayer 3376591
+IncreasePlayerIDLevel 3772613 4
+ChangePlayerIDScore 9045168 9
+AddPlayer 4516623 213 67
+IncreasePlayerIDLevel 8641285 1
+RemovePlayer 2427819
+RemovePlayer 2816651
+AddPlayer 4959358 86 135
+ChangePlayerIDScore 6610113 4
+IncreasePlayerIDLevel 2258334 4
+AddPlayer 1458066 271 41
+AddPlayer 6775054 78 72
+MergeGroups 345 146
+ChangePlayerIDScore 7382848 122
+MergeGroups 192 132
+AddPlayer 932934 54 102
+AddPlayer 2507778 180 9
+ChangePlayerIDScore 2369873 134
+IncreasePlayerIDLevel 1561252 1
+RemovePlayer 2462161
+MergeGroups 79 134
+MergeGroups 370 317
+AddPlayer 8319880 22 56
+RemovePlayer 4516623
+RemovePlayer 5344323
+AddPlayer 5505365 269 125
+ChangePlayerIDScore 8290855 50
+RemovePlayer 8738166
+AddPlayer 7471568 142 33
+RemovePlayer 5942242
+RemovePlayer 200010
+AddPlayer 354335 142 41
+MergeGroups 98 173
+AddPlayer 4154258 256 23
+AddPlayer 9960323 244 1
+AddPlayer 9725647 102 14
+RemovePlayer 2230443
+MergeGroups 203 100
+RemovePlayer 6321261
+AddPlayer 3537134 116 145
+AddPlayer 4115849 68 80
+ChangePlayerIDScore 2273156 56
+AddPlayer 3625165 2 35
+RemovePlayer 9030705
+RemovePlayer 8381782
+RemovePlayer 117380
+RemovePlayer 9832065
+ChangePlayerIDScore 3607866 64
+RemovePlayer -4
+MergeGroups 138 284
+AddPlayer 4503691 158 110
+MergeGroups 27 365
+RemovePlayer 6695172
+MergeGroups -3 -3
+AddPlayer 7949861 61 80
+RemovePlayer 6725640
+AddPlayer 2829921 63 43
+RemovePlayer 9315700
+IncreasePlayerIDLevel 6506059 2
+MergeGroups 188 212
+AddPlayer 8355941 248 114
+AddPlayer 4876785 2 125
+MergeGroups 156 194
+RemovePlayer 237065
+IncreasePlayerIDLevel 9594420 1
+RemovePlayer 8088688
+AddPlayer 9846157 310 -3
+MergeGroups 101 154
+ChangePlayerIDScore 9045168 51
+RemovePlayer 2180882
+RemovePlayer 5439698
+ChangePlayerIDScore -1 205
+RemovePlayer -1
+MergeGroups 273 207
+AddPlayer 9632869 275 2
+AddPlayer 7302166 289 26
+RemovePlayer 9418726
+RemovePlayer 5904850
+IncreasePlayerIDLevel 8728352 4
+AddPlayer 1845952 272 130
+AddPlayer 7873387 118 95
+RemovePlayer 9429309
+RemovePlayer 2829921
+RemovePlayer 6534611
+IncreasePlayerIDLevel 2567486 4
+RemovePlayer 2059665
+RemovePlayer 8181236
+RemovePlayer 8782940
+IncreasePlayerIDLevel 8366230 1
+AddPlayer 1554914 105 37
+ChangePlayerIDScore 9472910 46
+ChangePlayerIDScore 2672349 73
+MergeGroups 205 4
+RemovePlayer 6120444
+AddPlayer 7950151 261 31
+IncreasePlayerIDLevel 6459335 1
+ChangePlayerIDScore 9817669 52
+IncreasePlayerIDLevel 6267474 4
+AddPlayer 4594156 86 32
+RemovePlayer 1886490
+RemovePlayer 7411020
+MergeGroups 383 387
+AddPlayer 8928696 69 8
+IncreasePlayerIDLevel 7208273 4
+IncreasePlayerIDLevel 4790308 1
+RemovePlayer 5320943
+RemovePlayer 205737
+IncreasePlayerIDLevel 6891229 2
+ChangePlayerIDScore 1599110 29
+AddPlayer 2248908 222 13
+RemovePlayer 9288039
+RemovePlayer 6224390
+MergeGroups 328 380
+AddPlayer 4848717 259 2
+AddPlayer 9017001 80 141
+AddPlayer 5216361 351 -3
+AddPlayer 4925704 202 45
+AddPlayer 1785363 218 51
+AddPlayer 1537341 39 62
+RemovePlayer 7471568
+RemovePlayer 2945573
+AddPlayer 4885563 255 68
+RemovePlayer 5810581
+AddPlayer 6156805 5 137
+MergeGroups 334 297
+RemovePlayer 7793004
+MergeGroups 0 -2
+MergeGroups 296 158
+RemovePlayer 6484884
+IncreasePlayerIDLevel 3214205 4
+AddPlayer 8269615 281 26
+MergeGroups 16 393
+RemovePlayer 5560963
+AddPlayer 5140899 2 25
+RemovePlayer 7052145
+AddPlayer -4 0 205
+ChangePlayerIDScore 483388 114
+AddPlayer 9318814 161 34
+AddPlayer 3618368 84 7
+MergeGroups 204 113
+RemovePlayer -3
+ChangePlayerIDScore 5405523 8
+AddPlayer 2454079 71 74
+AddPlayer 6256465 15 14
+RemovePlayer 9088188
+AddPlayer 9717216 1 42
+IncreasePlayerIDLevel 2241098 2
+AddPlayer 4966732 292 28
+AddPlayer 191420 28 133
+AddPlayer 5357366 4 53
+AddPlayer 5423938 70 40
+RemovePlayer 1921267
+ChangePlayerIDScore 4639804 32
+RemovePlayer 6968738
+RemovePlayer 7387870
+MergeGroups 72 228
+RemovePlayer 8633174
+IncreasePlayerIDLevel 631846 2
+RemovePlayer 309146
+ChangePlayerIDScore 6399028 29
+MergeGroups -2 70
+AddPlayer 561311 197 29
+RemovePlayer -2
+AddPlayer 5481585 91 85
+RemovePlayer 5290738
+ChangePlayerIDScore 4814208 36
+AddPlayer 9623421 33 32
+ChangePlayerIDScore 2638944 37
+RemovePlayer 3764218
+RemovePlayer 4045843
+ChangePlayerIDScore 3867590 40
+ChangePlayerIDScore 5562292 93
+RemovePlayer 2536425
+RemovePlayer 5602679
+RemovePlayer 5183418
+AddPlayer 5562013 175 142
+AddPlayer 9239052 198 140
+RemovePlayer 7864419
+RemovePlayer 1581900
+ChangePlayerIDScore 5041235 128
+ChangePlayerIDScore 191420 38
+AddPlayer 1372042 27 8
+RemovePlayer 5846549
+MergeGroups 89 191
+MergeGroups 77 270
+MergeGroups 14 242
+RemovePlayer 921239
+RemovePlayer 1019812
+AddPlayer 4922918 258 39
+MergeGroups 134 152
+ChangePlayerIDScore 2591477 126
+RemovePlayer 3618368
+RemovePlayer 6076796
+RemovePlayer 1279901
+AddPlayer 6855009 110 83
+ChangePlayerIDScore 2258334 36
+ChangePlayerIDScore 7950151 129
+RemovePlayer 1390891
+RemovePlayer 6221170
+RemovePlayer 5849931
+RemovePlayer 7106518
+MergeGroups 170 188
+IncreasePlayerIDLevel 4189254 1
+IncreasePlayerIDLevel -1 3
+RemovePlayer 6757845
+RemovePlayer 1059885
+ChangePlayerIDScore 5474483 46
+ChangePlayerIDScore 130404 113
+IncreasePlayerIDLevel 8497108 4
+ChangePlayerIDScore 1690631 10
+AddPlayer 8874689 203 42
+IncreasePlayerIDLevel 4885563 3
+AddPlayer 6489042 297 51
+RemovePlayer 8078072
+RemovePlayer 6256465
+MergeGroups 170 85
+AddPlayer 5168812 156 62
+IncreasePlayerIDLevel 2160957 3
+AddPlayer 6262419 148 136
+AddPlayer 2576598 282 66
+ChangePlayerIDScore 4280698 109
+IncreasePlayerIDLevel 3022329 3
+AddPlayer 6254932 111 19
+AddPlayer 9758049 172 47
+ChangePlayerIDScore 5586254 81
+ChangePlayerIDScore 8366230 145
+RemovePlayer 3772613
+MergeGroups 132 247
+AddPlayer 6654187 128 47
+AddPlayer 6766249 72 139
+AddPlayer 3913186 262 32
+RemovePlayer 8366230
+AddPlayer 8455441 165 88
+RemovePlayer 5248196
+RemovePlayer 4290769
+AddPlayer 9206604 133 58
+RemovePlayer 2745693
+ChangePlayerIDScore 5584091 37
+RemovePlayer 9717216
+IncreasePlayerIDLevel 8412347 3
+MergeGroups 119 266
+RemovePlayer 3131665
+ChangePlayerIDScore 6113039 23
+IncreasePlayerIDLevel 844910 1
+MergeGroups 187 202
+RemovePlayer 2672349
+RemovePlayer 8269615
+IncreasePlayerIDLevel 1340716 1
+RemovePlayer 7930734
+MergeGroups 38 39
+MergeGroups 59 229
+RemovePlayer 1547207
+AddPlayer 9784952 200 56
+MergeGroups 366 20
+IncreasePlayerIDLevel 9786209 1
+MergeGroups 258 229
+IncreasePlayerIDLevel 8673584 2
+ChangePlayerIDScore 738784 134
+MergeGroups 171 104
+IncreasePlayerIDLevel 1710086 1
+MergeGroups 94 -4
+AddPlayer 3666133 97 113
+RemovePlayer 4702076
+AddPlayer 8410148 197 137
+RemovePlayer 9817669
+RemovePlayer 5283251
+ChangePlayerIDScore 1929058 80
+MergeGroups 230 317
+AddPlayer 4630080 145 81
+ChangePlayerIDScore 3546085 63
+AddPlayer 4357037 183 149
+IncreasePlayerIDLevel 5168812 4
+RemovePlayer 8309105
+MergeGroups 1 260
+RemovePlayer 8290855
+RemovePlayer 3746654
+IncreasePlayerIDLevel 8998402 1
+IncreasePlayerIDLevel 8006610 3
+RemovePlayer 2256956
+AddPlayer 4993726 41 67
+AddPlayer 7917147 183 79
+ChangePlayerIDScore 2608415 46
+AddPlayer 625170 270 60
+AddPlayer 8144610 220 62
+AddPlayer 2187277 221 63
+RemovePlayer 6766249
+AddPlayer 5687465 221 51
+MergeGroups 223 114
+RemovePlayer 2302064
+AddPlayer 9088293 209 15
+RemovePlayer 131937
+IncreasePlayerIDLevel 8225527 4
+RemovePlayer 8537849
+AddPlayer 2817506 148 131
+AddPlayer 5825932 219 77
+RemovePlayer -1
+AddPlayer 7178352 188 97
+ChangePlayerIDScore 2142720 47
+RemovePlayer 1636380
+ChangePlayerIDScore 312131 44
+MergeGroups 53 180
+ChangePlayerIDScore 1427481 144
+AddPlayer 1784539 97 71
+ChangePlayerIDScore 4115849 52
+MergeGroups 105 66
+AddPlayer 5322622 79 141
+AddPlayer 7751776 215 4
+RemovePlayer 7950151
+RemovePlayer -2
+RemovePlayer 7561681
+AddPlayer 5904902 40 3
+IncreasePlayerIDLevel 3311210 2
+IncreasePlayerIDLevel 7565172 1
+ChangePlayerIDScore 5870970 43
+RemovePlayer 3084664
+RemovePlayer 4021241
+RemovePlayer 8593659
+AddPlayer -4 -3 160
+AddPlayer 1928638 180 67
+AddPlayer 7868871 201 72
+AddPlayer 6228237 14 8
+IncreasePlayerIDLevel 5322622 3
+MergeGroups 48 24
+AddPlayer 7199157 108 96
+IncreasePlayerIDLevel 2147143 1
+RemovePlayer 8130586
+AddPlayer 989490 113 13
+RemovePlayer 4581103
+AddPlayer 4318077 58 5
+MergeGroups 37 390
+ChangePlayerIDScore 8146130 42
+AddPlayer 5602876 277 109
+ChangePlayerIDScore 4082496 131
+IncreasePlayerIDLevel 9396497 4
+RemovePlayer 1091720
+RemovePlayer 9353036
+AddPlayer 3507512 34 117
+AddPlayer 8562641 147 74
+MergeGroups 172 289
+RemovePlayer 9746891
+ChangePlayerIDScore 2393226 85
+AddPlayer 2554218 207 103
+AddPlayer 1645583 64 136
+IncreasePlayerIDLevel 3470974 3
+MergeGroups 224 150
+RemovePlayer 8410148
+AddPlayer 2102339 151 149
+AddPlayer 4100635 116 38
+ChangePlayerIDScore 5365317 45
+RemovePlayer 918516
+RemovePlayer 8562641
+AddPlayer 677587 162 92
+RemovePlayer 6044211
+ChangePlayerIDScore 6262419 14
+ChangePlayerIDScore 4594156 122
+MergeGroups 388 371
+RemovePlayer 8392608
+RemovePlayer 8728352
+IncreasePlayerIDLevel 7949861 4
+AddPlayer 4028303 221 97
+IncreasePlayerIDLevel 8695317 2
+ChangePlayerIDScore 5832822 7
+AddPlayer 1720914 23 15
+AddPlayer 653393 276 60
+RemovePlayer 7868871
+ChangePlayerIDScore 4280698 150
+IncreasePlayerIDLevel 229282 2
+RemovePlayer 8137643
+IncreasePlayerIDLevel 1561252 3
+ChangePlayerIDScore 1458066 102
+AddPlayer 7918595 89 69
+ChangePlayerIDScore 9938500 115
+MergeGroups 291 -3
+RemovePlayer 9528757
+RemovePlayer 6004420
+RemovePlayer 130404
+AddPlayer 5679895 297 78
+IncreasePlayerIDLevel 7841681 4
+ChangePlayerIDScore 1007546 37
+IncreasePlayerIDLevel 2723490 3
+RemovePlayer 8410980
+RemovePlayer 1224695
+MergeGroups 84 90
+AddPlayer 431478 391 0
+RemovePlayer 6067184
+MergeGroups 0 0
+RemovePlayer 1005732
+ChangePlayerIDScore 5791916 24
+ChangePlayerIDScore 3989390 8
+AddPlayer 2023187 233 34
+IncreasePlayerIDLevel 4431734 2
+MergeGroups 16 185
+AddPlayer 4196131 176 9
+IncreasePlayerIDLevel 1123364 1
+AddPlayer 8322884 268 130
+IncreasePlayerIDLevel 5686105 3
+RemovePlayer 3463592
+IncreasePlayerIDLevel 3783045 4
+RemovePlayer 9727465
+AddPlayer 466529 332 -3
+RemovePlayer 8928877
+RemovePlayer 1250069
+MergeGroups 163 -1
+MergeGroups 266 100
+RemovePlayer 8365200
+RemovePlayer 6610113
+RemovePlayer 4478387
+ChangePlayerIDScore 4966732 103
+AddPlayer 5761324 259 18
+RemovePlayer 175239
+AddPlayer 4441651 45 43
+MergeGroups -1 0
+ChangePlayerIDScore 4848401 28
+ChangePlayerIDScore 1899192 43
+ChangePlayerIDScore 3331519 2
+AddPlayer 425623 91 62
+MergeGroups 128 190
+AddPlayer 5844904 278 7
+IncreasePlayerIDLevel 4629605 4
+RemovePlayer 5590787
+ChangePlayerIDScore 2576598 92
+AddPlayer 3216860 251 67
+IncreasePlayerIDLevel 6785150 2
+IncreasePlayerIDLevel 3245682 1
+AddPlayer 4125840 281 3
+RemovePlayer 1115449
+AddPlayer 2620322 180 143
+IncreasePlayerIDLevel 1126609 2
+RemovePlayer 4317852
+IncreasePlayerIDLevel 1784539 3
+ChangePlayerIDScore 5810678 141
+ChangePlayerIDScore 7981410 25
+AddPlayer 3180836 59 41
+RemovePlayer 3311210
+AddPlayer 3315504 73 99
+RemovePlayer 4108249
+ChangePlayerIDScore 2723490 142
+MergeGroups 382 344
+RemovePlayer 229282
+AddPlayer 9267099 186 103
+RemovePlayer 7305972
+ChangePlayerIDScore 782214 91
+IncreasePlayerIDLevel 5474483 3
+IncreasePlayerIDLevel 7022545 4
+IncreasePlayerIDLevel 6923878 3
+AddPlayer 4267222 93 102
+IncreasePlayerIDLevel 6847220 1
+AddPlayer 1859848 270 93
+AddPlayer 9573454 173 68
+IncreasePlayerIDLevel 8844486 3
+RemovePlayer -4
+RemovePlayer 4369532
+IncreasePlayerIDLevel 4413757 1
+ChangePlayerIDScore 9034275 72
+MergeGroups 266 93
+AddPlayer 5605583 103 52
+MergeGroups 4 169
+MergeGroups 19 -4
+RemovePlayer 9353655
+AddPlayer 8412813 284 125
+IncreasePlayerIDLevel 9036825 4
+IncreasePlayerIDLevel 2576598 1
+MergeGroups -1 -2
+RemovePlayer 187832
+MergeGroups 198 29
+IncreasePlayerIDLevel 2454079 4
+MergeGroups 34 96
+AddPlayer 6935846 125 143
+IncreasePlayerIDLevel 5176217 3
+AddPlayer 906495 76 71
+AddPlayer 663920 258 73
+MergeGroups 205 160
+AddPlayer 8557503 166 87
+AddPlayer 7062664 228 71
+IncreasePlayerIDLevel 3625165 3
+IncreasePlayerIDLevel 6262419 3
+AddPlayer 3720606 246 71
+ChangePlayerIDScore 3981291 148
+MergeGroups 248 223
+IncreasePlayerIDLevel 8730935 4
+ChangePlayerIDScore 5870970 24
+ChangePlayerIDScore 5452990 96
+ChangePlayerIDScore 7825753 88
+RemovePlayer 5451898
+MergeGroups -3 0
+RemovePlayer 2381874
+RemovePlayer 7269418
+IncreasePlayerIDLevel 7199033 1
+ChangePlayerIDScore 4848717 72
+MergeGroups 225 145
+ChangePlayerIDScore 5055181 49
+RemovePlayer 4686856
+ChangePlayerIDScore 5678765 33
+ChangePlayerIDScore 5761324 64
+MergeGroups 119 219
+RemovePlayer 4264297
+ChangePlayerIDScore 6205180 38
+MergeGroups 43 52
+RemovePlayer 6205180
+RemovePlayer 2418324
+AddPlayer 752092 266 80
+ChangePlayerIDScore 866950 44
+ChangePlayerIDScore 5904902 56
+AddPlayer 3612345 236 1
+ChangePlayerIDScore 8412813 149
+RemovePlayer 5423938
+RemovePlayer 5358708
+ChangePlayerIDScore 6706658 16
+AddPlayer 1761214 282 11
+IncreasePlayerIDLevel 4395397 3
+AddPlayer 6068456 82 11
+IncreasePlayerIDLevel 156085 3
+RemovePlayer 9785744
+IncreasePlayerIDLevel 9838512 1
+RemovePlayer 2608415
+IncreasePlayerIDLevel 6228237 4
+AddPlayer 5326312 4 79
+AddPlayer 2851478 214 4
+RemovePlayer 4432039
+RemovePlayer 7178352
+RemovePlayer 7064474
+AddPlayer 2483621 227 55
+MergeGroups 139 149
+IncreasePlayerIDLevel -4 2
+RemovePlayer 8215734
+ChangePlayerIDScore 4413757 131
+AddPlayer 1463132 231 56
+AddPlayer 8913443 163 111
+RemovePlayer 2160957
+RemovePlayer 1243003
+RemovePlayer 1859848
+AddPlayer 9394256 226 136
+MergeGroups 65 293
+RemovePlayer 3130943
+AddPlayer 158325 208 93
+IncreasePlayerIDLevel 3122040 2
+MergeGroups 18 220
+RemovePlayer 2277249
+IncreasePlayerIDLevel 2851478 1
+MergeGroups 17 62
+MergeGroups 332 345
+AddPlayer 7819108 77 120
+AddPlayer 1066930 195 116
+AddPlayer 1003516 36 140
+RemovePlayer 7587836
+IncreasePlayerIDLevel 5300132 3
+RemovePlayer 2362278
+RemovePlayer 1558526
+ChangePlayerIDScore 7654939 53
+IncreasePlayerIDLevel 9244168 1
+AddPlayer 3075374 83 55
+AddPlayer 3717613 106 38
+ChangePlayerIDScore 2935663 145
+RemovePlayer 2567486
+MergeGroups 18 147
+RemovePlayer 9244168
+RemovePlayer 7382848
+ChangePlayerIDScore 8412813 58
+MergeGroups 85 207
+RemovePlayer 3765299
+RemovePlayer 3981291
+AddPlayer 2029219 65 129
+MergeGroups 97 80
+RemovePlayer 8412347
+AddPlayer 1308600 66 114
+AddPlayer 9054539 259 12
+RemovePlayer 2041283
+RemovePlayer 1554914
+RemovePlayer 4267222
+AddPlayer 8242379 120 19
+AddPlayer 2268279 227 70
+RemovePlayer 9445937
+RemovePlayer 8468299
+RemovePlayer 6785150
+IncreasePlayerIDLevel 9844442 1
+AddPlayer 5761043 255 71
+RemovePlayer 8394878
+RemovePlayer 2348566
+AddPlayer 6510139 15 55
+MergeGroups 191 124
+RemovePlayer 5566156
+RemovePlayer 1821383
+RemovePlayer 2817506
+MergeGroups 153 176
+RemovePlayer 4799688
+RemovePlayer 5563720
+RemovePlayer 4892426
+ChangePlayerIDScore 7489835 150
+AddPlayer 5047489 186 14
+AddPlayer 2407254 265 6
+IncreasePlayerIDLevel 1845952 4
+RemovePlayer 2407254
+RemovePlayer 8055965
+AddPlayer 9947608 208 82
+IncreasePlayerIDLevel 2449127 4
+MergeGroups 121 124
+MergeGroups 56 159
+ChangePlayerIDScore 4925704 55
+AddPlayer 6354400 63 101
+RemovePlayer 8695317
+MergeGroups 44 229
+ChangePlayerIDScore 4612934 12
+AddPlayer 5464581 35 21
+MergeGroups 52 72
+ChangePlayerIDScore 2449127 88
+AddPlayer 3903481 11 59
+RemovePlayer 6799246
+AddPlayer 4639402 263 27
+MergeGroups 246 3
+RemovePlayer -3
+ChangePlayerIDScore 8443527 31
+ChangePlayerIDScore 1007546 96
+AddPlayer 6519297 21 44
+RemovePlayer 1597711
+ChangePlayerIDScore 3955068 57
+MergeGroups 232 346
+IncreasePlayerIDLevel 8458321 -1
+ChangePlayerIDScore 8844486 45
+IncreasePlayerIDLevel 9699720 -4
+RemovePlayer 6719606
+ChangePlayerIDScore 2631830 82
+ChangePlayerIDScore 5939642 68
+ChangePlayerIDScore 7582167 71
+RemovePlayer 5832822
+ChangePlayerIDScore 8355941 12
+IncreasePlayerIDLevel 8239193 1
+MergeGroups 48 177
+IncreasePlayerIDLevel 1984755 1
+AddPlayer 4154410 77 75
+IncreasePlayerIDLevel 5372752 1
+IncreasePlayerIDLevel 1284404 3
+AddPlayer 3173663 280 34
+MergeGroups 22 13
+MergeGroups 29 45
+AddPlayer 601183 56 82
+IncreasePlayerIDLevel 9367382 4
+RemovePlayer 3144880
+RemovePlayer 9034275
+AddPlayer 1839261 175 57
+IncreasePlayerIDLevel 0 4
+RemovePlayer 158325
+RemovePlayer 8557503
+RemovePlayer 3783045
+AddPlayer 8453499 119 76
+MergeGroups -1 214
+RemovePlayer 6262419
+MergeGroups 153 66
+IncreasePlayerIDLevel 3748474 4
+RemovePlayer 2502407
+AddPlayer 1988446 53 66
+RemovePlayer 8707512
+RemovePlayer 9816249
+IncreasePlayerIDLevel 7169782 3
+RemovePlayer 2457565
+ChangePlayerIDScore 7258983 69
+AddPlayer 3338233 277 149
+ChangePlayerIDScore 1123364 61
+RemovePlayer 4503691
+IncreasePlayerIDLevel 2818032 1
+AddPlayer -1 -2 228
+MergeGroups 278 116
+ChangePlayerIDScore 2268304 74
+ChangePlayerIDScore 4639402 70
+AddPlayer 6834753 180 72
+RemovePlayer 5619649
+AddPlayer 7657371 270 136
+AddPlayer 1031242 64 71
+IncreasePlayerIDLevel 5761324 2
+ChangePlayerIDScore 1537341 139
+ChangePlayerIDScore 4395397 84
+AddPlayer 2295773 218 98
+MergeGroups 77 87
+AddPlayer 5590418 272 147
+AddPlayer 6827646 93 25
+ChangePlayerIDScore 1388916 17
+AddPlayer 2432004 195 109
+AddPlayer 4798693 202 103
+AddPlayer 6701378 224 28
+ChangePlayerIDScore -2 166
+IncreasePlayerIDLevel -2 3
+RemovePlayer 7657371
+RemovePlayer 1344149
+IncreasePlayerIDLevel 2147143 1
+MergeGroups 37 19
+ChangePlayerIDScore 3636946 60
+AddPlayer 4940097 107 63
+MergeGroups 229 284
+IncreasePlayerIDLevel 1123364 4
+ChangePlayerIDScore 1126609 41
+ChangePlayerIDScore 782214 122
+AddPlayer 6596821 79 77
+MergeGroups 162 76
+AddPlayer 220100 196 93
+RemovePlayer 9522557
+AddPlayer 8287753 104 134
+RemovePlayer 1037204
+RemovePlayer -4
+RemovePlayer 3472513
+MergeGroups 242 287
+RemovePlayer 1111947
+MergeGroups 232 189
+RemovePlayer 2393226
+RemovePlayer 2142720
+AddPlayer 3895421 100 104
+AddPlayer 5692312 25 23
+IncreasePlayerIDLevel 6434126 2
+MergeGroups 384 246
+RemovePlayer 725493
+IncreasePlayerIDLevel 1634365 1
+AddPlayer 1778355 171 110
+AddPlayer 2537644 180 9
+AddPlayer 8274037 216 74
+AddPlayer 7790743 120 127
+RemovePlayer 4318077
+MergeGroups 210 158
+IncreasePlayerIDLevel 9254897 4
+MergeGroups 269 10
+IncreasePlayerIDLevel 427337 3
+AddPlayer 3155852 215 119
+AddPlayer 5311669 21 34
+AddPlayer 5256922 31 13
+ChangePlayerIDScore 3122040 99
+AddPlayer 7752406 204 122
+IncreasePlayerIDLevel 7215954 1
+ChangePlayerIDScore 0 187
+AddPlayer 352667 65 26
+IncreasePlayerIDLevel 2037674 4
+AddPlayer 2899184 84 76
+AddPlayer 6865613 87 49
+AddPlayer -3 -4 217
+RemovePlayer 4199116
+IncreasePlayerIDLevel 9239532 1
+AddPlayer 3984387 241 47
+IncreasePlayerIDLevel 3867590 4
+RemovePlayer 6855009
+IncreasePlayerIDLevel 7790743 -2
+RemovePlayer 9141074
+MergeGroups 76 254
+MergeGroups 199 292
+ChangePlayerIDScore 5195203 70
+ChangePlayerIDScore 2631830 16
+ChangePlayerIDScore 1720914 30
+MergeGroups 178 167
+AddPlayer 9756450 227 70
+IncreasePlayerIDLevel 8842696 1
+AddPlayer 4994815 370 -3
+AddPlayer 742977 1 42
+AddPlayer 6383452 227 129
+RemovePlayer 429727
+AddPlayer 8760668 70 3
+ChangePlayerIDScore 5747698 63
+AddPlayer 1275408 204 113
+RemovePlayer 2631830
+AddPlayer 2016535 229 144
+RemovePlayer 2102339
+AddPlayer 4492326 259 36
+ChangePlayerIDScore 4914012 79
+RemovePlayer 6434126
+MergeGroups 377 395
+RemovePlayer 4594156
+AddPlayer 3160387 227 1
+AddPlayer 6507700 298 100
+RemovePlayer 8144610
+RemovePlayer 6701378
+RemovePlayer 5056233
+ChangePlayerIDScore -2 207
+AddPlayer 746280 186 2
+AddPlayer 5039130 12 73
+AddPlayer 884175 39 24
+ChangePlayerIDScore 7825753 121
+AddPlayer 3988267 110 24
+IncreasePlayerIDLevel 6209520 1
+IncreasePlayerIDLevel 8547956 4
+IncreasePlayerIDLevel 5055181 1
+ChangePlayerIDScore 2576598 26
+AddPlayer 6614443 162 118
+MergeGroups 28 98
+RemovePlayer 9394256
+RemovePlayer 4466125
+RemovePlayer 6113039
+RemovePlayer 1427481
+AddPlayer 5135304 136 82
+RemovePlayer 6067404
+AddPlayer 1537341 214 36
+MergeGroups 27 1
+RemovePlayer 7582167
+ChangePlayerIDScore -2 224
+IncreasePlayerIDLevel 4966732 1
+MergeGroups 76 208
+RemovePlayer 94798
+MergeGroups 51 270
+RemovePlayer 413869
+AddPlayer 5514013 98 141
+ChangePlayerIDScore 6209520 57
+IncreasePlayerIDLevel 1458066 2
+RemovePlayer 7215954
+RemovePlayer 7199033
+RemovePlayer 3607866
+MergeGroups 58 235
+ChangePlayerIDScore 1899192 138
+AddPlayer 4690135 289 34
+IncreasePlayerIDLevel 6935846 2
+AddPlayer 4075198 123 133
+MergeGroups 171 155
+AddPlayer 8313067 21 149
+ChangePlayerIDScore 5505365 14
+ChangePlayerIDScore 8313067 140
+AddPlayer 6007883 113 40
+MergeGroups 82 225
+AddPlayer 7835641 32 57
+RemovePlayer 5300132
+MergeGroups 293 167
+MergeGroups 263 280
+MergeGroups -2 -3
+AddPlayer 5245841 278 6
+AddPlayer 3214364 243 14
+IncreasePlayerIDLevel 5384790 4
+IncreasePlayerIDLevel 2576598 1
+AddPlayer 8939417 201 144
+ChangePlayerIDScore 339378 15
+ChangePlayerIDScore 3214364 5
+IncreasePlayerIDLevel 4075198 4
+AddPlayer 1324718 26 54
+AddPlayer 4974450 267 31
+MergeGroups 150 48
+RemovePlayer 413069
+RemovePlayer 3903481
+AddPlayer 5947435 227 101
+RemovePlayer 7605095
+IncreasePlayerIDLevel 6039156 1
+MergeGroups 374 12
+RemovePlayer 4993726
+AddPlayer 8860629 105 143
+IncreasePlayerIDLevel 1679892 4
+RemovePlayer 2048198
+IncreasePlayerIDLevel 3648756 4
+AddPlayer 3033044 94 103
+AddPlayer 4519822 271 123
+ChangePlayerIDScore 1493155 120
+AddPlayer 4154537 222 48
+MergeGroups 285 38
+ChangePlayerIDScore 5474483 92
+RemovePlayer 2639929
+ChangePlayerIDScore 2925542 30
+AddPlayer 9034845 127 33
+ChangePlayerIDScore 9947608 37
+AddPlayer 8410814 6 35
+RemovePlayer 3315504
+AddPlayer 6510139 69 26
+RemovePlayer 4690135
+AddPlayer 0 0 182
+IncreasePlayerIDLevel 3955068 1
+MergeGroups 0 162
+IncreasePlayerIDLevel 8636656 3
+AddPlayer 2082831 115 70
+IncreasePlayerIDLevel 3216860 1
+IncreasePlayerIDLevel 5326312 3
+RemovePlayer 2788732
+AddPlayer 5937680 25 110
+IncreasePlayerIDLevel 4154258 4
+RemovePlayer 9786209
+MergeGroups 101 380
+AddPlayer 4914689 81 32
+AddPlayer 7299259 132 105
+RemovePlayer 6489042
+ChangePlayerIDScore 5047489 130
+RemovePlayer 5937680
+AddPlayer 9024590 255 25
+RemovePlayer 3053748
+IncreasePlayerIDLevel 5912996 3
+IncreasePlayerIDLevel 156085 3
+AddPlayer 4974062 39 10
+IncreasePlayerIDLevel 9706207 3
+IncreasePlayerIDLevel 1372042 3
+RemovePlayer 5947435
+AddPlayer 825230 244 109
+AddPlayer 7506380 34 142
+RemovePlayer 4638180
+MergeGroups 126 205
+ChangePlayerIDScore 6007883 -2
+AddPlayer 8920151 23 131
+ChangePlayerIDScore 8860629 28
+RemovePlayer 8673584
+RemovePlayer 468217
+RemovePlayer 9396497
+RemovePlayer 7873387
+AddPlayer 619209 182 97
+ChangePlayerIDScore 4677712 28
+RemovePlayer 8225527
+RemovePlayer 4862984
+RemovePlayer 2919054
+IncreasePlayerIDLevel 609343 -1
+ChangePlayerIDScore 8156091 6
+MergeGroups 236 269
+IncreasePlayerIDLevel 1551874 3
+AddPlayer 8151685 109 108
+ChangePlayerIDScore 0 186
+AddPlayer 2927032 64 149
+AddPlayer 2345902 111 35
+MergeGroups 110 319
+RemovePlayer 9844442
+AddPlayer 2256506 15 25
+AddPlayer 8959297 281 2
+MergeGroups 82 195
+AddPlayer 6964882 183 98
+RemovePlayer 4959358
+RemovePlayer 7624938
+AddPlayer 635043 130 139
+IncreasePlayerIDLevel 6088710 4
+RemovePlayer 5506478
+ChangePlayerIDScore 9267099 26
+ChangePlayerIDScore 8710746 6
+AddPlayer 5783055 119 22
+MergeGroups 106 161
+AddPlayer 2818032 252 5
+MergeGroups 52 151
+AddPlayer 8567407 295 85
+IncreasePlayerIDLevel 2029219 1
+AddPlayer 0 -1 235
+ChangePlayerIDScore 4870564 69
+AddPlayer 5594567 7 71
+AddPlayer 3723541 255 113
+AddPlayer 3872584 211 17
+AddPlayer 5239104 108 34
+IncreasePlayerIDLevel 3419825 4
+ChangePlayerIDScore 8204397 -2
+IncreasePlayerIDLevel 5738558 3
+MergeGroups 130 151
+AddPlayer 7717785 81 23
+IncreasePlayerIDLevel 7359788 4
+ChangePlayerIDScore 1483853 40
+RemovePlayer 1308600
+RemovePlayer 3160387
+AddPlayer 3119298 121 96
+MergeGroups 24 208
+ChangePlayerIDScore 5284161 23
+RemovePlayer 5594567
+ChangePlayerIDScore 7385162 126
+RemovePlayer 9031146
+RemovePlayer 3612345
+ChangePlayerIDScore 5140899 150
+MergeGroups 175 48
+AddPlayer 7484304 284 116
+IncreasePlayerIDLevel 3216860 1
+AddPlayer 9198714 185 124
+IncreasePlayerIDLevel 4639402 1
+RemovePlayer 5761324
+RemovePlayer 9717997
+ChangePlayerIDScore 3461697 135
+ChangePlayerIDScore 5284161 24
+AddPlayer 7040441 252 89
+AddPlayer 9216598 263 38
+AddPlayer 2514012 239 35
+ChangePlayerIDScore -3 217
+AddPlayer 9992938 253 89
+IncreasePlayerIDLevel 748379 4
+RemovePlayer 5326856
+RemovePlayer 8322884
+RemovePlayer 361652
+AddPlayer 6033303 272 55
+ChangePlayerIDScore 9548798 81
+MergeGroups 63 243
+MergeGroups 199 105
+AddPlayer 779458 68 119
+RemovePlayer 9267099
+IncreasePlayerIDLevel 8151685 3
+AddPlayer 286198 23 15
+RemovePlayer 5873804
+RemovePlayer 9756450
+MergeGroups 282 73
+ChangePlayerIDScore -2 231
+RemovePlayer 2591477
+RemovePlayer 7285123
+ChangePlayerIDScore 6060119 43
+MergeGroups 248 189
+ChangePlayerIDScore 4395397 86
+MergeGroups 102 131
+AddPlayer 558636 118 32
+IncreasePlayerIDLevel 7208273 4
+AddPlayer 2564632 21 136
+MergeGroups 77 20
+AddPlayer 8134769 222 125
+RemovePlayer 6354400
+MergeGroups -2 208
+AddPlayer 2261980 275 76
+RemovePlayer 9380411
+IncreasePlayerIDLevel 1928638 2
+AddPlayer 1611205 228 76
+RemovePlayer 7208273
+MergeGroups 217 150
+MergeGroups 83 103
+MergeGroups 147 231
+AddPlayer 2804336 131 111
+AddPlayer 2223585 165 72
+RemovePlayer 5322622
+MergeGroups 294 267
+MergeGroups 153 63
+MergeGroups 177 -3
+AddPlayer 6346363 272 11
+MergeGroups 277 95
+RemovePlayer 8567407
+AddPlayer 7262367 1 140
+RemovePlayer 5239104
+AddPlayer 5619604 243 139
+RemovePlayer 1272414
+ChangePlayerIDScore 3033044 2
+AddPlayer 1646618 120 141
+RemovePlayer 6923878
+IncreasePlayerIDLevel 1220913 1
+IncreasePlayerIDLevel 7062217 1
+AddPlayer 3497274 152 135
+RemovePlayer 742977
+ChangePlayerIDScore 8319880 43
+RemovePlayer 5514013
+ChangePlayerIDScore 4848717 121
+AddPlayer 329035 129 138
+AddPlayer 8819036 7 43
+RemovePlayer 5904902
+IncreasePlayerIDLevel 7052027 2
+AddPlayer 8501767 116 144
+RemovePlayer 4025577
+ChangePlayerIDScore 8410814 24
+ChangePlayerIDScore 3782985 6
+RemovePlayer 752092
+IncreasePlayerIDLevel 6510139 4
+RemovePlayer 1458066
+RemovePlayer 2261980
+IncreasePlayerIDLevel 8998402 3
+RemovePlayer 9586672
+RemovePlayer 2167619
+RemovePlayer 9054539
+IncreasePlayerIDLevel 2550002 1
+RemovePlayer 6007883
+ChangePlayerIDScore 2268304 137
+RemovePlayer 6510139
+ChangePlayerIDScore 4519822 51
+AddPlayer 7287696 83 14
+RemovePlayer 1007546
+IncreasePlayerIDLevel 2432004 4
+RemovePlayer 7302166
+ChangePlayerIDScore 4848401 7
+RemovePlayer 3723541
+RemovePlayer 2242302
+ChangePlayerIDScore 1372042 61
+RemovePlayer 2345902
+MergeGroups 19 39
+RemovePlayer 3988267
+RemovePlayer 3346076
+RemovePlayer 5747698
+IncreasePlayerIDLevel 7199157 2
+MergeGroups 190 37
+RemovePlayer 6775054
+ChangePlayerIDScore 8491258 119
+AddPlayer 9934925 228 20
+IncreasePlayerIDLevel 5408180 2
+MergeGroups 382 342
+RemovePlayer 4798693
+MergeGroups 12 36
+RemovePlayer 1483853
+MergeGroups 262 38
+AddPlayer 2066989 19 100
+AddPlayer 6345937 259 15
+AddPlayer 166938 269 25
+MergeGroups 231 319
+AddPlayer 4698841 89 142
+RemovePlayer 8641285
+IncreasePlayerIDLevel 7741932 4
+RemovePlayer 5950010
+IncreasePlayerIDLevel 6399028 2
+MergeGroups 26 249
+IncreasePlayerIDLevel 2882716 4
+MergeGroups 379 209
+AddPlayer 9380478 131 120
+RemovePlayer 7484304
+RemovePlayer 5295781
+AddPlayer 3204081 151 97
+RemovePlayer 354335
+AddPlayer 5617547 47 44
+RemovePlayer 3497274
+MergeGroups 268 87
+AddPlayer 7040264 59 47
+IncreasePlayerIDLevel 6494308 4
+AddPlayer 9876408 241 126
+ChangePlayerIDScore 1123364 5
+RemovePlayer 6647482
+RemovePlayer 8543831
+ChangePlayerIDScore 3546085 117
+AddPlayer 6273696 117 61
+RemovePlayer 2194733
+IncreasePlayerIDLevel 7173804 3
+RemovePlayer 9563065
+RemovePlayer 9947608
+ChangePlayerIDScore 105903 49
+MergeGroups 273 139
+RemovePlayer 9005450
+RemovePlayer 9088293
+RemovePlayer 8931458
+IncreasePlayerIDLevel 9490522 -3
+AddPlayer 8064136 230 38
+ChangePlayerIDScore 2927032 133
+ChangePlayerIDScore 4560665 98
+RemovePlayer 3245682
+RemovePlayer 6519297
+IncreasePlayerIDLevel 8998402 2
+RemovePlayer 5550800
+RemovePlayer 9036825
+RemovePlayer 7062217
+RemovePlayer 0
+AddPlayer -3 -3 179
+RemovePlayer 6095043
+AddPlayer 2342138 206 105
+AddPlayer 4182754 359 -2
+RemovePlayer 9673906
+AddPlayer 2989108 190 63
+RemovePlayer 8239193
+ChangePlayerIDScore 6706658 112
+RemovePlayer 1551874
+RemovePlayer 1914764
+IncreasePlayerIDLevel 5311669 3
+AddPlayer 1462799 89 101
+ChangePlayerIDScore 619209 56
+AddPlayer 8573459 254 9
+IncreasePlayerIDLevel 2927032 3
+IncreasePlayerIDLevel 3331519 3
+AddPlayer 1115870 146 33
+RemovePlayer 166938
+RemovePlayer 4357037
+RemovePlayer 5626701
+AddPlayer 3276046 112 121
+RemovePlayer 6785421
+RemovePlayer 1463132
+AddPlayer 2113458 16 2
+RemovePlayer 6588434
+MergeGroups 132 -4
+IncreasePlayerIDLevel 3984387 2
+IncreasePlayerIDLevel 3384525 2
+AddPlayer 2316353 184 73
+RemovePlayer 4291821
+MergeGroups 0 119
+ChangePlayerIDScore 3331519 125
+AddPlayer 2614358 70 36
+IncreasePlayerIDLevel 5548503 1
+RemovePlayer 5929887
+IncreasePlayerIDLevel 8760668 3
+ChangePlayerIDScore 6803911 81
+RemovePlayer 612612
+RemovePlayer 2082831
+ChangePlayerIDScore 6766768 128
+AddPlayer -4 0 185
+AddPlayer 8998571 181 23
+ChangePlayerIDScore 7299259 17
+RemovePlayer 7385162
+IncreasePlayerIDLevel 6507700 4
+RemovePlayer 1679892
+ChangePlayerIDScore 1977496 80
+RemovePlayer 9034845
+RemovePlayer 1123364
+RemovePlayer 4338526
+IncreasePlayerIDLevel 3666133 1
+MergeGroups 286 25
+AddPlayer 1513288 152 140
+IncreasePlayerIDLevel 4986655 4
+ChangePlayerIDScore 486115 24
+MergeGroups 192 140
+ChangePlayerIDScore 2818032 95
+RemovePlayer 2896684
+ChangePlayerIDScore 7675497 130
+RemovePlayer 3276046
+AddPlayer 8917013 112 94
+ChangePlayerIDScore 6175095 143
+MergeGroups 144 32
+MergeGroups 155 143
+AddPlayer 9988234 182 41
+ChangePlayerIDScore 6946731 31
+RemovePlayer 1785363
+MergeGroups 173 321
+ChangePlayerIDScore 1611205 120
+RemovePlayer 5372752
+RemovePlayer 5522810
+AddPlayer 2195143 97 13
+AddPlayer 4946067 50 40
+RemovePlayer 2925542
+RemovePlayer 5686105
+MergeGroups 320 340
+AddPlayer 3891154 102 88
+MergeGroups 35 86
+AddPlayer 9116389 160 6
+RemovePlayer 7841681
+IncreasePlayerIDLevel 1646618 1
+RemovePlayer 9759741
+AddPlayer 4330938 325 0
+IncreasePlayerIDLevel 2507778 2
+MergeGroups 88 227
+MergeGroups 180 206
+RemovePlayer 2016535
+ChangePlayerIDScore 9490522 96
+MergeGroups 82 242
+RemovePlayer 5602876
+RemovePlayer 9725647
+MergeGroups 51 233
+MergeGroups 200 36
+RemovePlayer 8274037
+ChangePlayerIDScore 1627517 121
+AddPlayer 8830377 223 27
+RemovePlayer 5791916
+AddPlayer 3636946 173 11
+IncreasePlayerIDLevel 4028303 2
+IncreasePlayerIDLevel -3 3
+AddPlayer 4416630 274 59
+AddPlayer 7938936 31 92
+ChangePlayerIDScore 8501767 80
+ChangePlayerIDScore 5631844 104
+AddPlayer 8585758 259 46
+RemovePlayer 7390212
+ChangePlayerIDScore 5047489 136
+AddPlayer 9516372 85 111
+RemovePlayer 2147143
+RemovePlayer 1879343
+AddPlayer 6762628 106 1
+AddPlayer 7524309 122 11
+IncreasePlayerIDLevel 2187277 4
+AddPlayer 8045079 40 81
+IncreasePlayerIDLevel 5562013 1
+RemovePlayer 561311
+RemovePlayer 5631844
+AddPlayer 1054637 95 95
+ChangePlayerIDScore 191420 145
+MergeGroups -3 131
+ChangePlayerIDScore 5584091 74
+RemovePlayer 6156805
+MergeGroups 224 122
+AddPlayer 4703158 196 109
+RemovePlayer 8017384
+IncreasePlayerIDLevel 3891154 2
+RemovePlayer 8710746
+RemovePlayer 7751776
+ChangePlayerIDScore 653393 13
+RemovePlayer 5284161
+MergeGroups 59 250
+AddPlayer 6963166 121 2
+ChangePlayerIDScore 6060119 88
+AddPlayer 4487838 274 30
+IncreasePlayerIDLevel 8408634 2
+AddPlayer 4291288 226 73
+MergeGroups 240 209
+ChangePlayerIDScore -4 214
+MergeGroups 0 -2
+AddPlayer 1620212 67 139
+RemovePlayer 7981410
+MergeGroups 169 215
+RemovePlayer 6494308
+MergeGroups 47 251
+AddPlayer 2936069 290 146
+AddPlayer 1751631 18 107
+MergeGroups 234 284
+ChangePlayerIDScore 6866796 43
+RemovePlayer 4519822
+MergeGroups 52 145
+RemovePlayer 9239532
+ChangePlayerIDScore 3759733 46
+AddPlayer 36905 24 59
+AddPlayer 6541683 209 74
+MergeGroups 313 300
+MergeGroups 73 259
+RemovePlayer 3576340
+RemovePlayer 8819036
+IncreasePlayerIDLevel 7918595 1
+MergeGroups 234 125
+AddPlayer 2872718 389 -4
+RemovePlayer 8355941
+RemovePlayer 9737780
+RemovePlayer 5311669
+RemovePlayer 4698841
+AddPlayer 8420393 31 46
+IncreasePlayerIDLevel 4608208 1
+AddPlayer -2 -3 163
+RemovePlayer 3119298
+AddPlayer 386781 147 42
+RemovePlayer 932934
+RemovePlayer -2
+RemovePlayer 1031242
+AddPlayer 5969034 182 21
+RemovePlayer 601183
+RemovePlayer 9699720
+RemovePlayer 6383452
+AddPlayer 1817506 178 127
+IncreasePlayerIDLevel 6964882 3
+AddPlayer 2783933 176 134
+MergeGroups 296 147
+AddPlayer 666752 66 30
+RemovePlayer 7825753
+ChangePlayerIDScore 3338233 25
+AddPlayer 8401504 250 35
+ChangePlayerIDScore 427337 13
+ChangePlayerIDScore 5954141 95
+ChangePlayerIDScore 4986655 129
+MergeGroups 0 -2
+RemovePlayer 8458321
+AddPlayer 1750233 227 45
+RemovePlayer 2223585
+IncreasePlayerIDLevel 4320503 1
+IncreasePlayerIDLevel 7819108 -1
+AddPlayer 4807064 175 81
+MergeGroups 180 203
+RemovePlayer 4736322
+ChangePlayerIDScore 772598 96
+AddPlayer 1427899 241 19
+AddPlayer 1358598 131 129
+RemovePlayer 7487847
+AddPlayer 5479916 12 51
+MergeGroups 286 284
+ChangePlayerIDScore 5710239 127
+AddPlayer 685954 250 18
+ChangePlayerIDScore 9838512 59
+RemovePlayer 6209834
+IncreasePlayerIDLevel 1111249 1
+ChangePlayerIDScore 439698 109
+RemovePlayer 7752406
+RemovePlayer 3789502
+AddPlayer 6250136 92 40
+ChangePlayerIDScore 8407522 18
+RemovePlayer 3384525
+MergeGroups 83 261
+IncreasePlayerIDLevel 4395397 1
+AddPlayer 8610214 203 18
+IncreasePlayerIDLevel 7199157 3
+AddPlayer 1649906 153 141
+AddPlayer 7941941 34 115
+AddPlayer 0 -4 186
+ChangePlayerIDScore 3984387 103
+MergeGroups 132 166
+RemovePlayer 9992938
+IncreasePlayerIDLevel 4608208 1
+AddPlayer 1125488 117 130
+IncreasePlayerIDLevel 7173804 1
+MergeGroups 327 361
+AddPlayer 2050893 52 26
+RemovePlayer 4701863
+MergeGroups -4 -3
+MergeGroups 25 148
+MergeGroups 55 353
+RemovePlayer 738784
+RemovePlayer 6298591
+RemovePlayer 2677856
+ChangePlayerIDScore 3748474 66
+AddPlayer 5868336 153 53
+RemovePlayer 6891229
+RemovePlayer 1778355
+MergeGroups 223 241
+RemovePlayer 6762628
+RemovePlayer 4154410
+RemovePlayer 5584091
+ChangePlayerIDScore 1984755 38
+ChangePlayerIDScore 5474483 125
+RemovePlayer 481535
+AddPlayer 2686098 212 52
+AddPlayer 685652 239 130
+AddPlayer 2387006 28 71
+MergeGroups 36 265
+IncreasePlayerIDLevel 9254897 1
+ChangePlayerIDScore 4492326 70
+RemovePlayer 7918595
+MergeGroups -4 -1
+AddPlayer 3467919 206 40
+MergeGroups 184 193
+RemovePlayer 5505365
+AddPlayer 1252842 58 112
+IncreasePlayerIDLevel 9934925 1
+AddPlayer 8552247 224 20
+ChangePlayerIDScore 6218740 103
+MergeGroups 352 397
+ChangePlayerIDScore 9838512 39
+AddPlayer 9739037 377 -1
+ChangePlayerIDScore 844910 47
+ChangePlayerIDScore 709230 21
+IncreasePlayerIDLevel 8146130 4
+MergeGroups -4 150
+MergeGroups 256 231
+ChangePlayerIDScore 2554218 124
+AddPlayer 1081682 263 11
+AddPlayer 1550488 10 145
+RemovePlayer 1627517
+AddPlayer 3902418 20 95
+ChangePlayerIDScore 2723490 106
+IncreasePlayerIDLevel 7287696 3
+RemovePlayer 3895421
+MergeGroups 22 185
+AddPlayer 604332 3 31
+ChangePlayerIDScore 8920151 113
+RemovePlayer 906495
+IncreasePlayerIDLevel 1783730 1
+AddPlayer 4012607 213 20
+RemovePlayer 3368028
+MergeGroups 211 203
+IncreasePlayerIDLevel 2681586 2
+ChangePlayerIDScore 4032874 129
+AddPlayer 6327380 287 90
+IncreasePlayerIDLevel 8636656 4
+ChangePlayerIDScore 3022329 19
+ChangePlayerIDScore 7212957 145
+MergeGroups 76 69
+RemovePlayer 7884743
+AddPlayer 2824501 288 23
+ChangePlayerIDScore 558636 15
+AddPlayer 4743579 144 135
+AddPlayer 6409515 158 58
+MergeGroups 161 141
+RemovePlayer 9876408
+RemovePlayer 3507512
+MergeGroups 47 59
+AddPlayer 8654946 117 36
+MergeGroups 288 122
+AddPlayer 3208218 116 14
+IncreasePlayerIDLevel 625170 4
+AddPlayer 6537593 359 0
+MergeGroups 175 266
+AddPlayer 8708832 132 143
+RemovePlayer 6397948
+IncreasePlayerIDLevel 5936596 3
+ChangePlayerIDScore 8572219 16
+IncreasePlayerIDLevel 7299259 3
+RemovePlayer 6507700
+IncreasePlayerIDLevel 6033303 3
+MergeGroups -3 282
+RemovePlayer -4
+AddPlayer 2669228 70 41
+RemovePlayer 8844486
+AddPlayer 2739748 243 103
+RemovePlayer 8287753
+MergeGroups 187 82
+AddPlayer 2748341 188 12
+ChangePlayerIDScore 4416630 111
+IncreasePlayerIDLevel 3125119 2
+AddPlayer -2 -3 207
+ChangePlayerIDScore 5553401 43
+AddPlayer 8329043 81 88
+RemovePlayer 386370
+AddPlayer 1892913 1 35
+AddPlayer 7985951 19 39
+IncreasePlayerIDLevel 286198 2
+ChangePlayerIDScore 8610214 108
+RemovePlayer 8156091
+MergeGroups 346 354
+AddPlayer 2037674 249 10
+AddPlayer 635482 47 58
+AddPlayer 7917692 82 52
+MergeGroups 223 110
+MergeGroups 151 167
+ChangePlayerIDScore 6463702 143
+IncreasePlayerIDLevel 8412813 3
+ChangePlayerIDScore 5245841 87
+MergeGroups 248 288
+IncreasePlayerIDLevel 635482 2
+AddPlayer 6063641 74 22
+AddPlayer 6330220 198 148
+RemovePlayer 2552473
+AddPlayer 5925814 176 64
+AddPlayer 4777904 26 47
+AddPlayer 3010397 79 32
+RemovePlayer 339378
+ChangePlayerIDScore 1710086 76
+AddPlayer 9969733 147 98
+IncreasePlayerIDLevel 6130201 3
+AddPlayer 4701210 128 64
+AddPlayer -4 0 220
+RemovePlayer 2449127
+RemovePlayer 4395397
+AddPlayer 5701573 131 80
+MergeGroups 126 288
+RemovePlayer 653393
+ChangePlayerIDScore 8552247 96
+ChangePlayerIDScore 5939642 66
+AddPlayer 7310592 172 93
+MergeGroups 70 93
+ChangePlayerIDScore 329035 109
+ChangePlayerIDScore 8497108 142
+RemovePlayer 4154537
+ChangePlayerIDScore 5474613 93
+ChangePlayerIDScore 4230175 136
+AddPlayer 1627239 88 103
+IncreasePlayerIDLevel 3625165 2
+RemovePlayer 772453
+AddPlayer 9950976 27 147
+RemovePlayer 1544989
+RemovePlayer 4320503
+ChangePlayerIDScore 1611205 62
+ChangePlayerIDScore 6228237 16
+RemovePlayer 6614443
+RemovePlayer 2295773
+RemovePlayer 2514012
+RemovePlayer 1845952
+RemovePlayer 3075374
+AddPlayer 9039 184 8
+ChangePlayerIDScore 2824501 115
+RemovePlayer 7040441
+MergeGroups 106 141
+AddPlayer 3513503 134 93
+ChangePlayerIDScore 2050893 149
+RemovePlayer 4922918
+IncreasePlayerIDLevel 9841176 3
+IncreasePlayerIDLevel 2564632 1
+ChangePlayerIDScore 5007079 58
+ChangePlayerIDScore 9838512 90
+AddPlayer 4396004 130 144
+AddPlayer 9361114 238 30
+MergeGroups 14 -4
+MergeGroups 20 289
+MergeGroups 42 171
+ChangePlayerIDScore 1161382 14
+AddPlayer 1341257 79 39
+AddPlayer 8505853 112 118
+RemovePlayer 4848401
+MergeGroups -3 -1
+RemovePlayer 5678765
+RemovePlayer 9216598
+RemovePlayer 4125840
+RemovePlayer 5047489
+AddPlayer 4132377 229 47
+RemovePlayer 1372042
+AddPlayer 4075478 244 116
+IncreasePlayerIDLevel 8830377 4
+RemovePlayer 3625165
+AddPlayer 7398512 123 46
+RemovePlayer 6766768
+MergeGroups 141 95
+AddPlayer 7177543 209 71
+ChangePlayerIDScore 4743579 102
+ChangePlayerIDScore 6409515 24
+MergeGroups 391 59
+ChangePlayerIDScore 8146130 25
+MergeGroups 84 57
+RemovePlayer 5384790
+ChangePlayerIDScore 7917147 41
+IncreasePlayerIDLevel 5593301 3
+ChangePlayerIDScore 558636 50
+IncreasePlayerIDLevel 5405523 4
+IncreasePlayerIDLevel 2614358 0
+RemovePlayer 3216860
+AddPlayer 6734723 239 3
+RemovePlayer 4743579
+AddPlayer 6145339 208 38
+AddPlayer 6805364 138 6
+MergeGroups 93 148
+AddPlayer 5639994 23 149
+RemovePlayer 9206604
+ChangePlayerIDScore 7199157 7
+RemovePlayer 4230175
+IncreasePlayerIDLevel 9652618 4
+IncreasePlayerIDLevel 8401504 3
+MergeGroups 262 172
+IncreasePlayerIDLevel 5593301 -1
+IncreasePlayerIDLevel 5868336 4
+MergeGroups 258 269
+AddPlayer 6099764 10 4
+RemovePlayer 2248908
+AddPlayer 9386752 236 143
+AddPlayer 7938936 113 9
+RemovePlayer 5617547
+AddPlayer 4690083 209 125
+RemovePlayer 2136936
+RemovePlayer 8453499
+IncreasePlayerIDLevel 1561252 3
+AddPlayer 307001 56 37
+MergeGroups 123 294
+ChangePlayerIDScore 9017001 48
+MergeGroups 346 238
+ChangePlayerIDScore 4690083 52
+IncreasePlayerIDLevel 5562013 2
+AddPlayer 720880 102 18
+MergeGroups 191 155
+ChangePlayerIDScore 1957753 75
+IncreasePlayerIDLevel 1784539 3
+RemovePlayer 8546845
+ChangePlayerIDScore 7007093 37
+ChangePlayerIDScore 1720914 106
+ChangePlayerIDScore 9024590 144
+AddPlayer 7273899 191 47
+MergeGroups 82 316
+IncreasePlayerIDLevel 8064136 -4
+MergeGroups 166 251
+AddPlayer -4 -1 194
+AddPlayer 6024089 288 55
+RemovePlayer 4280698
+IncreasePlayerIDLevel 1599110 3
+AddPlayer 2535812 200 123
+AddPlayer 3056294 64 40
+MergeGroups 12 50
+ChangePlayerIDScore 5761043 50
+IncreasePlayerIDLevel 6250136 1
+AddPlayer 6548284 268 108
+AddPlayer 6655771 141 2
+AddPlayer 8784017 199 65
+RemovePlayer 8006610
+RemovePlayer 4790308
+RemovePlayer 7333976
+MergeGroups 194 159
+AddPlayer 4399534 58 22
+AddPlayer 9378884 80 138
+ChangePlayerIDScore 4946067 79
+MergeGroups 349 305
+ChangePlayerIDScore 685954 115
+ChangePlayerIDScore 8420393 121
+IncreasePlayerIDLevel 1358598 1
+ChangePlayerIDScore 592328 33
+MergeGroups 397 243
+IncreasePlayerIDLevel 5286200 -1
+MergeGroups 360 180
+IncreasePlayerIDLevel 1751631 1
+AddPlayer 5767630 280 138
+MergeGroups 95 243
+IncreasePlayerIDLevel 1161382 2
+ChangePlayerIDScore 352667 46
+IncreasePlayerIDLevel 6935846 1
+RemovePlayer 9762167
+IncreasePlayerIDLevel 6655771 3
+MergeGroups 100 65
+RemovePlayer 3260988
+AddPlayer 5267600 28 89
+RemovePlayer 7022545
+IncreasePlayerIDLevel 425623 3
+ChangePlayerIDScore 6512702 16
+RemovePlayer 3389936
+AddPlayer 411583 277 100
+AddPlayer 1086446 292 118
+RemovePlayer 7287696
+IncreasePlayerIDLevel 307001 4
+MergeGroups 297 132
+MergeGroups 140 339
+MergeGroups 194 177
+IncreasePlayerIDLevel 2804336 1
+MergeGroups 13 54
+RemovePlayer 2989108
+AddPlayer 6830600 269 101
+IncreasePlayerIDLevel 5562013 4
+RemovePlayer 1252842
+RemovePlayer 5639994
+ChangePlayerIDScore 3723373 25
+ChangePlayerIDScore 6541683 70
+MergeGroups -4 0
+RemovePlayer 2050893
+MergeGroups 15 112
+RemovePlayer -2
+RemovePlayer 5405523
+ChangePlayerIDScore 7917692 20
+IncreasePlayerIDLevel 8654946 3
+ChangePlayerIDScore 7649474 62
+RemovePlayer 5553401
+IncreasePlayerIDLevel 1513101 2
+AddPlayer 4574465 183 33
+IncreasePlayerIDLevel 9950976 2
+IncreasePlayerIDLevel 5089851 4
+IncreasePlayerIDLevel 2507778 3
+IncreasePlayerIDLevel 2899184 3
+AddPlayer 2938147 46 42
+RemovePlayer 3763032
+RemovePlayer 9024590
+ChangePlayerIDScore 5007079 99
+MergeGroups 77 -3
+MergeGroups -3 188
+AddPlayer 6060993 236 3
+MergeGroups 99 297
+IncreasePlayerIDLevel 6459335 3
+IncreasePlayerIDLevel 2578468 1
+ChangePlayerIDScore 1624897 32
+IncreasePlayerIDLevel 307001 1
+IncreasePlayerIDLevel 2483621 4
+IncreasePlayerIDLevel 1957753 4
+AddPlayer 8516779 130 7
+RemovePlayer 884175
+AddPlayer 4428569 168 146
+RemovePlayer 8784017
+RemovePlayer 7173804
+AddPlayer 6654319 270 70
+ChangePlayerIDScore 5836427 34
+ChangePlayerIDScore 2369873 51
+ChangePlayerIDScore 3867590 28
+AddPlayer 7229439 247 132
+AddPlayer 9886783 226 44
+AddPlayer 1064774 145 74
+ChangePlayerIDScore 8516779 101
+AddPlayer 2036985 266 57
+IncreasePlayerIDLevel 9938500 4
+AddPlayer 9526567 18 67
+IncreasePlayerIDLevel 5195203 2
+RemovePlayer 8585758
+RemovePlayer 7216587
+RemovePlayer 1064774
+ChangePlayerIDScore 1645583 28
+ChangePlayerIDScore 3467919 3
+RemovePlayer 8455441
+MergeGroups 47 48
+IncreasePlayerIDLevel 3723373 1
+RemovePlayer 4075478
+IncreasePlayerIDLevel 352667 3
+ChangePlayerIDScore 7649474 139
+RemovePlayer 2576598
+AddPlayer 740685 280 148
+MergeGroups 297 18
+RemovePlayer 8928696
+RemovePlayer 7429525
+RemovePlayer 1645583
+RemovePlayer 7398512
+RemovePlayer 4234299
+RemovePlayer 6865613
+MergeGroups 13 249
+RemovePlayer 1340716
+RemovePlayer 2851478
+IncreasePlayerIDLevel 772598 1
+RemovePlayer 6250136
+RemovePlayer 7131124
+RemovePlayer 7819108
+AddPlayer 7771521 49 7
+IncreasePlayerIDLevel 8555944 4
+IncreasePlayerIDLevel 1111249 4
+AddPlayer 8842653 267 29
+ChangePlayerIDScore 772598 59
+ChangePlayerIDScore 9969733 4
+RemovePlayer 5868336
+MergeGroups 70 40
+IncreasePlayerIDLevel 4280835 1
+AddPlayer 6786582 53 17
+RemovePlayer 2268279
+AddPlayer 2294000 274 112
+AddPlayer 6760848 83 39
+RemovePlayer 2564632
+AddPlayer 9774472 73 114
+IncreasePlayerIDLevel 6297078 3
+RemovePlayer 486115
+IncreasePlayerIDLevel 9958514 3
+RemovePlayer 7565172
+AddPlayer 5856160 260 94
+RemovePlayer 6459335
+RemovePlayer -3
+ChangePlayerIDScore 1513288 53
+IncreasePlayerIDLevel 5586254 4
+RemovePlayer 2669228
+IncreasePlayerIDLevel 1957753 4
+IncreasePlayerIDLevel 635482 2
+MergeGroups 334 269
+RemovePlayer 4154258
+MergeGroups 64 -1
+MergeGroups -2 -4
+IncreasePlayerIDLevel 1324718 4
+AddPlayer 3811371 263 22
+ChangePlayerIDScore 5605583 100
+AddPlayer 1292675 297 52
+MergeGroups 216 149
+RemovePlayer 7790743
+RemovePlayer 6611526
+RemovePlayer 2432004
+AddPlayer 2072636 47 20
+ChangePlayerIDScore 4966732 14
+IncreasePlayerIDLevel 2268304 1
+RemovePlayer 3022329
+AddPlayer 1165653 242 16
+IncreasePlayerIDLevel 8401504 1
+MergeGroups 208 2
+AddPlayer 7998804 275 45
+MergeGroups 165 152
+ChangePlayerIDScore 9594420 2
+AddPlayer 4910998 141 82
+MergeGroups 71 301
+RemovePlayer 5474613
+IncreasePlayerIDLevel -4 3
+ChangePlayerIDScore 279812 99
+IncreasePlayerIDLevel 7083818 4
+MergeGroups 186 156
+IncreasePlayerIDLevel 1081682 3
+AddPlayer 7445745 45 128
+ChangePlayerIDScore 6330220 24
+IncreasePlayerIDLevel 3306023 2
+IncreasePlayerIDLevel 6273696 3
+AddPlayer 1370758 273 5
+AddPlayer 6679830 149 93
+AddPlayer 9965623 237 37
+RemovePlayer 8860629
+RemovePlayer 6267474
+ChangePlayerIDScore 427337 30
+RemovePlayer 6273696
+MergeGroups 114 35
+AddPlayer 1318842 67 39
+RemovePlayer 6506059
+RemovePlayer 5256922
+ChangePlayerIDScore 6554268 90
+RemovePlayer 9965701
+AddPlayer 8906390 217 141
+RemovePlayer 6830600
+AddPlayer 7265838 103 26
+AddPlayer 3323213 28 135
+MergeGroups 109 397
+MergeGroups 172 200
+MergeGroups 99 115
+ChangePlayerIDScore 105903 43
+IncreasePlayerIDLevel 3537134 3
+IncreasePlayerIDLevel 5954141 1
+AddPlayer 440063 59 133
+RemovePlayer 3759733
+AddPlayer 9810687 151 125
+RemovePlayer 3424887
+RemovePlayer 685652
+AddPlayer 2406938 102 137
+ChangePlayerIDScore 4375216 136
+IncreasePlayerIDLevel 7941941 1
+RemovePlayer 4629605
+RemovePlayer 9934925
+RemovePlayer 5562013
+ChangePlayerIDScore 6399028 99
+RemovePlayer 1929058
+AddPlayer 5807541 102 25
+RemovePlayer 9472910
+ChangePlayerIDScore 1318842 99
+IncreasePlayerIDLevel 4639402 3
+RemovePlayer 5041235
+IncreasePlayerIDLevel 1634365 3
+RemovePlayer 1513101
+RemovePlayer 6399028
+MergeGroups 45 60
+ChangePlayerIDScore 7506380 94
+RemovePlayer 3619828
+MergeGroups 171 362
+AddPlayer 788363 219 146
+ChangePlayerIDScore -1 215
+ChangePlayerIDScore 9318814 122
+ChangePlayerIDScore 7199157 149
+MergeGroups 340 368
+IncreasePlayerIDLevel 8882950 1
+MergeGroups 161 233
+AddPlayer 4326172 57 117
+AddPlayer -1 -2 240
+IncreasePlayerIDLevel 4925704 3
+IncreasePlayerIDLevel 1478634 1
+MergeGroups 229 87
+ChangePlayerIDScore 3010397 136
+ChangePlayerIDScore 9594420 75
+AddPlayer 8516388 5 4
+IncreasePlayerIDLevel 4940097 4
+AddPlayer 1032044 339 -3
+AddPlayer 1220913 217 40
+AddPlayer 1382488 256 73
+MergeGroups 88 127
+IncreasePlayerIDLevel 1854515 1
+MergeGroups 156 38
+MergeGroups 353 368
+RemovePlayer 9758049
+ChangePlayerIDScore 7968660 118
+MergeGroups -4 -1
+AddPlayer 1714637 295 4
+MergeGroups 135 11
+AddPlayer 2749782 260 33
+MergeGroups 128 208
+IncreasePlayerIDLevel 3891154 3
+RemovePlayer 7177543
+RemovePlayer 425623
+ChangePlayerIDScore 7523885 76
+AddPlayer 4948971 57 40
+IncreasePlayerIDLevel 8242379 2
+IncreasePlayerIDLevel 4326172 3
+RemovePlayer 1784539
+RemovePlayer 9239052
+RemovePlayer 2507778
+MergeGroups 290 22
+RemovePlayer 6088710
+AddPlayer 8671114 130 37
+ChangePlayerIDScore 4100635 45
+ChangePlayerIDScore 9677709 109
+AddPlayer 7675882 62 17
+RemovePlayer 4814208
+AddPlayer 4582345 247 93
+MergeGroups 158 160
+AddPlayer 3147550 164 96
+IncreasePlayerIDLevel 8064136 1
+MergeGroups 350 127
+AddPlayer 5838062 96 128
+RemovePlayer 5783055
+AddPlayer 7231145 193 78
+RemovePlayer 1370758
+RemovePlayer 4870564
+MergeGroups 372 255
+MergeGroups 295 52
+RemovePlayer 2294000
+AddPlayer 1394819 210 68
+RemovePlayer 6797115
+IncreasePlayerIDLevel 5007079 4
+IncreasePlayerIDLevel 2554218 4
+MergeGroups 244 176
+RemovePlayer 9548798
+RemovePlayer 156085
+AddPlayer 9759978 147 145
+IncreasePlayerIDLevel 6786582 2
+RemovePlayer 1751631
+MergeGroups -3 292
+ChangePlayerIDScore 8313067 130
+RemovePlayer 0
+AddPlayer 5662905 86 146
+MergeGroups 136 117
+ChangePlayerIDScore 8842696 60
+RemovePlayer 9988234
+ChangePlayerIDScore 4701210 18
+ChangePlayerIDScore 9380478 73
+MergeGroups 113 97
+AddPlayer 7132258 80 63
+ChangePlayerIDScore 3811371 36
+RemovePlayer 6541683
+IncreasePlayerIDLevel 663920 4
+AddPlayer 1157011 146 111
+RemovePlayer 6006000
+AddPlayer 8505853 264 119
+IncreasePlayerIDLevel 5954141 1
+IncreasePlayerIDLevel 4115849 3
+MergeGroups 0 246
+AddPlayer 6050704 154 135
+IncreasePlayerIDLevel 625170 3
+IncreasePlayerIDLevel 9965623 2
+RemovePlayer 3867590
+RemovePlayer 6946731
+IncreasePlayerIDLevel 105903 3
+ChangePlayerIDScore 1620212 73
+AddPlayer 5544543 144 37
+AddPlayer 6287324 162 99
+RemovePlayer 5641187
+MergeGroups -1 283
+RemovePlayer 4032874
+AddPlayer 6271121 249 84
+AddPlayer 7832063 182 10
+MergeGroups 168 89
+IncreasePlayerIDLevel 7166802 1
+ChangePlayerIDScore 9838512 8
+AddPlayer 3441869 234 83
+MergeGroups 241 159
+MergeGroups 0 263
+RemovePlayer 8610214
+RemovePlayer 5870970
+IncreasePlayerIDLevel 8501767 2
+AddPlayer 3902811 228 106
+AddPlayer 4435759 143 143
+AddPlayer 9262694 106 112
+ChangePlayerIDScore 2927032 111
+ChangePlayerIDScore 3720606 33
+IncreasePlayerIDLevel 7985951 1
+ChangePlayerIDScore 3913186 64
+RemovePlayer 8917013
+MergeGroups -2 45
+RemovePlayer 9017001
+RemovePlayer 4928505
+RemovePlayer 5481585
+AddPlayer 4749413 133 120
+AddPlayer 1753622 386 -2
+AddPlayer 4845648 381 -4
+AddPlayer 3145865 199 100
+AddPlayer 6866850 236 13
+AddPlayer 7542362 28 149
+MergeGroups 19 49
+AddPlayer 8144030 146 142
+RemovePlayer 5687465
+ChangePlayerIDScore 5717886 30
+RemovePlayer 4115849
+ChangePlayerIDScore 8874689 59
+RemovePlayer 1388916
+MergeGroups 282 184
+AddPlayer 7788588 253 105
+AddPlayer 2130575 40 132
+ChangePlayerIDScore 4396004 118
+RemovePlayer 427337
+IncreasePlayerIDLevel 2066989 4
+MergeGroups 172 126
+AddPlayer 2062840 100 59
+RemovePlayer 8636656
+IncreasePlayerIDLevel 6805364 2
+RemovePlayer 9810687
+RemovePlayer 9841176
+IncreasePlayerIDLevel 9045168 4
+ChangePlayerIDScore 4914012 117
+MergeGroups 329 388
+IncreasePlayerIDLevel 2578468 3
+IncreasePlayerIDLevel 7273899 1
+MergeGroups 267 10
+AddPlayer 3564953 46 147
+IncreasePlayerIDLevel 8842696 4
+IncreasePlayerIDLevel 4075198 3
+MergeGroups 317 273
+AddPlayer 6343477 109 5
+MergeGroups 223 104
+IncreasePlayerIDLevel 746280 4
+ChangePlayerIDScore 4690083 109
+RemovePlayer 3461697
+AddPlayer 5675703 30 72
+AddPlayer 3919543 213 18
+IncreasePlayerIDLevel 2294337 2
+RemovePlayer 3902811
+AddPlayer 8762548 196 16
+ChangePlayerIDScore 1561252 6
+RemovePlayer 8119527
+AddPlayer 7402073 46 3
+MergeGroups 70 -1
+RemovePlayer 7649474
+MergeGroups 81 250
+ChangePlayerIDScore 3022639 35
+IncreasePlayerIDLevel 3441869 3
+IncreasePlayerIDLevel 6033303 1
+ChangePlayerIDScore 8998571 125
+RemovePlayer 1071828
+RemovePlayer -4
+AddPlayer 3189589 109 107
+ChangePlayerIDScore 1054637 1
+AddPlayer 3473096 257 139
+AddPlayer 7504255 61 43
+IncreasePlayerIDLevel 1928638 4
+MergeGroups 41 264
+MergeGroups 152 105
+IncreasePlayerIDLevel 3984387 4
+IncreasePlayerIDLevel 386781 2
+IncreasePlayerIDLevel 2535812 3
+ChangePlayerIDScore 5675703 23
+RemovePlayer -2
+RemovePlayer 8045079
+IncreasePlayerIDLevel 7941941 3
+AddPlayer 6928471 281 73
+RemovePlayer 5135304
+AddPlayer 6834571 23 62
+RemovePlayer 4560665
+MergeGroups 91 238
+RemovePlayer 8906390
+AddPlayer 9304859 13 36
+RemovePlayer 4582345
+MergeGroups 134 230
+AddPlayer 8188368 49 10
+IncreasePlayerIDLevel 5267600 2
+ChangePlayerIDScore 3145865 107
+RemovePlayer 5590418
+RemovePlayer 2454079
+AddPlayer 9496076 88 80
+ChangePlayerIDScore 9965623 144
+AddPlayer 4944151 266 97
+AddPlayer 9053976 106 37
+ChangePlayerIDScore 7262367 12
+AddPlayer 527265 59 122
+MergeGroups 13 139
+RemovePlayer 3470974
+MergeGroups 89 136
+AddPlayer 9784621 117 25
+IncreasePlayerIDLevel 9954972 4
+ChangePlayerIDScore -2 179
+ChangePlayerIDScore 3141300 110
+MergeGroups 350 378
+RemovePlayer 8882950
+MergeGroups -2 -1
+AddPlayer 6440102 105 62
+RemovePlayer 2206965
+AddPlayer 8348968 112 115
+MergeGroups 262 283
+RemovePlayer 4925704
+RemovePlayer 6463702
+RemovePlayer 4189254
+AddPlayer 5376952 268 90
+MergeGroups 85 236
+IncreasePlayerIDLevel 8064136 3
+IncreasePlayerIDLevel 1783730 4
+AddPlayer 4239721 80 80
+MergeGroups 269 132
+RemovePlayer 6964882
+AddPlayer 5825633 206 22
+RemovePlayer 8842696
+AddPlayer 1763800 211 50
+RemovePlayer 9969733
+AddPlayer 1245163 209 61
+RemovePlayer 2369873
+RemovePlayer 8708832
+AddPlayer 5137265 19 2
+RemovePlayer 8146130
+MergeGroups 179 191
+IncreasePlayerIDLevel 4807064 1
+AddPlayer 8131296 396 -3
+AddPlayer 1221025 86 94
+AddPlayer 9069982 234 33
+AddPlayer 9239693 74 134
+IncreasePlayerIDLevel 2255243 2
+MergeGroups 334 336
+MergeGroups 218 15
+ChangePlayerIDScore 1561252 56
+AddPlayer 7576108 291 57
+AddPlayer 2290231 127 141
+RemovePlayer 7576108
+RemovePlayer 7310592
+AddPlayer 7033906 183 9
+AddPlayer 2067833 84 144
+RemovePlayer 2554218
+AddPlayer 1201789 251 34
+AddPlayer 4594758 177 118
+IncreasePlayerIDLevel 3989390 3
+RemovePlayer 3145865
+RemovePlayer 7968660
+ChangePlayerIDScore 7199157 6
+AddPlayer 5072908 139 112
+AddPlayer 5975353 133 68
+MergeGroups 250 156
+AddPlayer 1471934 217 75
+AddPlayer 7896561 88 129
+RemovePlayer 7132258
+RemovePlayer 6301785
+MergeGroups 258 29
+IncreasePlayerIDLevel 5072908 1
+MergeGroups 123 296
+MergeGroups 317 198
+MergeGroups -1 -2
+RemovePlayer 1382488
+AddPlayer 6826952 27 34
+ChangePlayerIDScore 1854515 117
+AddPlayer 2681768 253 140
+AddPlayer 108185 117 12
+ChangePlayerIDScore 3056294 5
+ChangePlayerIDScore 1221025 12
+MergeGroups 284 229
+RemovePlayer 9254897
+MergeGroups 0 -3
+AddPlayer 8933362 3 66
+RemovePlayer 2029219
+IncreasePlayerIDLevel 4944151 4
+IncreasePlayerIDLevel 9685364 2
+RemovePlayer 8555944
+MergeGroups 272 3
+RemovePlayer 7675882
+RemovePlayer 2483621
+RemovePlayer 8151685
+RemovePlayer 788363
+RemovePlayer 2037674
+RemovePlayer 8760668
+AddPlayer 2068894 293 34
+MergeGroups 103 187
+ChangePlayerIDScore 5939642 83
+MergeGroups 84 60
+IncreasePlayerIDLevel 3717613 2
+AddPlayer 2199481 79 144
+AddPlayer 7260947 264 150
+IncreasePlayerIDLevel 4682165 4
+AddPlayer -1 -3 214
+MergeGroups -1 -2
+MergeGroups 213 120
+IncreasePlayerIDLevel 9053976 2
+MergeGroups 334 384
+RemovePlayer 677587
+RemovePlayer 7679715
+IncreasePlayerIDLevel 3989390 2
+ChangePlayerIDScore 2968327 1
+IncreasePlayerIDLevel 1892913 1
+RemovePlayer 1854515
+AddPlayer 566188 135 115
+AddPlayer 7623311 2 114
+MergeGroups 294 96
+ChangePlayerIDScore 6734723 18
+MergeGroups 45 36
+RemovePlayer 6175095
+MergeGroups 63 41
+MergeGroups 213 13
+MergeGroups 178 260
+AddPlayer 520228 162 137
+RemovePlayer 4009279
+ChangePlayerIDScore -1 200
+RemovePlayer 9539348
+ChangePlayerIDScore 5137265 8
+RemovePlayer 7402073
+RemovePlayer 9361114
+AddPlayer 4718978 271 48
+AddPlayer 1117302 61 5
+IncreasePlayerIDLevel 3636946 3
+AddPlayer 854679 128 61
+RemovePlayer 6935846
+RemovePlayer 5975353
+RemovePlayer 7258983
+MergeGroups 216 297
+RemovePlayer 6866850
+RemovePlayer 3010397
+RemovePlayer 3891154
+RemovePlayer 2068894
+AddPlayer 1659982 68 12
+IncreasePlayerIDLevel 6287906 2
+AddPlayer 6756943 152 29
+IncreasePlayerIDLevel 720880 4
+MergeGroups 68 294
+RemovePlayer 0
+IncreasePlayerIDLevel 1324718 -4
+AddPlayer 9825307 52 5
+AddPlayer 5830993 288 103
+RemovePlayer 7330652
+RemovePlayer 4435759
+RemovePlayer 2509628
+MergeGroups 9 182
+ChangePlayerIDScore 2749782 34
+AddPlayer 5022401 79 124
+AddPlayer 9569042 97 147
+IncreasePlayerIDLevel 2067833 3
+ChangePlayerIDScore 2387006 21
+ChangePlayerIDScore 9318814 59
+RemovePlayer 2877993
+RemovePlayer 5807541
+RemovePlayer 5925814
+RemovePlayer 9045168
+RemovePlayer 3955068
+AddPlayer 3567903 119 61
+IncreasePlayerIDLevel 3720606 3
+IncreasePlayerIDLevel 1624897 3
+ChangePlayerIDScore 3214205 103
+ChangePlayerIDScore 8911865 60
+MergeGroups 287 157
+AddPlayer 2482725 79 49
+RemovePlayer 1221025
+AddPlayer 6501948 189 13
+RemovePlayer 1627239
+IncreasePlayerIDLevel 1690631 2
+MergeGroups 322 337
+MergeGroups 113 169
+IncreasePlayerIDLevel 9774472 1
+AddPlayer 9979273 296 60
+ChangePlayerIDScore 6063641 23
+IncreasePlayerIDLevel 866950 4
+MergeGroups 329 197
+AddPlayer 4086465 155 98
+RemovePlayer 740685
+ChangePlayerIDScore 854679 146
+ChangePlayerIDScore 329035 52
+AddPlayer 1031489 124 1
+IncreasePlayerIDLevel 7524309 3
+AddPlayer 8278524 84 82
+RemovePlayer 609343
+IncreasePlayerIDLevel 1324718 4
+AddPlayer 2144295 89 127
+MergeGroups 176 219
+IncreasePlayerIDLevel 927350 3
+RemovePlayer 6145339
+AddPlayer 4364522 67 112
+AddPlayer 4293145 17 21
+AddPlayer 608980 113 51
+AddPlayer 5059266 108 113
+ChangePlayerIDScore 5912996 117
+ChangePlayerIDScore 6827646 11
+RemovePlayer 3306023
+RemovePlayer 1710086
+RemovePlayer 9378884
+MergeGroups 159 171
+IncreasePlayerIDLevel 2681586 1
+IncreasePlayerIDLevel 3056294 3
+RemovePlayer 2144295
+RemovePlayer 9965623
+MergeGroups 282 23
+AddPlayer 6336590 16 25
+IncreasePlayerIDLevel 4690083 1
+MergeGroups 6 -4
+AddPlayer 7126738 13 109
+ChangePlayerIDScore 439698 128
+RemovePlayer 307001
+AddPlayer 516942 181 128
+IncreasePlayerIDLevel 9380478 1
+AddPlayer 1897794 213 96
+AddPlayer 2649251 69 20
+ChangePlayerIDScore 4100635 105
+AddPlayer 4406314 174 97
+IncreasePlayerIDLevel 2508048 0
+MergeGroups 341 341
+ChangePlayerIDScore 1892913 85
+RemovePlayer 7273899
+AddPlayer 1461940 220 35
+RemovePlayer 7896561
+RemovePlayer 9958514
+ChangePlayerIDScore 6024089 68
+AddPlayer 2502010 96 112
+RemovePlayer 9451543
+RemovePlayer 2508048
+AddPlayer 9487889 89 1
+IncreasePlayerIDLevel 1802014 2
+AddPlayer 3187443 39 6
+RemovePlayer 352667
+IncreasePlayerIDLevel 2927032 2
+ChangePlayerIDScore 2151666 92
+RemovePlayer 6565967
+AddPlayer 5005755 204 14
+AddPlayer 1395072 72 31
+ChangePlayerIDScore 3331519 150
+ChangePlayerIDScore 4699285 95
+MergeGroups 191 280
+AddPlayer 1111249 264 144
+AddPlayer 9921195 28 127
+RemovePlayer 4396004
+IncreasePlayerIDLevel 2927032 -1
+RemovePlayer 5479916
+MergeGroups 166 128
+AddPlayer 7232621 178 22
+AddPlayer 4160567 155 5
+IncreasePlayerIDLevel 3984387 3
+ChangePlayerIDScore 2199481 96
+ChangePlayerIDScore 9677709 77
+ChangePlayerIDScore 7260947 134
+RemovePlayer 520228
+AddPlayer 5462010 230 44
+AddPlayer 4719151 92 77
+MergeGroups -1 98
+AddPlayer 3547345 140 94
+RemovePlayer 4239721
+MergeGroups 196 207
+RemovePlayer 9759978
+ChangePlayerIDScore 1634365 135
+RemovePlayer 5954141
+AddPlayer 6086608 12 77
+AddPlayer 8232932 99 148
+MergeGroups 147 58
+AddPlayer 5618754 257 113
+RemovePlayer 2482725
+MergeGroups 159 246
+RemovePlayer 5717886
+MergeGroups 68 85
+IncreasePlayerIDLevel 7338691 1
+AddPlayer 1797607 234 113
+AddPlayer 9985412 13 124
+MergeGroups 183 132
+MergeGroups 155 86
+IncreasePlayerIDLevel 3173663 2
+RemovePlayer 286198
+RemovePlayer 7523885
+AddPlayer 9502979 27 42
+IncreasePlayerIDLevel 6834753 1
+AddPlayer 723495 186 119
+AddPlayer 5379255 255 61
+RemovePlayer 7938936
+MergeGroups 184 113
+AddPlayer 9181944 173 93
+ChangePlayerIDScore 5055181 1
+ChangePlayerIDScore 527265 19
+AddPlayer 5834774 146 70
+AddPlayer 2537644 84 110
+AddPlayer 2066989 119 14
+AddPlayer 3197940 8 23
+IncreasePlayerIDLevel 8842653 -3
+IncreasePlayerIDLevel 1977496 3
+AddPlayer 5042647 80 124
+IncreasePlayerIDLevel 439698 4
+IncreasePlayerIDLevel 5701573 3
+MergeGroups 276 203
+ChangePlayerIDScore 3197940 114
+AddPlayer 1701509 9 142
+AddPlayer 632581 260 72
+AddPlayer 2334349 104 32
+RemovePlayer 7231145
+ChangePlayerIDScore 3338233 39
+ChangePlayerIDScore 2334349 107
+RemovePlayer 3407305
+AddPlayer 7996317 109 72
+AddPlayer 2119436 224 92
+AddPlayer 3665806 51 6
+MergeGroups 51 14
+ChangePlayerIDScore 5810678 132
+ChangePlayerIDScore 4848717 8
+RemovePlayer 6810986
+MergeGroups 9 265
+AddPlayer 2802375 148 84
+AddPlayer 3701584 28 33
+IncreasePlayerIDLevel 1537341 3
+AddPlayer 6766381 79 132
+AddPlayer 1984755 234 49
+AddPlayer 550451 103 125
+RemovePlayer 9526567
+AddPlayer 3314762 10 130
+AddPlayer 4240283 103 90
+ChangePlayerIDScore 1284404 23
+MergeGroups -4 284
+RemovePlayer 5326312
+IncreasePlayerIDLevel 7721282 2
+AddPlayer 5338179 224 119
+IncreasePlayerIDLevel 386781 3
+RemovePlayer 4132377
+AddPlayer 2891342 118 100
+AddPlayer 7114442 145 148
+MergeGroups 52 281
+AddPlayer 3120462 149 11
+MergeGroups 85 228
+RemovePlayer 2938147
+AddPlayer 4845595 176 2
+RemovePlayer 1161382
+RemovePlayer 2258334
+RemovePlayer 108185
+MergeGroups 316 18
+RemovePlayer 1199934
+RemovePlayer 6554268
+MergeGroups -1 13
+RemovePlayer 3323213
+IncreasePlayerIDLevel 6963166 3
+AddPlayer 9416555 267 11
+RemovePlayer 1802014
+RemovePlayer 5072908
+ChangePlayerIDScore 3264266 80
+MergeGroups 311 343
+AddPlayer 1433382 272 70
+AddPlayer 3165438 146 98
+RemovePlayer 8939417
+IncreasePlayerIDLevel 8959297 2
+AddPlayer 5308812 58 47
+RemovePlayer 1394819
+AddPlayer 8366756 64 41
+IncreasePlayerIDLevel 685954 2
+IncreasePlayerIDLevel 9304859 4
+RemovePlayer 9784952
+AddPlayer 5223599 47 102
+IncreasePlayerIDLevel 558636 3
+AddPlayer 4966532 234 59
+RemovePlayer 6766381
+ChangePlayerIDScore 5137265 146
+RemovePlayer 1634365
+RemovePlayer 8408634
+AddPlayer 764441 127 125
+AddPlayer 7918490 182 63
+MergeGroups 27 270
+ChangePlayerIDScore 4515591 13
+IncreasePlayerIDLevel 9677709 4
+RemovePlayer 3919543
+MergeGroups 313 302
+AddPlayer 1266697 281 134
+ChangePlayerIDScore 4075198 84
+IncreasePlayerIDLevel 921333 3
+RemovePlayer 1988446
+MergeGroups 293 252
+AddPlayer 8137650 46 16
+MergeGroups 64 276
+RemovePlayer 2199481
+RemovePlayer 7169782
+ChangePlayerIDScore 9502979 146
+ChangePlayerIDScore 2062840 58
+AddPlayer 1112090 91 105
+RemovePlayer 4012607
+AddPlayer 3077082 101 40
+RemovePlayer 6050704
+AddPlayer 8854189 157 131
+RemovePlayer 4160567
+RemovePlayer 2681768
+RemovePlayer 9439117
+RemovePlayer 8366756
+AddPlayer 866950 204 6
+IncreasePlayerIDLevel 8242379 2
+ChangePlayerIDScore 1318842 140
+IncreasePlayerIDLevel 5308812 4
+RemovePlayer 2072636
+IncreasePlayerIDLevel 6866796 2
+MergeGroups 5 22
+RemovePlayer 8505853
+RemovePlayer 5338179
+RemovePlayer 4406314
+IncreasePlayerIDLevel -2 2
+IncreasePlayerIDLevel 7359788 2
+RemovePlayer 1561252
+AddPlayer 3773104 230 25
+AddPlayer 5618482 296 39
+AddPlayer 4528892 249 43
+ChangePlayerIDScore 6803911 129
+AddPlayer 3745340 107 75
+AddPlayer 7435405 248 60
+RemovePlayer 3180836
+RemovePlayer 5408180
+IncreasePlayerIDLevel 3441869 1
+MergeGroups 289 267
+RemovePlayer 9706207
+AddPlayer 532850 263 111
+RemovePlayer 8319880
+IncreasePlayerIDLevel 3208218 3
+MergeGroups 92 31
+RemovePlayer 6455284
+IncreasePlayerIDLevel 4510434 3
+IncreasePlayerIDLevel 6834753 2
+RemovePlayer 2818032
+AddPlayer 6956202 201 6
+AddPlayer 3822979 12 39
+IncreasePlayerIDLevel 4974450 4
+IncreasePlayerIDLevel 7623311 3
+RemovePlayer 5830993
+MergeGroups 31 48
+RemovePlayer 9825307
+AddPlayer 2294337 3 67
+IncreasePlayerIDLevel 3665806 4
+MergeGroups 0 -2
+MergeGroups 97 11
+IncreasePlayerIDLevel 8188368 3
+AddPlayer 4983277 185 32
+AddPlayer 8813167 185 98
+RemovePlayer 2334349
+MergeGroups 268 217
+IncreasePlayerIDLevel 3782985 2
+IncreasePlayerIDLevel 4914689 4
+ChangePlayerIDScore 4075198 1
+ChangePlayerIDScore 4028303 148
+AddPlayer 2254322 107 12
+RemovePlayer 439698
+ChangePlayerIDScore 5452990 34
+RemovePlayer 7832063
+ChangePlayerIDScore 8420393 89
+IncreasePlayerIDLevel 4701210 2
+IncreasePlayerIDLevel 7489835 2
+IncreasePlayerIDLevel 3214205 1
+IncreasePlayerIDLevel 7949861 4
+MergeGroups 201 286
+IncreasePlayerIDLevel 8877526 1
+RemovePlayer 4470452
+AddPlayer 6989989 52 122
+MergeGroups 252 89
+ChangePlayerIDScore 4413757 10
+MergeGroups 241 155
+RemovePlayer 7199157
+IncreasePlayerIDLevel 1115870 1
+MergeGroups 228 208
+RemovePlayer -1
+RemovePlayer 6548284
+MergeGroups 25 77
+IncreasePlayerIDLevel 8959297 4
+RemovePlayer 9181944
+ChangePlayerIDScore 6679830 15
+IncreasePlayerIDLevel 558636 4
+AddPlayer 3844132 240 99
+IncreasePlayerIDLevel 8144030 3
+ChangePlayerIDScore 2316353 49
+MergeGroups -4 -3
+RemovePlayer 5701573
+MergeGroups 2 251
+RemovePlayer 1157011
+ChangePlayerIDScore 2156353 129
+AddPlayer 2927032 264 69
+RemovePlayer 3473096
+IncreasePlayerIDLevel 625047 2
+ChangePlayerIDScore 4487838 21
+AddPlayer 6067465 187 19
+AddPlayer 7033906 199 123
+MergeGroups 133 112
+AddPlayer 2075205 95 43
+IncreasePlayerIDLevel 7807494 1
+AddPlayer 8836846 83 121
+IncreasePlayerIDLevel 4431734 3
+ChangePlayerIDScore 9594420 145
+AddPlayer 744469 15 5
+ChangePlayerIDScore 1126609 99
+IncreasePlayerIDLevel 1599110 -4
+RemovePlayer 1585105
+RemovePlayer 9116389
+AddPlayer 3566159 36 78
+ChangePlayerIDScore 6330220 130
+AddPlayer 329944 297 12
+ChangePlayerIDScore 5939642 59
+AddPlayer 7898712 258 38
+RemovePlayer 9685364
+RemovePlayer 5844904
+MergeGroups 246 365
+ChangePlayerIDScore 3701584 138
+AddPlayer 4690083 92 23
+AddPlayer 8583741 163 62
+RemovePlayer 9380478
+RemovePlayer 8552247
+RemovePlayer 9318814
+IncreasePlayerIDLevel 2535812 4
+AddPlayer 5576507 132 123
+AddPlayer 8863846 231 114
+RemovePlayer 772598
+ChangePlayerIDScore 5462010 28
+AddPlayer 3590236 255 29
+ChangePlayerIDScore 3682167 77
+IncreasePlayerIDLevel 6409515 4
+AddPlayer 4399069 125 27
+RemovePlayer 4986655
+RemovePlayer 6033303
+AddPlayer 7710519 92 103
+RemovePlayer 9979273
+AddPlayer 4372460 211 75
+MergeGroups 280 54
+MergeGroups -1 226
+RemovePlayer 1714637
+RemovePlayer 4365666
+IncreasePlayerIDLevel 1723415 1
+RemovePlayer 2075205
+ChangePlayerIDScore 2804336 95
+MergeGroups -3 70
+RemovePlayer 4914689
+AddPlayer 2314328 234 135
+RemovePlayer 22252
+ChangePlayerIDScore 3666133 68
+ChangePlayerIDScore 7985951 132
+IncreasePlayerIDLevel 4291288 1
+RemovePlayer 723495
+AddPlayer 7782709 66 4
+AddPlayer 1940983 261 39
+RemovePlayer 5464581
+AddPlayer 1262172 117 48
+AddPlayer 6947833 285 122
+IncreasePlayerIDLevel 9413991 3
+ChangePlayerIDScore 5376952 14
+ChangePlayerIDScore 2243123 65
+AddPlayer 8876783 90 48
+AddPlayer 4042601 122 121
+RemovePlayer 527265
+IncreasePlayerIDLevel 6254932 4
+AddPlayer 7304704 217 147
+ChangePlayerIDScore 6060119 123
+MergeGroups -2 -1
+AddPlayer 4599970 3 53
+RemovePlayer 8762548
+RemovePlayer 3314762
+IncreasePlayerIDLevel 2172883 4
+RemovePlayer 7126738
+MergeGroups 237 246
+ChangePlayerIDScore 3441869 140
+ChangePlayerIDScore 9623421 68
+RemovePlayer 7957937
+RemovePlayer 1245163
+AddPlayer 8006914 14 26
+MergeGroups 355 287
+AddPlayer 1045404 113 48
+ChangePlayerIDScore 2748341 76
+RemovePlayer 4413757
+IncreasePlayerIDLevel 8830377 3
+RemovePlayer 5005755
+AddPlayer 6229887 46 106
+AddPlayer 1599659 281 67
+AddPlayer 296948 166 52
+RemovePlayer 5675703
+MergeGroups 167 41
+MergeGroups 83 132
+ChangePlayerIDScore 9632869 43
+RemovePlayer 8830377
+MergeGroups 122 86
+AddPlayer 8554334 78 23
+AddPlayer 8598967 221 130
+ChangePlayerIDScore 4777904 4
+RemovePlayer 558636
+MergeGroups 233 212
+AddPlayer 6060993 201 146
+AddPlayer 6374572 146 75
+ChangePlayerIDScore 1977496 133
+AddPlayer 5514679 143 11
+RemovePlayer 1086446
+AddPlayer -1 -1 249
+RemovePlayer 8876783
+AddPlayer 2039562 158 98
+ChangePlayerIDScore 3811371 140
+ChangePlayerIDScore 5936596 98
+AddPlayer 5458364 215 110
+AddPlayer 4730651 42 11
+RemovePlayer 6367752
+IncreasePlayerIDLevel 2406938 4
+ChangePlayerIDScore 2066989 -1
+MergeGroups 0 48
+RemovePlayer 7771521
+RemovePlayer 1783730
+MergeGroups 198 98
+ChangePlayerIDScore 406271 48
+AddPlayer 1785798 13 102
+AddPlayer 6560840 86 135
+RemovePlayer 1599110
+IncreasePlayerIDLevel 1201789 4
+AddPlayer 1371649 81 111
+AddPlayer 4962940 156 122
+ChangePlayerIDScore 6734723 134
+AddPlayer 2899184 210 81
+ChangePlayerIDScore 4100635 36
+IncreasePlayerIDLevel 4441651 4
+MergeGroups 18 260
+ChangePlayerIDScore 2268304 0
+RemovePlayer 4962940
+RemovePlayer 6271121
+AddPlayer 7146410 109 8
+ChangePlayerIDScore 5195203 89
+MergeGroups 263 64
+AddPlayer 2309864 200 129
+IncreasePlayerIDLevel 5458364 3
+ChangePlayerIDScore 4966532 118
+IncreasePlayerIDLevel 5825932 3
+RemovePlayer 4793784
+RemovePlayer 927350
+RemovePlayer 9569042
+MergeGroups -2 0
+MergeGroups 273 63
+RemovePlayer 9677709
+AddPlayer 5284868 151 23
+AddPlayer 4957811 249 138
+RemovePlayer 3189589
+AddPlayer 6817828 140 79
+RemovePlayer 4196131
+AddPlayer 174876 274 48
+AddPlayer 4235472 238 65
+ChangePlayerIDScore 604332 46
+MergeGroups 279 162
+MergeGroups 145 259
+AddPlayer 6247409 80 48
+ChangePlayerIDScore 8083774 16
+ChangePlayerIDScore 4280835 79
+AddPlayer 1765329 157 9
+RemovePlayer 5825932
+IncreasePlayerIDLevel 8583741 1
+ChangePlayerIDScore 9652618 112
+RemovePlayer 4086465
+ChangePlayerIDScore 685954 89
+ChangePlayerIDScore 3208218 148
+RemovePlayer 5111385
+AddPlayer 4063218 129 73
+ChangePlayerIDScore 8874689 111
+MergeGroups 63 61
+RemovePlayer 9386752
+ChangePlayerIDScore 5286200 75
+ChangePlayerIDScore 6345937 42
+ChangePlayerIDScore 1839261 145
+AddPlayer 2141552 91 30
+AddPlayer 3160835 82 138
+RemovePlayer -4
+ChangePlayerIDScore 9573454 34
+IncreasePlayerIDLevel 9594420 2
+RemovePlayer 566188
+RemovePlayer 4946067
+RemovePlayer 3125119
+IncreasePlayerIDLevel 1763800 3
+ChangePlayerIDScore 9774472 102
+MergeGroups 236 79
+IncreasePlayerIDLevel 1957753 2
+RemovePlayer 3075801
+AddPlayer 9992693 184 38
+MergeGroups 199 133
+IncreasePlayerIDLevel 4042601 3
+ChangePlayerIDScore 868712 15
+MergeGroups 251 267
+RemovePlayer 1112090
+ChangePlayerIDScore 2141552 71
+AddPlayer 8678074 239 75
+AddPlayer 4841147 136 100
+AddPlayer 2430229 252 147
+RemovePlayer 2430229
+IncreasePlayerIDLevel 220100 3
+MergeGroups 80 91
+AddPlayer 8503475 36 49
+AddPlayer 6999885 253 58
+AddPlayer 7781282 43 105
+AddPlayer 7448875 100 32
+RemovePlayer 5055181
+ChangePlayerIDScore 5245841 27
+ChangePlayerIDScore 7506380 97
+MergeGroups 175 96
+AddPlayer 2501770 1 32
+RemovePlayer 3657442
+AddPlayer -4 -1 170
+ChangePlayerIDScore 7265838 112
+IncreasePlayerIDLevel 8598967 1
+MergeGroups 61 103
+ChangePlayerIDScore 0 162
+IncreasePlayerIDLevel 5308812 4
+AddPlayer 5341806 77 42
+RemovePlayer 411583
+AddPlayer 6806516 25 47
+AddPlayer 556647 289 118
+MergeGroups 64 285
+AddPlayer 6779816 37 61
+RemovePlayer 2804336
+ChangePlayerIDScore 579573 115
+MergeGroups 82 128
+AddPlayer 9032306 240 89
+ChangePlayerIDScore -1 213
+RemovePlayer 2187277
+MergeGroups 183 38
+AddPlayer 3022639 266 88
+MergeGroups 14 124
+RemovePlayer 7675497
+AddPlayer 8896946 195 1
+MergeGroups 148 171
+RemovePlayer 1471934
+AddPlayer 5232665 74 71
+MergeGroups 264 210
+AddPlayer 1596698 170 87
+AddPlayer 3262831 36 123
+AddPlayer 6974343 13 26
+IncreasePlayerIDLevel 5195203 4
+RemovePlayer 3077082
+MergeGroups 286 168
+RemovePlayer 6254932
+RemovePlayer 3748474
+IncreasePlayerIDLevel 4699285 3
+AddPlayer 4297986 182 61
+RemovePlayer 5458364
+RemovePlayer 3022639
+AddPlayer 1364673 181 53
+IncreasePlayerIDLevel 1165653 1
+MergeGroups 99 20
+RemovePlayer 5284868
+RemovePlayer 1395072
+MergeGroups -4 -4
+AddPlayer -3 -2 200
+RemovePlayer 8554334
+AddPlayer 9080804 123 12
+MergeGroups 195 29
+RemovePlayer 6068456
+AddPlayer 3819167 63 35
+MergeGroups 178 37
+AddPlayer 7076611 269 142
+MergeGroups 363 346
+RemovePlayer 4510434
+RemovePlayer 2342138
+AddPlayer 3816404 244 45
+IncreasePlayerIDLevel 2172883 1
+ChangePlayerIDScore 6817828 62
+MergeGroups 332 287
+IncreasePlayerIDLevel 2638944 1
+RemovePlayer 6655771
+AddPlayer 5461701 34 144
+RemovePlayer 6343477
+AddPlayer 5912531 193 122
+RemovePlayer 9623421
+RemovePlayer 8678074
+AddPlayer 5258692 151 15
+IncreasePlayerIDLevel 6779816 1
+IncreasePlayerIDLevel 7835641 4
+AddPlayer 6866662 58 100
+AddPlayer 542321 57 146
+RemovePlayer 604332
+MergeGroups 86 75
+AddPlayer 3809048 239 11
+RemovePlayer 8863846
+RemovePlayer 5042647
+ChangePlayerIDScore 2723490 121
+ChangePlayerIDScore 5912531 118
+IncreasePlayerIDLevel 2113458 3
+AddPlayer 54728 11 81
+RemovePlayer 7262367
+RemovePlayer 8134769
+RemovePlayer 2891342
+AddPlayer 4038158 291 114
+RemovePlayer 5838062
+IncreasePlayerIDLevel 9304859 1
+RemovePlayer 4364522
+ChangePlayerIDScore 7917692 82
+MergeGroups 17 40
+MergeGroups 184 204
+MergeGroups 59 121
+AddPlayer 7943471 280 35
+ChangePlayerIDScore 3822979 62
+RemovePlayer 7834775
+IncreasePlayerIDLevel 7024097 2
+IncreasePlayerIDLevel 2113458 3
+AddPlayer 6300667 254 95
+AddPlayer 7272584 281 16
+IncreasePlayerIDLevel 4599970 1
+MergeGroups 327 43
+AddPlayer 3717315 94 58
+MergeGroups 87 -3
+ChangePlayerIDScore 4777904 12
+IncreasePlayerIDLevel 3989390 3
+ChangePlayerIDScore 4431734 19
+MergeGroups 146 214
+AddPlayer 6306607 129 27
+RemovePlayer 720880
+ChangePlayerIDScore 6760848 20
+RemovePlayer 5258692
+AddPlayer 4454443 152 117
+AddPlayer 6399165 104 69
+RemovePlayer 3701584
+MergeGroups 279 32
+ChangePlayerIDScore 5738558 130
+ChangePlayerIDScore 5912531 60
+AddPlayer 6433829 39 136
+MergeGroups 99 221
+ChangePlayerIDScore 3806541 93
+AddPlayer 9734603 241 75
+AddPlayer 7799713 217 64
+AddPlayer 5576261 264 118
+RemovePlayer 4804510
+RemovePlayer 4555591
+ChangePlayerIDScore 2172883 24
+ChangePlayerIDScore 8516388 15
+RemovePlayer 1461940
+RemovePlayer 8598967
+RemovePlayer 6336590
+RemovePlayer 8064136
+AddPlayer -2 0 176
+MergeGroups 55 399
+AddPlayer 9584421 282 65
+RemovePlayer 3262831
+RemovePlayer 632581
+ChangePlayerIDScore 6528658 148
+AddPlayer 1555156 24 104
+AddPlayer 5078526 13 92
+AddPlayer 1209365 289 38
+MergeGroups 295 0
+RemovePlayer 5039130
+MergeGroups 153 66
+MergeGroups 38 234
+MergeGroups 161 224
+MergeGroups 193 227
+RemovePlayer 2294337
+RemovePlayer 866950
+AddPlayer 9327362 141 109
+IncreasePlayerIDLevel 2067833 3
+ChangePlayerIDScore 6956202 91
+AddPlayer 8276912 64 32
+RemovePlayer 7741932
+AddPlayer 3972866 42 121
+AddPlayer 7674196 56 105
+AddPlayer 3677595 1 81
+ChangePlayerIDScore 5195203 21
+AddPlayer 5738862 128 84
+RemovePlayer 9487889
+RemovePlayer 4910998
+AddPlayer 8503150 170 80
+RemovePlayer 5535589
+RemovePlayer 1126609
+AddPlayer 3281584 142 109
+IncreasePlayerIDLevel 8137650 1
+AddPlayer 4327361 266 64
+MergeGroups 244 139
+MergeGroups 255 269
+RemovePlayer 2039562
+MergeGroups 175 256
+RemovePlayer 1284404
+ChangePlayerIDScore 2151666 39
+IncreasePlayerIDLevel 1765329 2
+ChangePlayerIDScore 5706776 24
+AddPlayer 1779296 156 72
+IncreasePlayerIDLevel 6963166 2
+MergeGroups 222 260
+RemovePlayer 9327362
+RemovePlayer 2309864
+RemovePlayer 3147550
+ChangePlayerIDScore 0 186
+ChangePlayerIDScore 3720606 64
+AddPlayer 4169685 166 127
+RemovePlayer 7654939
+ChangePlayerIDScore 2749782 101
+MergeGroups 153 236
+IncreasePlayerIDLevel 3546085 2
+ChangePlayerIDScore 8083774 101
+MergeGroups 165 8
+AddPlayer 4735283 59 137
+ChangePlayerIDScore 7835641 106
+AddPlayer 7531185 362 -4
+MergeGroups 157 170
+MergeGroups 105 76
+MergeGroups 352 11
+RemovePlayer 9950976
+RemovePlayer 8501767
+RemovePlayer 312131
+ChangePlayerIDScore 7917419 132
+MergeGroups 52 22
+RemovePlayer 5140899
+IncreasePlayerIDLevel 1433382 2
+RemovePlayer 6956202
+AddPlayer 8377607 117 67
+ChangePlayerIDScore 3822979 76
+RemovePlayer 1839261
+RemovePlayer 779458
+ChangePlayerIDScore 9573454 70
+ChangePlayerIDScore 5576507 150
+AddPlayer 3003058 147 11
+RemovePlayer 635482
+MergeGroups 182 56
+RemovePlayer 5767630
+RemovePlayer 1081682
+RemovePlayer 0
+AddPlayer 9121811 264 40
+IncreasePlayerIDLevel 4957811 3
+MergeGroups 220 364
+IncreasePlayerIDLevel 4574465 2
+RemovePlayer 2502010
+IncreasePlayerIDLevel 5168812 2
+ChangePlayerIDScore 9516372 132
+RemovePlayer 8547956
+RemovePlayer 4028303
+MergeGroups -1 296
+RemovePlayer 4948971
+AddPlayer 5149702 270 81
+IncreasePlayerIDLevel 663920 3
+RemovePlayer 5462010
+AddPlayer 3816404 293 32
+ChangePlayerIDScore 4378361 76
+IncreasePlayerIDLevel 8836846 4
+RemovePlayer 2783933
+AddPlayer 3550082 260 121
+MergeGroups 25 202
+MergeGroups 249 127
+AddPlayer -4 -4 158
+RemovePlayer 3419825
+IncreasePlayerIDLevel 6839278 3
+AddPlayer 8646442 59 107
+AddPlayer 9719951 291 51
+MergeGroups 236 219
+AddPlayer 4983789 99 134
+IncreasePlayerIDLevel 4966732 1
+MergeGroups 109 251
+AddPlayer 8158 57 13
+AddPlayer 6018126 16 24
+MergeGroups 292 147
+IncreasePlayerIDLevel 3331519 1
+RemovePlayer 3173663
+RemovePlayer 9121811
+RemovePlayer 191420
+RemovePlayer 8006914
+AddPlayer 5406704 294 62
+IncreasePlayerIDLevel 220100 1
+AddPlayer 3340499 226 28
+AddPlayer 6513495 235 103
+IncreasePlayerIDLevel 5605583 4
+RemovePlayer 4293145
+RemovePlayer 9219516
+MergeGroups 346 365
+RemovePlayer 2195143
+AddPlayer 9421619 132 47
+AddPlayer 2656308 64 149
+RemovePlayer 5232665
+AddPlayer 3778129 86 141
+AddPlayer 5237868 123 49
+ChangePlayerIDScore 5576507 104
+AddPlayer 3844549 153 37
+RemovePlayer 5357366
+MergeGroups 26 12
+ChangePlayerIDScore 746280 70
+IncreasePlayerIDLevel 4454443 1
+IncreasePlayerIDLevel -3 4
+AddPlayer 2954765 276 95
+RemovePlayer 2062840
+IncreasePlayerIDLevel 6513495 3
+MergeGroups 99 171
+AddPlayer 4221004 38 33
+AddPlayer 4169060 130 33
+RemovePlayer 7524402
+IncreasePlayerIDLevel 6287324 2
+RemovePlayer -4
+RemovePlayer 7949861
+AddPlayer 2807338 33 35
+AddPlayer 6020708 107 87
+IncreasePlayerIDLevel 4492326 4
+MergeGroups 150 187
+IncreasePlayerIDLevel 5936596 1
+IncreasePlayerIDLevel 8920151 1
+AddPlayer 8683180 248 73
+RemovePlayer 5137265
+AddPlayer 5931136 35 91
+AddPlayer 2234342 198 105
+RemovePlayer 5810678
+AddPlayer 9193559 92 136
+ChangePlayerIDScore 2254322 30
+AddPlayer 2084186 1 105
+ChangePlayerIDScore 3340499 54
+IncreasePlayerIDLevel 2130575 4
+MergeGroups 135 48
+IncreasePlayerIDLevel 4944151 1
+MergeGroups 250 4
+ChangePlayerIDScore 5379255 114
+RemovePlayer 9954972
+MergeGroups 124 16
+ChangePlayerIDScore 4818995 114
+RemovePlayer 6060993
+AddPlayer 127243 284 69
+AddPlayer 7037503 155 83
+MergeGroups 198 273
+MergeGroups -4 145
+RemovePlayer 6209520
+AddPlayer 5963446 283 106
+AddPlayer 6040128 268 46
+RemovePlayer 7052027
+RemovePlayer 3682167
+ChangePlayerIDScore 4375216 8
+AddPlayer 4917213 298 134
+RemovePlayer 4291288
+RemovePlayer 6409515
+IncreasePlayerIDLevel 8722989 2
+RemovePlayer 9992693
+RemovePlayer 6020708
+MergeGroups 210 25
+RemovePlayer 6513495
+MergeGroups 25 341
+IncreasePlayerIDLevel 1003516 2
+RemovePlayer 1646618
+MergeGroups 16 157
+ChangePlayerIDScore 1659982 38
+AddPlayer 6742858 133 14
+RemovePlayer 2119436
+RemovePlayer 542321
+AddPlayer 6732966 116 106
+AddPlayer 7977760 222 2
+RemovePlayer 4818995
+ChangePlayerIDScore 9039 2
+IncreasePlayerIDLevel 1599659 1
+AddPlayer 6309380 188 77
+RemovePlayer 9039
+IncreasePlayerIDLevel 5245841 2
+ChangePlayerIDScore 6067465 121
+ChangePlayerIDScore 1596698 137
+RemovePlayer 8998571
+IncreasePlayerIDLevel 5593301 3
+MergeGroups 263 1
+AddPlayer 4057877 298 81
+AddPlayer 5320218 218 116
+IncreasePlayerIDLevel 3141300 4
+AddPlayer 7971244 133 95
+RemovePlayer 4966532
+RemovePlayer 2084186
+AddPlayer 5046162 165 146
+RemovePlayer 6228237
+AddPlayer 3204015 277 12
+MergeGroups 115 5
+AddPlayer 8151971 225 110
+RemovePlayer 1555156
+RemovePlayer 2819899
+MergeGroups -2 231
+AddPlayer 377935 37 119
+AddPlayer 6073244 229 60
+RemovePlayer 8959297
+AddPlayer 841145 107 49
+RemovePlayer 9719951
+RemovePlayer 4528892
+IncreasePlayerIDLevel 9846097 4
+AddPlayer -1 -2 236
+AddPlayer 936131 237 109
+RemovePlayer 9025733
+RemovePlayer 6974343
+AddPlayer 2997697 165 149
+AddPlayer 2301965 227 10
+RemovePlayer 7835641
+AddPlayer 9457760 46 84
+RemovePlayer 825230
+AddPlayer 3614346 174 89
+ChangePlayerIDScore 8211118 105
+RemovePlayer 2141552
+IncreasePlayerIDLevel 4690083 3
+ChangePlayerIDScore 3614346 8
+ChangePlayerIDScore 7338691 14
+AddPlayer 3891368 276 26
+MergeGroups 133 296
+ChangePlayerIDScore 4169060 146
+RemovePlayer 3822979
+AddPlayer 586306 191 10
+RemovePlayer 844910
+RemovePlayer 1897794
+AddPlayer 6284128 197 78
+RemovePlayer 1596698
+RemovePlayer 2927032
+AddPlayer 310496 77 49
+RemovePlayer 8329043
+AddPlayer 3192936 191 116
+AddPlayer 1566278 120 69
+MergeGroups 120 122
+MergeGroups 65 278
+RemovePlayer 9457760
+RemovePlayer -4
+MergeGroups 296 54
+IncreasePlayerIDLevel 9886783 1
+IncreasePlayerIDLevel 6018126 3
+IncreasePlayerIDLevel 36905 3
+MergeGroups 241 319
+AddPlayer 9467482 277 73
+IncreasePlayerIDLevel 7489835 1
+AddPlayer 1644534 203 24
+IncreasePlayerIDLevel 1817506 -2
+MergeGroups 15 116
+ChangePlayerIDScore 0 156
+AddPlayer 8520503 127 142
+RemovePlayer 3141300
+RemovePlayer 921333
+AddPlayer 4491577 177 14
+MergeGroups 304 35
+AddPlayer 2429499 54 126
+MergeGroups 79 197
+AddPlayer 7951398 148 117
+AddPlayer 3829170 99 108
+RemovePlayer 2954765
+AddPlayer 3909545 49 4
+AddPlayer 5261679 212 98
+RemovePlayer 3666133
+ChangePlayerIDScore 6827646 27
+AddPlayer 1226622 188 137
+MergeGroups 116 14
+RemovePlayer 516942
+AddPlayer 4238800 241 82
+RemovePlayer 8646442
+MergeGroups 242 179
+MergeGroups -4 229
+AddPlayer 1990407 166 53
+MergeGroups -2 0
+AddPlayer 491093 32 126
+IncreasePlayerIDLevel 465967 2
+MergeGroups 106 3
+AddPlayer 4778431 280 11
+RemovePlayer 6779816
+RemovePlayer 8377607
+AddPlayer 5932600 117 96
+AddPlayer 2480268 216 62
+RemovePlayer 6099764
+RemovePlayer 8443527
+RemovePlayer 1292675
+MergeGroups 10 32
+RemovePlayer 9921195
+RemovePlayer 7033906
+RemovePlayer 2748341
+ChangePlayerIDScore 3165438 119
+IncreasePlayerIDLevel 2936069 4
+AddPlayer 6965847 291 34
+MergeGroups 74 244
+AddPlayer 2141280 220 139
+ChangePlayerIDScore 4169685 22
+RemovePlayer 6732966
+AddPlayer 3934768 265 141
+RemovePlayer 2268304
+RemovePlayer 7524309
+AddPlayer 5641946 38 145
+ChangePlayerIDScore 7232621 20
+AddPlayer 9910337 131 130
+AddPlayer 7102656 45 91
+RemovePlayer 2151666
+ChangePlayerIDScore 2113458 33
+IncreasePlayerIDLevel 1318842 1
+RemovePlayer 8137650
+ChangePlayerIDScore 1537341 101
+MergeGroups 159 164
+RemovePlayer 5931136
+AddPlayer 6306607 97 140
+AddPlayer 2316353 82 40
+AddPlayer 2246664 250 81
+RemovePlayer -2
+AddPlayer 8080020 175 117
+RemovePlayer 6063641
+AddPlayer 305051 6 104
+MergeGroups 186 21
+ChangePlayerIDScore 1427899 0
+RemovePlayer 8896946
+IncreasePlayerIDLevel 1817506 3
+ChangePlayerIDScore 4454443 26
+AddPlayer 7810545 153 31
+AddPlayer 3142407 224 102
+MergeGroups 170 280
+RemovePlayer 3809048
+ChangePlayerIDScore 4042601 97
+AddPlayer 3415283 2 138
+RemovePlayer 3033044
+ChangePlayerIDScore 6374572 150
+AddPlayer 599411 90 47
+AddPlayer 4627839 244 7
+IncreasePlayerIDLevel 2246664 4
+AddPlayer 2854837 193 120
+RemovePlayer 8587635
+RemovePlayer 5936596
+RemovePlayer 4917213
+AddPlayer 2097139 198 35
+AddPlayer 4753579 156 140
+AddPlayer 1908225 48 92
+AddPlayer 6051811 5 124
+AddPlayer 3430415 74 55
+RemovePlayer 7359788
+RemovePlayer 6433829
+AddPlayer 4100033 241 36
+RemovePlayer 9421619
+AddPlayer 9419700 251 40
+ChangePlayerIDScore 1899192 50
+MergeGroups 250 296
+AddPlayer 3751493 23 125
+IncreasePlayerIDLevel 3142407 3
+IncreasePlayerIDLevel 540430 4
+RemovePlayer 6086608
+AddPlayer 491212 247 130
+MergeGroups 73 243
+RemovePlayer 8920151
+AddPlayer 8147676 30 39
+RemovePlayer 1690631
+AddPlayer 4672497 77 15
+RemovePlayer 5078526
+IncreasePlayerIDLevel 9502979 3
+IncreasePlayerIDLevel 9033319 4
+MergeGroups 218 156
+ChangePlayerIDScore 9652618 111
+ChangePlayerIDScore 2802375 100
+IncreasePlayerIDLevel 5912531 3
+RemovePlayer 4594758
+RemovePlayer 4690083
+ChangePlayerIDScore 7272584 144
+ChangePlayerIDScore 7799713 60
+ChangePlayerIDScore 936131 58
+IncreasePlayerIDLevel 5341806 1
+MergeGroups -1 219
+AddPlayer 4765024 178 34
+AddPlayer 4783701 151 95
+ChangePlayerIDScore 4672497 66
+IncreasePlayerIDLevel 4326172 2
+ChangePlayerIDScore 4699285 98
+MergeGroups 279 181
+AddPlayer 4870183 123 93
+ChangePlayerIDScore 329035 29
+RemovePlayer 2241098
+MergeGroups 146 -4
+AddPlayer 8055971 251 73
+ChangePlayerIDScore 6528658 118
+AddPlayer 4244765 127 126
+MergeGroups -1 226
+AddPlayer 3340499 170 130
+IncreasePlayerIDLevel 7623311 1
+AddPlayer 7154286 245 115
+IncreasePlayerIDLevel 5406704 -4
+AddPlayer 2602126 165 100
+MergeGroups 263 222
+ChangePlayerIDScore 9080804 119
+RemovePlayer 1165653
+AddPlayer 230206 74 87
+AddPlayer 5574324 102 34
+RemovePlayer 7102656
+ChangePlayerIDScore 3204015 61
+IncreasePlayerIDLevel 7506380 4
+IncreasePlayerIDLevel 8678281 3
+AddPlayer 1661033 171 9
+AddPlayer 5198170 221 62
+AddPlayer 4743254 135 114
+RemovePlayer 54728
+AddPlayer 2628968 92 104
+AddPlayer 6708071 209 54
+MergeGroups 221 55
+ChangePlayerIDScore 1364673 95
+IncreasePlayerIDLevel 1763800 3
+RemovePlayer 4428569
+RemovePlayer 3122040
+MergeGroups 281 91
+ChangePlayerIDScore 8158 42
+AddPlayer 1267628 259 15
+AddPlayer 4438404 173 118
+RemovePlayer 2550002
+RemovePlayer 3844549
+ChangePlayerIDScore 5692312 109
+IncreasePlayerIDLevel 4042601 1
+MergeGroups -2 111
+ChangePlayerIDScore 7146410 55
+RemovePlayer 6284128
+AddPlayer 6408073 366 -1
+MergeGroups 5 12
+AddPlayer -1 -2 154
+AddPlayer 4438164 245 86
+MergeGroups 285 101
+ChangePlayerIDScore 9652618 138
+ChangePlayerIDScore 3816404 67
+RemovePlayer 6654319
+RemovePlayer 9193559
+AddPlayer 9972221 266 82
+AddPlayer 9348369 205 28
+IncreasePlayerIDLevel 3665806 1
+RemovePlayer 4940097
+AddPlayer 9332923 104 82
+IncreasePlayerIDLevel 9467482 1
+MergeGroups 352 357
+IncreasePlayerIDLevel 5618482 4
+ChangePlayerIDScore 6675868 119
+RemovePlayer 4983789
+AddPlayer 8436281 37 120
+ChangePlayerIDScore 4639804 116
+ChangePlayerIDScore 6218740 85
+ChangePlayerIDScore 8204397 137
+RemovePlayer 2824501
+AddPlayer 8695233 27 42
+ChangePlayerIDScore 8911865 55
+RemovePlayer 7232621
+MergeGroups 289 6
+ChangePlayerIDScore 5461701 91
+AddPlayer 1946176 68 122
+MergeGroups 291 272
+ChangePlayerIDScore 6826952 91
+IncreasePlayerIDLevel 1761214 1
+RemovePlayer 4701210
+ChangePlayerIDScore 1003516 25
+RemovePlayer 1761214
+AddPlayer 1610460 21 108
+RemovePlayer 685954
+ChangePlayerIDScore 9774472 42
+AddPlayer 9491765 92 43
+IncreasePlayerIDLevel 5856160 2
+MergeGroups 79 137
+RemovePlayer 9846097
+RemovePlayer 6345937
+ChangePlayerIDScore 4378361 135
+RemovePlayer 2501770
+MergeGroups 355 377
+MergeGroups 168 82
+AddPlayer 7311448 34 89
+IncreasePlayerIDLevel 8911865 2
+RemovePlayer 5168812
+MergeGroups 170 296
+RemovePlayer 8813167
+AddPlayer 8623586 146 22
+IncreasePlayerIDLevel 5939642 1
+ChangePlayerIDScore 3913186 6
+RemovePlayer 3844132
+AddPlayer 7191760 126 123
+IncreasePlayerIDLevel 1275408 2
+RemovePlayer 5825633
+RemovePlayer 5586254
+RemovePlayer 5834774
+RemovePlayer 3567903
+ChangePlayerIDScore 2899184 70
+ChangePlayerIDScore 8083774 100
+RemovePlayer 6327380
+ChangePlayerIDScore 4599970 135
+AddPlayer 2007621 208 29
+RemovePlayer 550451
+RemovePlayer 6512702
+MergeGroups 135 145
+MergeGroups 279 261
+AddPlayer 3387318 142 118
+AddPlayer 660864 41 40
+IncreasePlayerIDLevel 4057877 1
+AddPlayer 2082448 145 115
+ChangePlayerIDScore 1212422 122
+RemovePlayer 1701509
+RemovePlayer 3546085
+ChangePlayerIDScore 2649251 38
+RemovePlayer 3550082
+IncreasePlayerIDLevel 7534519 -4
+ChangePlayerIDScore 5969034 76
+MergeGroups 35 68
+AddPlayer 7363174 170 117
+IncreasePlayerIDLevel 6826952 2
+AddPlayer 919209 130 29
+ChangePlayerIDScore 2633071 30
+AddPlayer 626356 44 79
+AddPlayer 8287886 113 51
+AddPlayer 8962025 198 81
+AddPlayer -4 0 186
+ChangePlayerIDScore 127243 116
+AddPlayer 6807872 201 55
+AddPlayer 3904539 259 132
+RemovePlayer 7311448
+AddPlayer 2143407 221 142
+RemovePlayer 4974450
+RemovePlayer 1045404
+MergeGroups 34 259
+ChangePlayerIDScore 4491577 110
+AddPlayer 1383204 31 136
+AddPlayer 6335938 155 87
+RemovePlayer 1275408
+ChangePlayerIDScore 5963446 78
+MergeGroups 247 84
+AddPlayer 9344509 104 78
+RemovePlayer 8842653
+AddPlayer 663602 35 32
+ChangePlayerIDScore 3717613 137
+AddPlayer -3 -2 198
+MergeGroups 321 330
+RemovePlayer 5046162
+ChangePlayerIDScore 2406938 12
+IncreasePlayerIDLevel 7024097 2
+AddPlayer 4373432 199 140
+RemovePlayer 868712
+AddPlayer 6441167 80 16
+AddPlayer 3253722 8 65
+AddPlayer 435632 238 104
+MergeGroups 241 212
+RemovePlayer 854679
+RemovePlayer 2254322
+AddPlayer 9925655 114 97
+AddPlayer 7462389 246 35
+IncreasePlayerIDLevel 4885563 3
+AddPlayer 5778983 197 150
+RemovePlayer 3677595
+AddPlayer 2592351 206 41
+IncreasePlayerIDLevel 6805364 2
+RemovePlayer 4749413
+MergeGroups 195 161
+ChangePlayerIDScore 1031489 91
+ChangePlayerIDScore 5836427 12
+AddPlayer 3056294 19 16
+AddPlayer 9971018 143 76
+AddPlayer 5400654 73 27
+IncreasePlayerIDLevel 7338691 3
+AddPlayer -2 -4 199
+RemovePlayer 7506380
+ChangePlayerIDScore 1908225 103
+IncreasePlayerIDLevel 8420393 2
+ChangePlayerIDScore 8242379 149
+ChangePlayerIDScore 4870183 77
+RemovePlayer 8503475
+ChangePlayerIDScore 9467482 131
+AddPlayer 5412398 118 132
+MergeGroups 150 193
+ChangePlayerIDScore 4672497 111
+AddPlayer 9386558 201 89
+MergeGroups 378 378
+IncreasePlayerIDLevel 1226622 3
+MergeGroups 140 191
+IncreasePlayerIDLevel 6742858 3
+IncreasePlayerIDLevel 9972221 3
+AddPlayer 8181270 62 117
+MergeGroups 340 17
+AddPlayer 137066 289 113
+IncreasePlayerIDLevel 2854837 1
+RemovePlayer 4090307
+IncreasePlayerIDLevel 3989390 3
+RemovePlayer 2614358
+RemovePlayer 4373432
+AddPlayer 4392344 33 56
+RemovePlayer 4454443
+ChangePlayerIDScore 4392344 76
+ChangePlayerIDScore 8287886 44
+IncreasePlayerIDLevel 5022401 1
+AddPlayer 8198596 243 96
+AddPlayer 9472170 279 81
+AddPlayer 8672648 54 123
+AddPlayer 9273413 225 65
+RemovePlayer 4057877
+ChangePlayerIDScore 5376952 13
+AddPlayer 8109630 53 35
+IncreasePlayerIDLevel 6528658 2
+IncreasePlayerIDLevel 5286200 3
+IncreasePlayerIDLevel 3590236 1
+ChangePlayerIDScore 3197940 78
+AddPlayer 476891 157 11
+IncreasePlayerIDLevel 386781 4
+MergeGroups 5 91
+ChangePlayerIDScore 6051811 73
+IncreasePlayerIDLevel 6742858 3
+RemovePlayer 6528658
+RemovePlayer 4639804
+AddPlayer 9335898 25 81
+ChangePlayerIDScore 6742858 38
+IncreasePlayerIDLevel 8877526 2
+MergeGroups 111 68
+IncreasePlayerIDLevel 4374869 3
+RemovePlayer 4574465
+RemovePlayer 2113458
+RemovePlayer 6060119
+RemovePlayer 3745340
+IncreasePlayerIDLevel 3467919 2
+AddPlayer 8888304 140 53
+MergeGroups 137 155
+RemovePlayer 4431734
+RemovePlayer 2802375
+RemovePlayer 6287906
+IncreasePlayerIDLevel 5452990 3
+IncreasePlayerIDLevel 5605583 0
+ChangePlayerIDScore 3165438 9
+MergeGroups 365 389
+AddPlayer 5551569 193 149
+RemovePlayer 8571227
+ChangePlayerIDScore 406271 10
+ChangePlayerIDScore 1513288 91
+RemovePlayer 6874169
+AddPlayer 4705432 50 139
+RemovePlayer 7710519
+RemovePlayer 7083818
+RemovePlayer 8854189
+IncreasePlayerIDLevel 4719151 3
+RemovePlayer 4735283
+AddPlayer 6448090 16 61
+RemovePlayer 5379255
+MergeGroups 137 101
+RemovePlayer 3253722
+RemovePlayer 3331519
+AddPlayer 5732569 60 50
+AddPlayer 9013150 238 55
+RemovePlayer 9594420
+IncreasePlayerIDLevel 2172883 3
+MergeGroups 319 276
+ChangePlayerIDScore 7998804 84
+RemovePlayer 6760848
+IncreasePlayerIDLevel 6596821 2
+AddPlayer 3444246 142 31
+RemovePlayer 1620212
+AddPlayer 6877826 102 52
+ChangePlayerIDScore 1624897 17
+MergeGroups 23 209
+AddPlayer 3406518 64 128
+ChangePlayerIDScore 5593301 17
+ChangePlayerIDScore 608980 104
+AddPlayer 4692167 2 99
+MergeGroups -2 -1
+AddPlayer 8448750 298 71
+ChangePlayerIDScore 9925655 102
+RemovePlayer 1220913
+AddPlayer 4584431 283 90
+ChangePlayerIDScore 1750233 36
+AddPlayer 5478971 191 144
+ChangePlayerIDScore 1977496 70
+RemovePlayer 4100635
+ChangePlayerIDScore 1066930 3
+MergeGroups -4 42
+RemovePlayer 9632869
+IncreasePlayerIDLevel 7721282 4
+MergeGroups 107 179
+IncreasePlayerIDLevel 1817506 4
+AddPlayer 7475188 270 91
+RemovePlayer 625170
+AddPlayer 9140947 142 88
+RemovePlayer 1659982
+AddPlayer 3063052 20 68
+MergeGroups 211 53
+IncreasePlayerIDLevel 2301965 1
+ChangePlayerIDScore 3547345 140
+ChangePlayerIDScore 4983277 150
+AddPlayer 1704836 75 24
+IncreasePlayerIDLevel 1433382 4
+AddPlayer 4352860 278 119
+RemovePlayer 0
+RemovePlayer 9784621
+MergeGroups 163 171
+IncreasePlayerIDLevel 2681586 1
+RemovePlayer 3406518
+AddPlayer 6577582 268 137
+MergeGroups 272 278
+AddPlayer 4705613 120 50
+IncreasePlayerIDLevel 7076611 2
+RemovePlayer 6827646
+IncreasePlayerIDLevel 5761043 1
+ChangePlayerIDScore -3 230
+IncreasePlayerIDLevel 3214205 4
+ChangePlayerIDScore 3989390 78
+RemovePlayer 1899192
+IncreasePlayerIDLevel 4599970 3
+ChangePlayerIDScore -1 172
+RemovePlayer 4845595
+MergeGroups 325 21
+MergeGroups 42 17
+AddPlayer 7017750 71 110
+AddPlayer 7340827 153 132
+RemovePlayer 3120462
+AddPlayer 3248224 188 51
+AddPlayer 6912824 76 105
+MergeGroups 175 189
+RemovePlayer 0
+RemovePlayer 6448090
+ChangePlayerIDScore 919209 83
+RemovePlayer 2143407
+ChangePlayerIDScore 9886783 13
+ChangePlayerIDScore 4630080 140
+AddPlayer 5195203 52 74
+RemovePlayer 5738558
+IncreasePlayerIDLevel -3 3
+AddPlayer 5308751 148 11
+IncreasePlayerIDLevel 86695 3
+RemovePlayer 6834753
+RemovePlayer 2290231
+MergeGroups 337 11
+MergeGroups 279 38
+MergeGroups 241 189
+ChangePlayerIDScore 3155852 32
+AddPlayer 4936583 57 145
+AddPlayer 3908336 135 116
+MergeGroups 203 288
+RemovePlayer 279812
+MergeGroups 41 194
+RemovePlayer 7998804
+RemovePlayer 2066989
+RemovePlayer -3
+ChangePlayerIDScore 6024089 74
+RemovePlayer 4684692
+AddPlayer 1390795 33 144
+AddPlayer 3430415 166 3
+MergeGroups 48 87
+RemovePlayer 4593996
+MergeGroups 145 152
+RemovePlayer 4870183
+MergeGroups -1 262
+AddPlayer 9985706 184 69
+MergeGroups 364 351
+IncreasePlayerIDLevel 2406938 2
+AddPlayer 5937284 35 77
+AddPlayer 3637281 261 127
+AddPlayer 5428899 6 109
+AddPlayer 5025869 372 -1
+AddPlayer 854279 139 124
+IncreasePlayerIDLevel 7017750 1
+AddPlayer 4097453 202 127
+MergeGroups 85 175
+AddPlayer 4488008 61 56
+AddPlayer 5756489 84 131
+IncreasePlayerIDLevel 1537341 4
+AddPlayer 7264804 68 113
+MergeGroups 276 161
+AddPlayer 9298487 110 141
+AddPlayer 2148318 137 120
+RemovePlayer 6024089
+RemovePlayer 1390795
+RemovePlayer 9584421
+MergeGroups 56 40
+RemovePlayer 4491577
+IncreasePlayerIDLevel 7985951 2
+IncreasePlayerIDLevel 2156353 1
+RemovePlayer 7985951
+AddPlayer 5611250 175 91
+ChangePlayerIDScore 2314328 45
+ChangePlayerIDScore 7304704 6
+RemovePlayer 1324718
+AddPlayer 1250122 118 123
+MergeGroups 179 259
+MergeGroups 371 169
+RemovePlayer 9960323
+RemovePlayer 4378361
+RemovePlayer 4783701
+AddPlayer 9733906 137 50
+AddPlayer 9621216 18 31
+MergeGroups 123 -1
+ChangePlayerIDScore 663920 95
+MergeGroups 195 72
+ChangePlayerIDScore 6596821 5
+RemovePlayer 386781
+MergeGroups 281 207
+RemovePlayer 764441
+MergeGroups 272 268
+RemovePlayer 1513288
+AddPlayer 1142787 219 28
+AddPlayer 2086051 52 16
+MergeGroups 279 216
+IncreasePlayerIDLevel 6679830 4
+AddPlayer 356979 72 39
+AddPlayer 8334412 89 92
+ChangePlayerIDScore 4097453 62
+MergeGroups 331 197
+IncreasePlayerIDLevel 9069982 2
+IncreasePlayerIDLevel 7114442 3
+RemovePlayer 8080020
+AddPlayer 2400056 265 111
+RemovePlayer 5551569
+RemovePlayer 8911865
+MergeGroups -4 -3
+RemovePlayer 5320218
+ChangePlayerIDScore 1212422 66
+IncreasePlayerIDLevel 7304704 3
+RemovePlayer 1765329
+AddPlayer 3447248 243 11
+ChangePlayerIDScore 2656308 116
+AddPlayer 4181978 180 69
+MergeGroups 345 109
+IncreasePlayerIDLevel 7542362 4
+IncreasePlayerIDLevel 3564953 4
+ChangePlayerIDScore 5593301 79
+RemovePlayer 6625177
+IncreasePlayerIDLevel 8188368 3
+ChangePlayerIDScore 7260947 145
+RemovePlayer 4765024
+AddPlayer 1066794 174 118
+AddPlayer 6818250 35 138
+IncreasePlayerIDLevel 6399165 2
+AddPlayer 3237488 86 64
+AddPlayer 6968861 130 23
+AddPlayer 9731898 58 25
+RemovePlayer 105903
+AddPlayer 5188418 107 27
+IncreasePlayerIDLevel -1 3
+ChangePlayerIDScore 6679830 3
+RemovePlayer 8188368
+AddPlayer 8422358 196 107
+IncreasePlayerIDLevel 854279 0
+RemovePlayer 491212
+AddPlayer 3934768 274 131
+RemovePlayer 4743254
+MergeGroups 90 70
+IncreasePlayerIDLevel 9032306 1
+IncreasePlayerIDLevel 626356 -2
+ChangePlayerIDScore 9013150 72
+AddPlayer 953523 47 52
+AddPlayer 9497110 294 72
+MergeGroups 71 143
+RemovePlayer 2723490
+MergeGroups 123 108
+AddPlayer 1786454 255 110
+RemovePlayer 3908336
+AddPlayer 2642107 242 97
+RemovePlayer 2301965
+ChangePlayerIDScore 4327361 16
+AddPlayer -3 -3 240
+IncreasePlayerIDLevel 5261679 4
+AddPlayer 1412305 241 58
+AddPlayer 805248 159 113
+MergeGroups 224 134
+AddPlayer 7337310 163 75
+AddPlayer 5799153 262 128
+AddPlayer 3012106 85 43
+RemovePlayer 7037503
+MergeGroups 206 195
+IncreasePlayerIDLevel 4807064 1
+AddPlayer 560440 257 136
+AddPlayer 4179164 86 101
+AddPlayer 3673120 4 114
+IncreasePlayerIDLevel 6826952 3
+AddPlayer 6001264 26 15
+MergeGroups 108 -3
+ChangePlayerIDScore 8450086 143
+MergeGroups 24 187
+MergeGroups 269 192
+ChangePlayerIDScore 4584431 116
+MergeGroups 214 175
+AddPlayer 3182962 226 33
+IncreasePlayerIDLevel 4487838 1
+AddPlayer 8476089 11 27
+IncreasePlayerIDLevel 36905 4
+MergeGroups 86 94
+RemovePlayer 8623586
+IncreasePlayerIDLevel 4492326 4
+IncreasePlayerIDLevel 746280 1
+ChangePlayerIDScore 4914012 12
+MergeGroups 187 297
+RemovePlayer 3673120
+RemovePlayer 8407522
+IncreasePlayerIDLevel 841145 3
+MergeGroups 79 213
+IncreasePlayerIDLevel 4718978 4
+RemovePlayer 7542362
+RemovePlayer 1003516
+AddPlayer 508692 59 63
+RemovePlayer 8683180
+IncreasePlayerIDLevel 7445745 1
+ChangePlayerIDScore 7977760 28
+RemovePlayer 4944151
+RemovePlayer 748379
+RemovePlayer 2903332
+ChangePlayerIDScore 6928471 100
+RemovePlayer 4936583
+AddPlayer 7815126 196 46
+AddPlayer 6496975 147 55
+MergeGroups 8 112
+RemovePlayer 1358598
+IncreasePlayerIDLevel 2656308 3
+ChangePlayerIDScore 8722989 29
+AddPlayer 5929099 156 76
+IncreasePlayerIDLevel 1610460 2
+RemovePlayer 137066
+ChangePlayerIDScore 1364673 90
+AddPlayer 4399069 166 124
+AddPlayer 7457566 76 89
+MergeGroups 182 -4
+AddPlayer 1669953 137 34
+MergeGroups 280 310
+ChangePlayerIDScore 9304859 106
+AddPlayer 8845177 179 83
+AddPlayer 7943896 45 101
+AddPlayer 6286156 114 140
+RemovePlayer 8242379
+MergeGroups 261 155
+AddPlayer 6008621 249 6
+RemovePlayer 4438404
+RemovePlayer 5856160
+MergeGroups 74 0
+IncreasePlayerIDLevel 5308751 3
+IncreasePlayerIDLevel 2086051 3
+RemovePlayer 1478634
+RemovePlayer -1
+AddPlayer 5727620 292 142
+ChangePlayerIDScore 532850 141
+RemovePlayer 3665806
+RemovePlayer 746280
+MergeGroups 314 333
+AddPlayer 9016155 195 44
+ChangePlayerIDScore 2649251 85
+MergeGroups 141 228
+IncreasePlayerIDLevel 9731898 2
+ChangePlayerIDScore 9416555 141
+IncreasePlayerIDLevel 5237868 2
+IncreasePlayerIDLevel 9938500 1
+RemovePlayer 9502979
+AddPlayer 8149206 234 64
+ChangePlayerIDScore 1928638 79
+ChangePlayerIDScore 3182962 1
+ChangePlayerIDScore 174876 52
+RemovePlayer 491093
+AddPlayer 4728990 171 62
+AddPlayer 5868976 198 124
+RemovePlayer 1341257
+AddPlayer 3437933 116 85
+AddPlayer 3885685 72 29
+RemovePlayer 7191760
+RemovePlayer 1117302
+IncreasePlayerIDLevel 3972866 1
+RemovePlayer 5799153
+AddPlayer 3824207 121 123
+MergeGroups 6 75
+IncreasePlayerIDLevel 465967 3
+AddPlayer 875182 20 148
+AddPlayer 3672358 228 21
+RemovePlayer 3182962
+IncreasePlayerIDLevel 1817506 3
+AddPlayer 2231243 36 138
+AddPlayer 2270156 35 116
+RemovePlayer 1115870
+RemovePlayer 2231243
+AddPlayer 7300514 281 133
+MergeGroups 111 254
+RemovePlayer 9013150
+ChangePlayerIDScore 2256506 109
+RemovePlayer 329035
+ChangePlayerIDScore 4372460 53
+AddPlayer 346723 247 1
+ChangePlayerIDScore 1212422 139
+AddPlayer 2095104 267 87
+AddPlayer 6381218 126 105
+IncreasePlayerIDLevel 1599659 1
+MergeGroups 134 262
+AddPlayer 758701 287 134
+RemovePlayer 6866796
+RemovePlayer 7977760
+AddPlayer 7365990 67 143
+ChangePlayerIDScore 9032306 142
+IncreasePlayerIDLevel 1031489 2
+IncreasePlayerIDLevel 666752 4
+RemovePlayer 4807064
+AddPlayer 7939201 96 137
+AddPlayer 1345959 6 42
+ChangePlayerIDScore 3984387 128
+RemovePlayer 7475188
+RemovePlayer 7338691
+IncreasePlayerIDLevel 6560840 4
+RemovePlayer 2620322
+AddPlayer 9868904 123 133
+MergeGroups 244 37
+AddPlayer 4907050 21 10
+RemovePlayer 3566159
+IncreasePlayerIDLevel 7340827 1
+RemovePlayer 7685892
+AddPlayer 618448 286 87
+MergeGroups 270 285
+IncreasePlayerIDLevel 6807872 3
+AddPlayer 5035590 97 135
+AddPlayer 3213270 6 34
+RemovePlayer 2686098
+RemovePlayer -4
+AddPlayer 1864035 191 107
+IncreasePlayerIDLevel 6963166 3
+MergeGroups 110 202
+RemovePlayer 8109630
+RemovePlayer 2649251
+RemovePlayer 5022401
+MergeGroups 236 94
+IncreasePlayerIDLevel 9733906 1
+ChangePlayerIDScore 6297078 6
+RemovePlayer 3934768
+MergeGroups 108 142
+ChangePlayerIDScore 9467482 46
+AddPlayer 2066250 222 134
+RemovePlayer 440063
+RemovePlayer 4885563
+RemovePlayer 599411
+MergeGroups 121 283
+RemovePlayer 5574324
+IncreasePlayerIDLevel 3441869 2
+RemovePlayer 4372460
+AddPlayer 9218938 98 114
+AddPlayer 3038125 130 36
+AddPlayer 3312226 169 8
+RemovePlayer 8412813
+AddPlayer 3763525 261 48
+ChangePlayerIDScore 6756943 34
+AddPlayer 2960408 81 71
+AddPlayer 1744045 52 107
+RemovePlayer 8516388
+MergeGroups 231 297
+IncreasePlayerIDLevel 7788588 -4
+AddPlayer 2147457 126 59
+AddPlayer 5760234 201 11
+RemovePlayer 8516779
+RemovePlayer 7260947
+ChangePlayerIDScore 3547345 94
+AddPlayer 2858003 19 21
+RemovePlayer -2
+MergeGroups 137 151
+RemovePlayer 6346363
+RemovePlayer 5679895
+AddPlayer 8783001 156 95
+MergeGroups -2 197
+RemovePlayer 7024097
+MergeGroups 208 215
+RemovePlayer 3447248
+ChangePlayerIDScore 1849282 54
+RemovePlayer 5267600
+MergeGroups 54 102
+AddPlayer 1439419 102 126
+RemovePlayer 8151971
+MergeGroups 84 180
+IncreasePlayerIDLevel 3816404 2
+MergeGroups 159 246
+IncreasePlayerIDLevel 9218938 1
+RemovePlayer 2656308
+RemovePlayer 1550488
+MergeGroups -3 195
+AddPlayer 4077742 265 112
+AddPlayer 9106830 279 20
+RemovePlayer 4280835
+AddPlayer 814383 117 16
+AddPlayer 2995497 75 149
+RemovePlayer 8503150
+AddPlayer 2725492 191 16
+IncreasePlayerIDLevel 3991305 4
+RemovePlayer 6803911
+AddPlayer 1913126 266 87
+AddPlayer 5753891 83 137
+AddPlayer 6669107 140 51
+IncreasePlayerIDLevel 7340827 1
+AddPlayer 6442086 166 23
+RemovePlayer 4584431
+RemovePlayer 5245841
+ChangePlayerIDScore 8730935 144
+AddPlayer 1316001 392 -3
+RemovePlayer 7363174
+RemovePlayer 7721282
+AddPlayer 954974 152 100
+MergeGroups 91 152
+MergeGroups 182 243
+AddPlayer 6650289 238 67
+MergeGroups 320 199
+MergeGroups 9 206
+ChangePlayerIDScore 1744045 76
+MergeGroups 69 11
+AddPlayer 6979995 187 126
+ChangePlayerIDScore 2023187 92
+RemovePlayer 8198596
+RemovePlayer 476891
+RemovePlayer 3663038
+ChangePlayerIDScore 5760234 115
+AddPlayer 5248325 52 95
+AddPlayer 638183 99 25
+AddPlayer 5511676 169 109
+RemovePlayer 9298487
+IncreasePlayerIDLevel 3213270 2
+RemovePlayer 5195203
+AddPlayer 7253030 11 149
+AddPlayer 6419003 31 3
+MergeGroups 36 67
+MergeGroups 82 -4
+RemovePlayer 4974062
+AddPlayer 7869056 207 59
+MergeGroups 83 4
+RemovePlayer 2480268
+AddPlayer 8254511 104 103
+ChangePlayerIDScore 8410814 82
+AddPlayer 6395692 50 108
+IncreasePlayerIDLevel 2234342 1
+AddPlayer 7137441 362 0
+ChangePlayerIDScore 5738862 143
+RemovePlayer 4499929
+IncreasePlayerIDLevel 5511676 3
+IncreasePlayerIDLevel 4487838 4
+RemovePlayer 3564953
+ChangePlayerIDScore 8176194 127
+IncreasePlayerIDLevel 6300667 3
+AddPlayer 4225174 18 103
+IncreasePlayerIDLevel 7272584 3
+AddPlayer 6011043 91 60
+IncreasePlayerIDLevel 7918490 4
+RemovePlayer 4441651
+AddPlayer 9815172 154 143
+RemovePlayer 4841147
+IncreasePlayerIDLevel 8877526 1
+MergeGroups 109 290
+IncreasePlayerIDLevel 3467919 4
+IncreasePlayerIDLevel 1913126 2
+ChangePlayerIDScore 8672648 114
+MergeGroups 289 271
+AddPlayer 2647336 121 16
+RemovePlayer 3165438
+MergeGroups 11 158
+ChangePlayerIDScore 9652618 111
+RemovePlayer 3155852
+MergeGroups 275 84
+RemovePlayer 9734603
+RemovePlayer 1439419
+AddPlayer 7918490 298 28
+ChangePlayerIDScore 508692 107
+RemovePlayer 4374869
+IncreasePlayerIDLevel 619209 4
+AddPlayer 2422778 282 147
+RemovePlayer 7971244
+IncreasePlayerIDLevel 1066930 1
+AddPlayer 7462565 335 -3
+AddPlayer 1392944 93 13
+ChangePlayerIDScore 7062664 28
+IncreasePlayerIDLevel 4699285 1
+RemovePlayer 9053976
+MergeGroups 268 145
+IncreasePlayerIDLevel 8654946 3
+ChangePlayerIDScore 1817506 95
+IncreasePlayerIDLevel 3763525 3
+RemovePlayer 7623311
+RemovePlayer 3213270
+ChangePlayerIDScore 3773104 48
+AddPlayer 9136883 155 103
+AddPlayer 5452869 232 53
+AddPlayer 7742799 220 54
+RemovePlayer 7869056
+RemovePlayer 1493155
+MergeGroups 184 389
+IncreasePlayerIDLevel 6286156 3
+IncreasePlayerIDLevel 4063218 3
+AddPlayer 4607861 201 143
+ChangePlayerIDScore 1345959 68
+AddPlayer 2454693 217 62
+AddPlayer 6050368 109 12
+AddPlayer 724533 6 69
+RemovePlayer 4914012
+AddPlayer 8521452 107 13
+IncreasePlayerIDLevel 4966732 2
+RemovePlayer 1644534
+AddPlayer 265164 157 79
+ChangePlayerIDScore 4082496 54
+ChangePlayerIDScore 5248325 66
+AddPlayer 8610945 84 46
+RemovePlayer 954974
+ChangePlayerIDScore 8874689 149
+AddPlayer 3752931 130 98
+AddPlayer 4876785 291 25
+ChangePlayerIDScore 3763525 82
+RemovePlayer 4907050
+IncreasePlayerIDLevel 3904539 1
+MergeGroups 266 209
+AddPlayer 675532 170 68
+AddPlayer 4696824 110 21
+IncreasePlayerIDLevel 2086051 2
+ChangePlayerIDScore 4719151 133
+AddPlayer 4287152 115 82
+IncreasePlayerIDLevel -2 1
+RemovePlayer 8348968
+RemovePlayer 7300514
+RemovePlayer 592328
+AddPlayer 9424804 43 104
+RemovePlayer 6574237
+AddPlayer 7711751 192 125
+AddPlayer 4726574 264 34
+ChangePlayerIDScore -1 243
+AddPlayer 7153426 221 72
+RemovePlayer 5261679
+ChangePlayerIDScore 4708639 85
+RemovePlayer 3909545
+RemovePlayer 5223599
+MergeGroups 82 87
+RemovePlayer 9032306
+AddPlayer 5171463 227 3
+RemovePlayer 4639402
+RemovePlayer 6734723
+AddPlayer 6652262 53 116
+AddPlayer 7334505 121 76
+ChangePlayerIDScore 2095104 63
+RemovePlayer 9925655
+AddPlayer 582147 233 54
+RemovePlayer 3672358
+IncreasePlayerIDLevel 9344509 1
+AddPlayer 4936159 158 49
+IncreasePlayerIDLevel 7229439 4
+AddPlayer 5715582 187 40
+MergeGroups 272 246
+ChangePlayerIDScore 6826952 95
+MergeGroups 358 337
+ChangePlayerIDScore 2854837 121
+RemovePlayer 1371649
+AddPlayer 9639028 218 84
+AddPlayer 9229736 259 108
+RemovePlayer 3513503
+AddPlayer 8349927 151 86
+RemovePlayer 7435405
+RemovePlayer 4169060
+RemovePlayer 5727620
+RemovePlayer 3637281
+RemovePlayer 4699285
+MergeGroups 271 -2
+RemovePlayer 1913126
+AddPlayer 4452113 24 84
+RemovePlayer 3056294
+MergeGroups 157 63
+IncreasePlayerIDLevel 4719151 3
+ChangePlayerIDScore 9652618 94
+IncreasePlayerIDLevel 3444246 1
+RemovePlayer 3003058
+IncreasePlayerIDLevel 1817506 1
+AddPlayer 305364 133 57
+AddPlayer 3928468 54 24
+IncreasePlayerIDLevel 1892913 3
+RemovePlayer 8349927
+AddPlayer 2728441 4 113
+MergeGroups 282 38
+RemovePlayer 6654187
+AddPlayer 9276230 192 49
+RemovePlayer 4244765
+RemovePlayer 1908225
+RemovePlayer 8671114
+AddPlayer 2674893 264 117
+RemovePlayer 8783001
+RemovePlayer 4077742
+AddPlayer 5052570 126 10
+AddPlayer 573208 103 48
+AddPlayer 3759924 270 43
+RemovePlayer 5478971
+RemovePlayer 6947833
+ChangePlayerIDScore 5912996 103
+ChangePlayerIDScore 5070756 4
+AddPlayer 5505911 41 33
+MergeGroups 248 295
+AddPlayer 4058653 14 2
+AddPlayer 6731054 171 93
+MergeGroups 287 -4
+IncreasePlayerIDLevel 2429499 2
+RemovePlayer 6351000
+MergeGroups 127 40
+IncreasePlayerIDLevel 3752931 1
+IncreasePlayerIDLevel 5761043 1
+AddPlayer 7436929 152 25
+IncreasePlayerIDLevel 8083774 3
+AddPlayer 6028695 269 89
+RemovePlayer 7334505
+RemovePlayer 6395692
+ChangePlayerIDScore 2067833 61
+MergeGroups 11 196
+AddPlayer 8555326 116 50
+IncreasePlayerIDLevel 4705432 4
+MergeGroups 37 118
+RemovePlayer 1212422
+AddPlayer 4060714 322 0
+MergeGroups -2 -3
+MergeGroups 117 139
+RemovePlayer 6979995
+RemovePlayer 1066794
+AddPlayer 6016741 179 111
+RemovePlayer 8555326
+RemovePlayer 3717613
+ChangePlayerIDScore 5286200 145
+AddPlayer 6846675 19 103
+AddPlayer 9661065 48 2
+RemovePlayer 586306
+ChangePlayerIDScore 9868904 54
+ChangePlayerIDScore 5548503 17
+RemovePlayer 2642107
+ChangePlayerIDScore 7114442 130
+IncreasePlayerIDLevel 7711751 4
+AddPlayer 304049 86 17
+AddPlayer 2696242 5 16
+IncreasePlayerIDLevel -1 4
+AddPlayer 142277 233 145
+Quit
