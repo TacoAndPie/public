@@ -1,7 +1,4 @@
 #include "system_manager.h"
-#include <iostream>
-using namespace std;
-
 
 SystemManager::SystemManager(int groups_num, int scale) {
     // update all params with given values
@@ -12,14 +9,9 @@ SystemManager::SystemManager(int groups_num, int scale) {
     groups_union = Union<Group*>(num_of_groups);
 
     // create empty node for inserting groups to union
-    UpTreeNode<Group*>* temp_node;
+    UpTreeNode<Group*>* temp_node = new UpTreeNode<Group*>();
     if (!temp_node){
-      std::cout << "bad alloc hehe" << endl;
-      
-      std::cout << temp_node << endl;
-      std::cout << *temp_node << endl;
-
-      //  throw std::bad_alloc();
+        throw std::bad_alloc();
     }
 
     // for each group, create new Group object and insert it to the up_tree node in union array
