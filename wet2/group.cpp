@@ -11,7 +11,7 @@ Group::Group(int new_groupID, int scale) {
     level_0_score_hist = new Histogram(scale);
     non_0_level_players_tree = new RankTree<Player, PlayerRank>();
     if(!players_hash_table || !level_0_players_list || !level_0_score_hist || !non_0_level_players_tree){
-    //    throw std::bad_alloc();
+        throw std::bad_alloc();
     }
 }
 

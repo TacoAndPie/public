@@ -8,7 +8,7 @@ Histogram::Histogram(int new_size){
     size = new_size;
     hist = new int[size];
     if (!hist){
-      //  throw std::bad_alloc();
+        throw std::bad_alloc();
     }
     clearHistogram();
 }
